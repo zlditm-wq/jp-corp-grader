@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>選考基準 - AI企業評価ランキング</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Noto Sans JP', sans-serif; background-color: #121212; color: #e0e0e0; margin: 0; }
+        .header { display: flex; justify-content: space-between; align-items: center; padding: 15px 30px; background-color: rgba(28, 28, 28, 0.8); backdrop-filter: blur(10px); border-bottom: 1px solid #333; position: sticky; top: 0; z-index: 1000; }
+        .site-title a { font-weight: 700; font-size: 20px; color: #e0e0e0; text-decoration: none; }
+        .main-nav { display: flex; align-items: center; gap: 25px; }
+        .nav-link { color: #e0e0e0; text-decoration: none; font-size: 15px; transition: color 0.2s; }
+        .nav-link:hover { color: #007bff; }
+        .lang-switch { display: flex; gap: 5px; font-size: 15px; }
+        .lang-switch span[data-lang] { cursor: pointer; transition: color 0.2s, font-weight 0.2s; }
+        .lang-switch .active { font-weight: 700; color: #fff; }
+        .lang-switch .inactive { color: #888; }
+        .container { max-width: 800px; margin: 40px auto; padding: 20px; background-color: #1e1e1e; border: 1px solid #333; border-radius: 12px; }
+        .page-title { font-size: 2.5em; font-weight: 700; text-align: center; margin-bottom: 40px; border-bottom: 2px solid #007bff; padding-bottom: 10px; }
+        .content-section { margin-bottom: 40px; }
+        .content-section h2 { font-size: 1.8em; font-weight: 700; color: #0099ff; border-left: 4px solid #007bff; padding-left: 15px; margin-bottom: 20px; }
+        .content-section h3 { font-size: 1.4em; font-weight: 700; margin-top: 30px; }
+        .content-section p, .content-section li { font-size: 1.1em; line-height: 1.8; color: #ccc; }
+        .content-section ul { list-style-type: disc; padding-left: 20px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #444; padding: 12px; text-align: left; }
+        th { background-color: #2a2a2a; font-weight: 700; }
+        tr:nth-child(even) { background-color: #252525; }
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <div class="site-title"><a href="./index.html" data-i18n-key="siteTitle"></a></div>
+        <nav class="main-nav">
+            <a href="about.html" class="nav-link" data-i18n-key="navOverview"></a>
+            <a href="index.html#rank-list-start" class="nav-link" data-i18n-key="navResults"></a>
+            <a href="criteria.html" class="nav-link" data-i18n-key="navCriteria"></a>
+            <a href="#" class="nav-link" data-i18n-key="navMenuSearch"></a>
+            <div class="lang-switch">
+                <span data-lang="en" class="inactive">EN</span>
+                <span>/</span>
+                <span data-lang="jp" class="active">JP</span>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container" id="main-content">
+        <!-- Content will be rendered by JavaScript -->
+    </main>
+
+    <script>
+        const translations = { 
+            siteTitle: { jp: '企業ランク研究所', en: 'Company Rank Institute' },
+            navOverview: { jp: '組織概要', en: 'Overview' },
+            navResults: { jp: '選考結果', en: 'Results' },
+            navCriteria: { jp: '選考基準', en: 'Criteria' },
+            navMenuSearch: { jp: 'メニュー検索', en: 'Menu Search' },
+            pageTitle: { jp: '選考基準', en: 'Selection Criteria' },
+            defTitle: { jp: '就職偏差値の定義', en: 'Definition of Job-Hunting Deviation Score' },
+            defText: { jp: '従来の就職情報が企業の知名度や財務状況のみに偏りがちだったのに対し、私たちはAIベースの企業評価モデルを用いて、より多角的で客観的な情報を提供します。<br><br>私たちのサービスにおける<strong>「就職偏差値」</strong>とは、単なる入社の難易度や人気度を示すものではありません。<strong>入社後の働きがい、キャリアパス、そして社会的な評判までを総合的に加味し、「その企業に就職することで、どれだけ充実したビジネスパーソンとしての人生を送れるか」という潜在能力を数値化したものです。</strong><br><br>この評価は、伝統的な統計学的な「偏差値」とは一線を画しますが、膨大な定量・定性データを横断的に分析することで、就職活動を行うすべての人にとって、より良い選択をするための羅針盤となることを目指しています。', en: 'Whereas conventional job information tends to be biased toward only the name recognition and financial status of companies, we use an AI-based corporate evaluation model to provide more multifaceted and objective information.<br><br>The <strong>"Job-Hunting Deviation Score"</strong> in our service does not simply indicate the difficulty of joining a company or its popularity. <strong>It is a numerical representation of the potential for a fulfilling life as a business person by joining that company, comprehensively taking into account post-employment job satisfaction, career path, and social reputation.</strong><br><br>Although this evaluation differs from the traditional statistical "deviation score," by analyzing vast amounts of quantitative and qualitative data across the board, we aim for it to become a compass for everyone engaged in job hunting to make better choices.' },
+            methodTitle: { jp: '評価方法', en: 'Evaluation Method' },
+            methodText: { jp: '公正かつ透明性の高い「就職偏差値」を算出するため、私たちは以下の多段階プロセスを経て評価を決定しています。', en: 'To calculate a fair and highly transparent "Job-Hunting Deviation Score," we determine our evaluations through the following multi-stage process.' },
+            methodStep1: { jp: '<strong>データ評価：</strong> 国内外の公開情報（上場・非上場企業の財務データ、業績、従業員データなど）をAIで数値化し、一次評価を策定します。', en: '<strong>Data Evaluation:</strong> We digitize public information from both domestic and international sources (financial data of listed and unlisted companies, performance, employee data, etc.) with AI to formulate a primary evaluation.' },
+            methodStep2: { jp: '<strong>専門家評価：</strong> 数値データだけでは捉えきれない、企業の社風や不祥事、キャリアパスの柔軟性といった要素について、当社の専門家が評価を補正します。', en: '<strong>Expert Evaluation:</strong> Our experts correct the evaluation for factors that cannot be captured by numerical data alone, such as corporate culture, scandals, and flexibility of career paths.' },
+            methodStep3: { jp: '<strong>意見収集：</strong> 外部の有識者や業界関係者からの意見を幅広く収集し、評価の客観性と精度をさらに高めます。', en: '<strong>Opinion Gathering:</strong> We collect a wide range of opinions from external experts and industry insiders to further enhance the objectivity and accuracy of our evaluations.' },
+            methodStep4: { jp: '<strong>最終決定：</strong> これらすべてのプロセスを経て、最終的な評価を公開します。公開後も社会情勢や新たな情報を基に評価を継続的に見直し、常に最新かつ正確な情報を提供します。', en: '<strong>Final Decision:</strong> After all these processes, we publish the final evaluation. Even after publication, we continuously review the evaluations based on social conditions and new information to always provide the latest and most accurate information.' },
+            neutralityTitle: { jp: '中立性の担保', en: 'Ensuring Neutrality' },
+            neutralityText: { jp: '私たちの企業評価における中立性は、最も重要な価値観です。私はグローバルな信用評価機関での勤務経験を通じて、厳格な評価プロセスと利益相反の回避がいかに重要かを深く理解しています。その経験から、当社の評価モデルは徹底した中立性を確保しています。', en: 'Neutrality in our corporate evaluations is our most important value. Through my work experience at a global credit rating agency, I have a deep understanding of how crucial a rigorous evaluation process and the avoidance of conflicts of interest are. Based on that experience, our evaluation model ensures thorough neutrality.' },
+            neutralityPoint1: { jp: '<strong>利益相反の排除：</strong> 評価対象企業とは一切の取引関係を持たず、採用支援事業にも関与しません。', en: '<strong>Elimination of Conflicts of Interest:</strong> We have no business relationships with the companies we evaluate and are not involved in any recruitment support businesses.' },
+            neutralityPoint2: { jp: '<strong>独立した収益源：</strong> 企業からの評価依頼料ではなく、第三者広告（SSPパートナー経由）を主な収益源とすることで、特定の企業に依存しない独立性を維持しています。', en: '<strong>Independent Revenue Source:</strong> Our main source of revenue is third-party advertising (via SSP partners), not evaluation fees from companies, thereby maintaining independence without relying on specific companies.' },
+            neutralityPoint3: { jp: '<strong>厳格な内部監査：</strong> 評価プロセス全体を内部監査し、いかなる評価の歪みも許さない体制を構築しています。', en: '<strong>Strict Internal Audits:</strong> We internally audit the entire evaluation process and have established a system that does not permit any distortion in evaluations.' },
+            criteriaTitle: { jp: '評価基準と具体的な指標', en: 'Evaluation Criteria and Specific Indicators' },
+            criteriaText: { jp: '私たちの評価モデルは、以下の4つの主要な領域に基づき、総合的に判断されます。各領域の評価は<strong>5段階（5:非常に優れている〜1:改善の余地がある）</strong>のスコアで示されます。', en: 'Our evaluation model is based on the following four main areas for a comprehensive judgment. The evaluation for each area is indicated by a <strong>5-point scale (5: Excellent ~ 1: Needs Improvement)</strong>.' },
+            domain1Title: { jp: '1. 財務的健全性（総合評価の30%）', en: '1. Financial Soundness (30% of Overall Evaluation)' },
+            domain1Text: { jp: '企業の安定性と持続可能性を測る最も重要な指標です。', en: 'This is the most important indicator for measuring a company\'s stability and sustainability.' },
+            domain2Title: { jp: '2. 技術力・将来性（総合評価の20%）', en: '2. Technological Strength & Future Potential (20% of Overall Evaluation)' },
+            domain2Text: { jp: '企業の持続的な成長ポテンシャルを評価します。', en: 'Evaluates a company\'s sustainable growth potential.' },
+            domain3Title: { jp: '3. 社員の満足度（総合評価の35%）', en: '3. Employee Satisfaction (35% of Overall Evaluation)' },
+            domain3Text: { jp: '従業員が実際に感じる働きがいを最もよく反映します。', en: 'This best reflects the actual job satisfaction felt by employees.' },
+            domain4Title: { jp: '4. 社会からの評判（総合評価の15%）', en: '4. Social Reputation (15% of Overall Evaluation)' },
+            domain4Text: { jp: '企業が社会からどの程度信頼されているかを評価します。', en: 'Assesses the degree to which a company is trusted by society.' },
+            tableHeader1: { jp: '評価指標', en: 'Evaluation Metric' },
+            tableHeader2: { jp: '評価基準（例）', en: 'Evaluation Standard (Example)' }
+        };
+
+        function renderContent(lang) {
+            document.querySelectorAll('[data-i18n-key]').forEach(el => {
+                const key = el.dataset.i18nKey;
+                if (translations[key] && translations[key][lang]) {
+                    el.innerHTML = translations[key][lang];
+                }
+            });
+
+            const mainContent = document.getElementById('main-content');
+            mainContent.innerHTML = `
+                <h1 class="page-title" data-i18n-key="pageTitle"></h1>
+                <section class="content-section">
+                    <h2 data-i18n-key="defTitle"></h2>
+                    <p data-i18n-key="defText"></p>
+                </section>
+                <section class="content-section">
+                    <h2 data-i18n-key="methodTitle"></h2>
+                    <p data-i18n-key="methodText"></p>
+                    <ul>
+                        <li data-i18n-key="methodStep1"></li>
+                        <li data-i18n-key="methodStep2"></li>
+                        <li data-i18n-key="methodStep3"></li>
+                        <li data-i18n-key="methodStep4"></li>
+                    </ul>
+                </section>
+                <section class="content-section">
+                    <h2 data-i18n-key="neutralityTitle"></h2>
+                    <p data-i18n-key="neutralityText"></p>
+                    <ul>
+                        <li data-i18n-key="neutralityPoint1"></li>
+                        <li data-i18n-key="neutralityPoint2"></li>
+                        <li data-i18n-key="neutralityPoint3"></li>
+                    </ul>
+                </section>
+                <section class="content-section">
+                    <h2 data-i18n-key="criteriaTitle"></h2>
+                    <p data-i18n-key="criteriaText"></p>
+
+                    <h3 data-i18n-key="domain1Title"></h3>
+                    <p data-i18n-key="domain1Text"></p>
+                    <table>
+                        <thead><tr><th data-i18n-key="tableHeader1"></th><th data-i18n-key="tableHeader2"></th></tr></thead>
+                        <tbody>
+                            <tr><td>収益性</td><td>営業利益率（10%以上：5点、5%〜10%未満：4点など）</td></tr>
+                            <tr><td>成長性</td><td>売上高成長率（直近3年平均10%以上：5点など）</td></tr>
+                            <tr><td>安定性</td><td>自己資本比率（50%以上：5点、30%〜50%未満：4点など）</td></tr>
+                            <tr><td>効率性</td><td>ROA/ROE（業界平均と比較）</td></tr>
+                            <tr><td>非財務</td><td>不祥事リスク（過去5年の不祥事、金融庁からの指摘など）</td></tr>
+                        </tbody>
+                    </table>
+
+                    <h3 data-i18n-key="domain2Title"></h3>
+                    <p data-i18n-key="domain2Text"></p>
+                    <table>
+                        <thead><tr><th data-i18n-key="tableHeader1"></th><th data-i18n-key="tableHeader2"></th></tr></thead>
+                        <tbody>
+                            <tr><td>研究開発</td><td>売上高に対するR&D投資比率（5%以上：5点など）</td></tr>
+                            <tr><td>技術革新</td><td>保有特許数、新技術導入件数（業界平均と比較）</td></tr>
+                            <tr><td>ビジネスモデル</td><td>事業ポートフォリオの多様性（特定事業への依存度）</td></tr>
+                            <tr><td>DX/AI推進</td><td>DX推進体制、AI活用事例の有無</td></tr>
+                        </tbody>
+                    </table>
+
+                    <h3 data-i18n-key="domain3Title"></h3>
+                    <p data-i18n-key="domain3Text"></p>
+                    <table>
+                        <thead><tr><th data-i18n-key="tableHeader1"></th><th data-i18n-key="tableHeader2"></th></tr></thead>
+                        <tbody>
+                            <tr><td>労働環境</td><td>平均残業時間（月20時間以下：5点、20〜40時間：4点など）</td></tr>
+                            <tr><td>福利厚生</td><td>育児・介護休業制度、住宅手当、その他福利厚生</td></tr>
+                            <tr><td>給与水準</td><td>平均年収（同業他社、平均勤続年数と比較）</td></tr>
+                            <tr><td>キャリアパス</td><td>昇進・昇格の透明性、部署異動の柔軟性</td></tr>
+                            <tr><td>社風</td><td>社員レビューのキーワード分析（例：「風通しが良い」が多い：5点）</td></tr>
+                        </tbody>
+                    </table>
+
+                    <h3 data-i18n-key="domain4Title"></h3>
+                    <p data-i18n-key="domain4Text"></p>
+                    <table>
+                        <thead><tr><th data-i18n-key="tableHeader1"></th><th data-i18n-key="tableHeader2"></th></tr></thead>
+                        <tbody>
+                            <tr><td>メディア評価</td><td>メディアでの露出頻度、ニュースの感情分析（ポジティブ/ネガティブ）</td></tr>
+                            <tr><td>専門家評価</td><td>証券アナリストの評価、業界内での評判</td></tr>
+                            <tr><td>ESG活動</td><td>CSR活動、環境・社会貢献への取り組み</td></tr>
+                            <tr><td>ブランドイメージ</td><td>企業知名度、ブランドイメージ調査</td></tr>
+                        </tbody>
+                    </table>
+                </section>
+            `;
+            // After rendering the main structure, translate the table content which is not handled by i18n keys
+            if (lang === 'en') {
+                translateTableContent();
+            }
+        }
+
+        function translateTableContent() {
+            // This is a simplified translation for the table content as it's not in the main translations object.
+            // A more robust solution would fetch this from the object as well.
+            const translations = {
+                '収益性': 'Profitability', '営業利益率（10%以上：5点、5%〜10%未満：4点など）': 'Operating Profit Margin (e.g., >10%: 5 pts, 5-10%: 4 pts)',
+                '成長性': 'Growth', '売上高成長率（直近3年平均10%以上：5点など）': 'Sales Growth Rate (e.g., >10% avg over 3 yrs: 5 pts)',
+                '安定性': 'Stability', '自己資本比率（50%以上：5点、30%〜50%未満：4点など）': 'Equity Ratio (e.g., >50%: 5 pts, 30-50%: 4 pts)',
+                '効率性': 'Efficiency', 'ROA/ROE（業界平均と比較）': 'ROA/ROE (compared to industry average)',
+                '非財務': 'Non-Financial', '不祥事リスク（過去5年の不祥事、金融庁からの指摘など）': 'Scandal Risk (scandals in past 5 yrs, regulatory warnings, etc.)',
+                '研究開発': 'R&D', '売上高に対するR&D投資比率（5%以上：5点など）': 'R&D to Sales Ratio (e.g., >5%: 5 pts)',
+                '技術革新': 'Innovation', '保有特許数、新技術導入件数（業界平均と比較）': 'Number of Patents, New Tech Adoptions (vs. industry avg)',
+                'ビジネスモデル': 'Business Model', '事業ポートフォリオの多様性（特定事業への依存度）': 'Business Portfolio Diversity (dependency on specific sectors)',
+                'DX/AI推進': 'DX/AI Promotion', 'DX推進体制、AI活用事例の有無': 'DX Promotion Structure, AI Use Cases',
+                '労働環境': 'Work Environment', '平均残業時間（月20時間以下：5点、20〜40時間：4点など）': 'Avg. Overtime (e.g., <20h/mo: 5 pts, 20-40h: 4 pts)',
+                '福利厚生': 'Welfare', '育児・介護休業制度、住宅手当、その他福利厚生': 'Child/Care Leave, Housing Allowance, etc.',
+                '給与水準': 'Salary Level', '平均年収（同業他社、平均勤続年数と比較）': 'Avg. Annual Salary (vs. peers, avg. tenure)',
+                'キャリアパス': 'Career Path', '昇進・昇格の透明性、部署異動の柔軟性': 'Promotion Transparency, Transfer Flexibility',
+                '社風': 'Corporate Culture', '社員レビューのキーワード分析（例：「風通しが良い」が多い：5点）': 'Employee Review Keyword Analysis (e.g., many "open atmosphere": 5 pts)',
+                'メディア評価': 'Media Reputation', 'メディアでの露出頻度、ニュースの感情分析（ポジティブ/ネガティブ）': 'Media Exposure, News Sentiment Analysis (Pos/Neg)',
+                '専門家評価': 'Expert Reputation', '証券アナリストの評価、業界内での評判': 'Securities Analyst Ratings, Industry Reputation',
+                'ESG活動': 'ESG Activities', 'CSR活動、環境・社会貢献への取り組み': 'CSR, Environmental & Social Contributions',
+                'ブランドイメージ': 'Brand Image', '企業知名度、ブランドイメージ調査': 'Corporate Recognition, Brand Image Surveys'
+            };
+            document.querySelectorAll('td').forEach(td => {
+                if(translations[td.textContent]) {
+                    td.textContent = translations[td.textContent];
+                }
+            });
+        }
+
+        function setLanguage(lang) {
+            renderContent(lang);
+            document.querySelectorAll('.lang-switch span[data-lang]').forEach(el => {
+                el.classList.toggle('active', el.dataset.lang === lang);
+                el.classList.toggle('inactive', el.dataset.lang !== lang);
+            });
+            localStorage.setItem('preferredLanguage', lang);
+            document.documentElement.lang = lang;
+        }
+
+        function initializeLangSwitch() {
+            document.querySelectorAll('.lang-switch span[data-lang]').forEach(el => {
+                el.addEventListener('click', (e) => {
+                    setLanguage(e.target.dataset.lang);
+                });
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const preferredLanguage = localStorage.getItem('preferredLanguage') || 'jp';
+            initializeLangSwitch();
+            setLanguage(preferredLanguage);
+        });
+    </script>
+
+</body>
+</html>
