@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI企業評価ランキング</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background-color: #f4f4f9; color: #333; margin: 0; padding: 20px; }
+        .container { max-width: 800px; margin: auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        h1 { text-align: center; color: #4a4a4a; }
+        .search-box { width: 100%; padding: 10px; margin-bottom: 20px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; }
+        .rank-tier { margin-bottom: 20px; }
+        .tier-title { padding: 5px 10px; color: white; border-radius: 4px; display: inline-block; margin-bottom: 10px; font-weight: bold; }
+        .tier-ss { background-color: #ffd700; color: #4a4a4a; } /* Gold */
+        .tier-s-plus { background-color: #c0c0c0; } /* Silver */
+        .tier-s { background-color: #cd7f32; } /* Bronze */
+        .company-list { list-style: none; padding: 0; }
+        .company-item { background: #f9f9f9; border: 1px solid #eee; padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; display: block; }
+        .company-item:hover { background-color: #eef; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>就活企業ランキング</h1>
+        <input type="text" id="searchInput" class="search-box" placeholder="企業名で検索...">
+
+        <!-- SSランク -->
+        <div class="rank-tier">
+            <span class="tier-title tier-ss">【SS】</span>
+            <div class="company-list">
+                <span class="company-item" data-name="日本銀行">日本銀行</span>
+                <span class="company-item" data-name="日本政策投資銀行">日本政策投資銀行</span>
+                <span class="company-item" data-name="ゴールドマンサックス">ゴールドマンサックス</span>
+                <span class="company-item" data-name="JPモルガン･チェース">JPモルガン･チェース</span>
+                <span class="company-item" data-name="マッキンゼー&カンパニー">マッキンゼー&カンパニー</span>
+                <span class="company-item" data-name="ボストン･コンサルティング">ボストン･コンサルティング</span>
+                <span class="company-item" data-name="A.T.カーニー">A.T.カーニー</span>
+                <span class="company-item" data-name="フーリハン･ローキー">フーリハン･ローキー</span>
+                <span class="company-item" data-name="KKRジャパン">KKRジャパン</span>
+                <span class="company-item" data-name="BofA証券">BofA証券</span>
+            </div>
+        </div>
+
+        <!-- S+ランク -->
+        <div class="rank-tier">
+            <span class="tier-title tier-s-plus">【S+】</span>
+            <div class="company-list">
+                <span class="company-item" data-name="三菱商事">三菱商事</span>
+                <span class="company-item" data-name="三井物産">三井物産</span>
+                <span class="company-item" data-name="伊藤忠商事">伊藤忠商事</span>
+                <span class="company-item" data-name="みずほFG(GCF)">みずほFG(GCF)</span>
+                <span class="company-item" data-name="野村證券(IB･GM)">野村證券(IB･GM)</span>
+                <span class="company-item" data-name="アクセンチュア(戦略)">アクセンチュア(戦略)</span>
+                <span class="company-item" data-name="アーサーDリトル">アーサーDリトル</span>
+                <span class="company-item" data-name="PwCストラテジー&">PwCストラテジー&</span>
+                <span class="company-item" data-name="M&Aキャピタルパートナーズ">M&Aキャピタルパートナーズ</span>
+                <span class="company-item" data-name="VISA日本">VISA日本</span>
+                <span class="company-item" data-name="ブラックロック日本">ブラックロック日本</span>
+            </div>
+        </div>
+
+        <!-- Sランク -->
+        <div class="rank-tier">
+            <span class="tier-title tier-s">【S】</span>
+            <div class="company-list">
+                 <span class="company-item" data-name="電通">電通</span>
+                 <span class="company-item" data-name="住友商事">住友商事</span>
+                 <span class="company-item" data-name="丸紅">丸紅</span>
+                 <span class="company-item" data-name="三菱地所">三菱地所</span>
+                 <span class="company-item" data-name="三井不動産">三井不動産</span>
+                 <span class="company-item" data-name="フジテレビジョン">フジテレビジョン</span>
+                 <span class="company-item" data-name="日本テレビ放送網">日本テレビ放送網</span>
+                 <span class="company-item" data-name="TBS">TBS</span>
+                 <span class="company-item" data-name="テレビ朝日">テレビ朝日</span>
+                 <span class="company-item" data-name="日本生命(AC)">日本生命(AC)</span>
+                 <span class="company-item" data-name="三菱UFJ銀行(GCIB)">三菱UFJ銀行(GCIB)</span>
+                 <span class="company-item" data-name="三井住友銀行(Global)">三井住友銀行(Global)</span>
+                 <span class="company-item" data-name="SMBC日興証券(NIB)">SMBC日興証券(NIB)</span>
+                 <span class="company-item" data-name="三菱UFJモルガンスタンレー(IB)">三菱UFJモルガンスタンレー(IB)</span>
+                 <span class="company-item" data-name="大和証券(エキスパート)">大和証券(エキスパート)</span>
+                 <span class="company-item" data-name="キーエンス">キーエンス</span>
+                 <span class="company-item" data-name="産業革新投資機構">産業革新投資機構</span>
+                 <span class="company-item" data-name="インテグラル">インテグラル</span>
+                 <span class="company-item" data-name="日本マイクロソフト">日本マイクロソフト</span>
+                 <span class="company-item" data-name="ブルームバーグ">ブルームバーグ</span>
+            </div>
+        </div>
+        
+    </div>
+
+    <script>
+        document.getElementById('searchInput').addEventListener('keyup', function() {
+            let filter = this.value.toUpperCase();
+            let items = document.querySelectorAll('.company-item');
+            
+            items.forEach(function(item) {
+                let name = item.getAttribute('data-name');
+                if (name.toUpperCase().indexOf(filter) > -1) {
+                    item.style.display = "";
+                } else {
+                    item.style.display = "none";
+                }
+            });
+        });
+    </script>
+
+</body>
+</html>
