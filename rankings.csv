@@ -1,1149 +1,1148 @@
-score,company_jp,company_en,Column1
-81,ñ¬éÒï³?Íïåö,Sumitomo Electric Industries,
-80,ìíÜâëŞú¼,Bank of Japan,
-80,ìíÜâïÙóş÷áíÀëŞú¼,Development Bank of Japan,
-80,«´?«ë«É«Ş«ó«µ«Ã«¯«¹,Goldman Sachs,
-80,JP«â«ë«¬«ó?«Á«§?«¹,J.P. Morgan Chase,
-80,«Ş«Ã«­«ó«¼?&«««ó«Ñ«Ë?,McKinsey & Company,
-80,«Ü«¹«È«ó?«³«ó«µ«ë«Æ«£«ó«°,Boston Consulting Group,
-80,A.T.««?«Ë?,A.T. Kearney,
-80,«Õ?«ê«Ï«ó?«í?«­?,Houlihan Lokey,
-80,KKR«¸«ã«Ñ«ó,KKR Japan,
-80,BofA?Ïç,BofA Securities,
-79,ß²×ÔßÂŞÀ,Mitsubishi Corporation,
-79,ß²ïÌÚªß§,Mitsui & Co.,
-79,ì¥Ôöõ÷ßÂŞÀ,ITOCHU Corporation,
-79,ªßªºªÛFG(GCF),Mizuho FG (GCF),
-79,å¯õ½ñûÏç(IB?GM),Nomura Securities (IB/GM),
-79,«¢«¯«»«ó«Á«å«¢(?ÕÔ),Accenture (Strategy),
-79,«¢?«µ?D«ê«È«ë,Arthur D. Little,
-79,PwC«¹«È«é«Æ«¸?&,PwC Strategy&,
-79,M&A«­«ã«Ô«¿«ë«Ñ?«È«Ê?«º,M&A Capital Partners,
-79,VISAìíÜâ,VISA Japan,
-79,«Ö«é«Ã«¯«í«Ã«¯ìíÜâ,BlackRock Japan,
-78,ï³÷×,Dentsu,
-78,ñ¬éÒßÂŞÀ,Sumitomo Corporation,
-78,ü¯ûõ,Marubeni,
-78,ß²×Ôò¢á¶,Mitsubishi Estate,
-78,ß²ïÌÜôÔÑß§,Mitsui Fudosan,
-78,«Õ«¸«Æ«ì«Ó«¸«ç«ó,Fuji Television,
-78,ìíÜâ«Æ«ì«ÓÛ¯áêØÑ,Nippon Television,
-78,TBS,TBS,
-78,«Æ«ì«ÓğÈìí,TV Asahi,
-78,ìíÜâßæÙ¤(AC),Nissay (AC),
-78,ß²×ÔUFJëŞú¼(GCIB),MUFG Bank (GCIB),
-78,ß²ïÌñ¬éÒëŞú¼(Global),SMBC (Global),
-78,SMBCìíıé?Ïç(NIB),SMBC Nikko (NIB),
-78,ß²×ÔUFJ«â«ë«¬«ó«¹«¿«ó«ì?(IB),Mitsubishi UFJ Morgan Stanley (IB),
-78,ÓŞûú?Ïç(«¨«­«¹«Ñ?«È),Daiwa Securities (Expert),
-78,«­?«¨«ó«¹,Keyence,
-78,ß§åöúÔãæ÷áíÀÑ¦Ï°,JIC,
-78,«¤«ó«Æ«°«é«ë,Integral,
-78,ìíÜâ«Ş«¤«¯«í«½«Õ«È,Microsoft Japan,
-78,«Ö«ë?«à«Ğ?«°,Bloomberg,
-77,ÚÏÜÃÓÑDY,Hakuhodo DY,
-77,«Æ«ì«ÓÔÔÌÈ,TV Tokyo,
-77,?à¤«Æ«ì«ÓÛ¯áê,Kansai TV,
-77,Ë»ÓÈŞä,Kodansha,
-77,á³?Î½,Shogakukan,
-77,ó¢çÈŞä,Shueisha,
-77,ìíÜâéèàÏ,NYK Line,
-77,ßÂàÏß²ïÌ,Mitsui O.S.K. Lines,
-77,JAÍì?(AC),JA Kyosai (AC),
-77,ÔÔÌÈú­ß¾ìíÔÑ(SPEC),Tokio Marine & Nichido (SPEC),
-77,ªßªºªÛ?Ïç(GM?CIB),Mizuho Securities (GM/CIB),
-77,ß²×Ô??,Mitsubishi Research Institute,
-77,å¯õ½??(??«³«ó«µ«ë),Nomura Research Institute (Consulting),
-77,«Ò«å?«ê«Ã«¯,Hulic,
-77,ò¢ñ«,JINUSHI,
-77,«¹«È«é«¤«¯,Strike,
-77,«É«ê?«à«¤«ó«­«å«Ù?«¿,Dream Incubator,
-77,ìíÜâ??ãæÚ¤Şä(ÑÀíº),Nikkei (Journalist),
-77,«È«à«½«ó?«í«¤«¿?,Thomson Reuters,
-76,ìíÜâö¢ìÚá¶,Japan Exchange Group,
-76,?ğ·úğÕôëŞú¼,JBIC,
-76,ñ¬éÒÜôÔÑß§,Sumitomo Realty,
-76,ÔÁØã«Æ«ì«Ó,Yomiuri Telecasting,
-76,ß§?ãæÚ¤(ÑÀíº),Sankei Shimbun (Journalist),
-76,?ìíãæÚ¤(ÑÀíº),Mainichi Shimbun (Journalist),
-76,ìòô¸ÓÑ,Nintendo,
-76,ÙşçİõğõÕ,Bungeishunju,
-76,?ğ·úğÕôÑ¦Ï°,JICA,
-76,??ÍìóÜĞñÚï,IGPI,
-76,ìíÜâM&A«»«ó«¿?,Nihon M&A Center,
-76,«¸«ã«Õ«³,JAFCO,
-76,ìíÜâ??«·«¹«Æ«à,Japan Management Systems,
-76,«³?«İ«ì?«È«Ç«£«ì«¯«·«ç«ó,Corporate Directions,
-76,å¯õ½«¢«»«Ã«È«Ş«Í«¸«á«ó«È,Nomura Asset Management,
-76,Apple«¸«ã«Ñ«ó,Apple Japan,
-76,ìíÜâ«³««?«³?«é,Coca-Cola Japan,
-76,CiscoìíÜâ,Cisco Japan,
-76,Salesforce«¸«ã«Ñ«ó,Salesforce Japan,
-76,NetflixìíÜâ,Netflix Japan,
-75,«È«è«¿í»ÔÑó³,Toyota Motor,
-75,«½«Ë?,Sony,
-75,ÔÔÌÈ«¨«ì«¯«È«í«ó,Tokyo Electron,
-75,«ì?«¶?«Æ«Ã«¯,Lasertec,
-75,INPEX,INPEX,
-75,«Æ«ì«ÓÓŞø¡,TV Osaka,
-75,KDDI¡è,KDDI¡è,
-75,ñéİ»ìíÜâÛ¯áê,CBC,
-75,Ùëï£?ù¡Íïåö,Takeda Pharmaceutical,
-75,ñéèâğ²?,Chugai Pharmaceutical,
-75,ğ¯ìéß²Íì,Daiichi Sankyo,
-75,å¯õ½?ùê?Ï¼á¶(?ùêòÅ),Nomura Research Institute (General),
-75,ß²×ÔUFJ«ê«µ?«Á£¦«³«ó«µ«ë«Æ«£«ó«°,Mitsubishi UFJ Research & Consulting,
-75,ß²ïÌñ¬éÒú­ß¾(Spec),Mitsui Sumitomo Insurance (Spec),
-75,ìíıé«¢«»«Ã«È«Ş«Í«¸«á«ó«È,Nikko Asset Management,
-75,«¢«»«Ã«È«Ş«Í«¸«á«ó«ÈOne,Asset Management One,
-75,ß²ïÌñ¬éÒDS«¢«»«Ã«È«Ş«Í«¸«á«ó«È,Sumitomo Mitsui DS Asset Management,
-75,ÒÜ×ùñéÑÑ¡é,Norinchukin Bank¡é,
-75,Amazon«¸«ã«Ñ«ó(?ùêòÅ),Amazon Japan (General),
-75,AWS«¸«ã«Ñ«ó,AWS Japan,
-75,ìíÜâ«ª«é«¯«ë,Oracle Japan,
-75,SAP«¸«ã«Ñ«ó,SAP Japan,
-75,Intel«¸«ã«Ñ«ó¡é,Intel Japan¡é,
-74,JRÔÔú­,JR Central,
-74,«Õ«¡«Ê«Ã«¯,FANUC,
-74,«Ç«£«¹«³,DISCO,
-74,ù¥ï£÷×ßÂ,Toyota Tsusho,
-74,?ìí,Sojitz,
-74,ì¥Ôöõ÷ü¯ûõ?Ë¼¡è,ITOCHU-MARUBENI Steel Inc.¡è,
-74,ENEOS,ENEOS,
-74,«ê«¯«ë?«È,Recruit,
-74,«µ«ó«È«ê?,Suntory,
-74,ÔÔÌÈ«¬«¹,Tokyo Gas,
-74,ÔÔÌÈú­ß¾ìíÔÑ,Tokio Marine & Nichido,
-74,«¢«¹«Æ«é«¹ğ²?,Astellas Pharma,
-74,«¨?«¶«¤,Eisai,
-74,Ú«ªÎáÈ,Ajinomoto,
-74,ÍìÔÒ÷×ãáŞä,Kyodo News,
-74,ÔÔĞáÜôÔÑß§,Tokyu Land Corporation,
-74,å¯õ½ÜôÔÑß§,Nomura Real Estate,
-74,ßµ«Ó«ë,Mori Building,
-74,«¸«ã«¹«È«·«¹«Æ«à,JustSystems,
-74,«×«ê«Õ«¡?«É«Í«Ã«È«ï?«¯«¹¡è,Preferred Networks¡è,
-74,P&G«¸«ã«Ñ«ó,P&G Japan,
-74,«æ«Ë«ê?«Ğ«¸«ã«Ñ«ó,Unilever Japan,
-74,«Ü?«¤«ó«°ìíÜâ,Boeing Japan,
-73,ìíÜâï³ãáï³ü¥,NTT,
-73,NTT«É«³«â,NTT Docomo,
-73,ìíÜâğ²?¡é,Nippon Steel¡é,
-73,ìíß§í»ÔÑó³,Nissan Motor,
-73,Üâï£Ğü?Íïåö,Honda Motor,
-73,ß²×ÔñìÍïåö,Mitsubishi Heavy Industries,
-73,ìíØ¡ğ²íÂá¶,Hitachi,
-73,ìíıÆ,JGC,
-73,«¢«µ«Ò,Asahi,
-73,õóÎÃıéß§,Idemitsu Kosan,
-73,ãáêÆûù?Íïåö,Shin-Etsu Chemical,
-73,İ£ŞÍ«Õ«¤«ë«à,FUJIFILM,
-73,ÔÔÌÈËïÚª,Tokyo Tatemono,
-73,ô¹ĞøÑ©àÏ,K-Line,
-73,ìíÜâª¿ªĞª³ß§åö,Japan Tobacco,
-73,áßÜÁ«¸«ã«Ñ«ó(«¸«ç«Öúş),Sompo Japan (Job-based),
-73,ªêª½ªÊëŞú¼(AC?«¢«»«Ş«Í),Resona Bank (AC/AM),
-73,?å¯ëùğ²?,Shionogi,
-73,á³å¯?ù¡Íïåö,Ono Pharmaceutical,
-73,úğûú«­«ê«ó,Kyowa Kirin,
-73,«Õ«í«ó«Æ«£«¢?«Ş«Í«¸«á«ó«È,Frontier Management,
-73,«Í«¹«ììíÜâ,Nestle Japan,
-72,?à¤ï³Õô,Kansai Electric Power,
-72,ñéİ»ï³Õô,Chubu Electric Power,
-72,ß²×Ô«±«ß«««ë,Mitsubishi Chemical,
-72,«Ç«ó«½?,DENSO,
-72,ÓŞø¡«¬«¹,Osaka Gas,
-72,à´êúíÀê¹ËÒ?,JAPEX,
-72,«­«ê«ó,Kirin,
-72,«µ«ó«È«ê?ãİù¡«¤«ó«¿?«Ê«·«ç«Ê«ë,Suntory Beverage & Food,
-72,ÖãÓöËïàâ,Kajima Corporation,
-72,ÓŞ×ùğÚ,Obayashi Corporation,
-72,JRÔÔìíÜâ,JR East,
-72,ø¡Ğáø¡ãêHD,Hankyu Hanshin HD,
-72,ßµ«È«é«¹«È,Mori Trust,
-72,«¢«É«Ğ«ó«Æ«¹«È,Advantest,
-72,ADK,ADK,
-72,ÔÔ?,Toho,
-72,ï³÷×??,Dentsu Soken,
-72,«¢«¯«»«ó«Á«å«¢,Accenture,
-72,«Ç«í«¤«È«È?«Ş«Ä,Deloitte Tohmatsu,
-72,KPMG«³«ó«µ«ë«Æ«£«ó«°,KPMG Consulting,
-72,PwC«³«ó«µ«ë«Æ«£«ó«°,PwC Consulting,
-71,ìíÜâßæÙ¤,Nippon Life Insurance,
-71,ß²ïÌñ¬éÒãáöş,Sumitomo Mitsui Trust Bank,
-71,ß²×ÔUFJãáöş¡è,Mitsubishi UFJ Trust and Banking¡è,
-71,ü£èİ,Kao,
-71,ñ¬éÒûù?,Sumitomo Chemical,
-71,îİâ©ûù?Íïåö,Sekisui Chemical,
-71,AGC,AGC,
-71,Úùå¯ú­ê¡,Iino Lines,
-71,?â©Ëïàâ,Shimizu Corporation,
-71,ñÓñéÍïÙâïÁ,Takenaka Corporation,
-71,ÓŞà÷Ëïàâ,Taisei Corporation,
-71,ô¶ÓÛï£ûùÍïËïàâ,Chiyoda Corporation,
-71,äÛÍÛß§åö,Iwatani Corporation,
-71,íş?ß§åö,Nagase & Co.,
-71,«á«¿«ë«ï«ó,Metal One,
-71,ì¥Ôöõ÷«¨«Í«¯«¹,ITOCHU ENEX,
-71,JFE«¹«Á?«ë,JFE Steel,
-71,ÔÔç±,Toei,
-71,«ä«Ş«Ï¡é,Yamaha¡é,
-71,WOWOW,WOWOW,
-71,«·«°«Ş«¯«·«¹,SIGMAXYZ,
-71,«ª?«Ó«Ã«¯,OBIC,
-71,??ßöêÂ,Igaku-Shoin,
-71,ÜØëåÎ½ßöïÁ,Fukuinkan Shoten,
-71,ìíÜâIBM,IBM Japan,
-71,«À«¦?«±«ß«««ëìíÜâ,Dow Chemical Japan,
-70,ß²×ÔUFJëŞú¼(OP),MUFG Bank (OP),
-70,ìíÜâ?ÏçÑÑë×,Japan Securities Finance,
-70,«ª«ê«Ã«¯«¹,ORIX,
-70,ÔÔÌÈï³Õô,TEPCO,
-70,ÔÔİÁï³Õô,Tohoku Electric Power,
-70,JERA¡è,JERA¡è,
-70,ß²ïÌûù?,Mitsui Chemicals,
-70,ìí?ğ²İÏ,Nisshin Seifun,
-70,ÔÔĞá,Tokyu Corporation,
-70,øÁûúÜôÔÑß§,Heiwa Real Estate,
-70,«À«¤«Ó«ë,Daibiru,
-70,NTTÔ´ã¼ËÒ?,NTT Urban Development,
-70,«³«Ş«Ä,Komatsu,
-70,ª¤ªÁª´,Ichigo,
-70,ß²×Ô«¬«¹ûù?,Mitsubishi Gas Chemical,
-70,ñ¬éÒ×ùåö,Sumitomo Forestry,
-70,ÓŞûú«Ï«¦«¹Íïåö,Daiwa House Industry,
-70,«æ«Ë?«Á«ã?«à,Unicharm,
-70,«ª«ê«ó«Ñ«¹,Olympus,
-70,?ùÁï³Ñ¦,Yokogawa Electric,
-70,ÓŞõÀğ²?,Otsuka Pharmaceutical,
-70,ø¡ûúıéåö,Hanwa,
-70,ÌÂáæ,Kanematsu,
-70,ìí?Úªß§,Nittetsu Bussan,
-70,?ï¥ß§åö,Inabata & Co.,
-70,ÔÔÌÈ?ûùÍïåö,Tokyo Ohka Kogyo,
-70,NTT«Ç?«¿,NTT DATA,
-70,İ£ŞÍ÷×¡è,Fujitsu¡è,
-70,SCREEN,SCREEN,
-70,«Ğ«ó«À«¤«Ê«à«³,Bandai Namco,
-70,KADOKAWA,KADOKAWA,
-70,ß²ïÌú­åÇËÒ?,MODEC,
-70,ÓŞ?Şä,Taikisha,
-70,3M«¸«ã«Ñ«ó,3M Japan,
-70,LVMH«¸«ã«Ñ«ó,LVMH Japan,
-70,«¢«á«Ã«¯«¹ìíÜâ,American Express Japan,
-69,ìíÜâéèïÙ(?ùêòÅ),Japan Post (General),
-69,ãáÑÑñéäçÑÑÍ·,Shinkin Central Bank,
-69,Îúñ¶ï³Õô,Kyushu Electric Power,
-69,ï³ê¹ËÒ?,J-POWER,
-69,«Ñ«Ê«½«Ë«Ã«¯,Panasonic,
-69,NTTÔÔìíÜâ,NTT East,
-69,NTTà¤ìíÜâ,NTT West,
-69,âÏÔ´ÍÔáÜÔ³ÖØ,Metropolitan Expressway,
-69,«µ«¤«Ğ?«¨?«¸«§«ó«È,CyberAgent,
-69,«­«ä«Î«ó,Canon,
-69,ï£?ß²×Ôğ²?,Mitsubishi Tanabe Pharma,
-69,Ù¥ö½,Meiji,
-69,«ä«¯«ë«ÈÜâŞä,Yakult Honsha,
-69,ìí?ãİù¡,Nissin Food Products,
-69,«¯«Ü«¿,Kubota,
-69,ù¥ï£í»ÔÑòÄÑ¦¡é,Toyota Industries¡é,
-69,«Ö«ê«Â«¹«È«ó,Bridgestone,
-69,ÔÔĞáï³?,Tokyu Railways,
-69,«Õ«¡?«¹«È«ê«Æ«¤«ê«ó«°(Global),Fast Retailing (Global),
-69,ÌÈø¡ãê«Ó«ë«Ç«£«ó«°,Keihanshin Building,
-69,ñ¬éÒÑÑ??ß£,Sumitomo Metal Mining,
-69,«À«¤«À«ó,Daidan,
-69,ÔÔÌÈ«á«È«í,Tokyo Metro,
-69,á³ï£Ğáï³?,Odakyu Electric Railway,
-69,ÔÔÙë?Ô³,Tobu Railway,
-69,ÌÈà÷ï³?,Keisei Electric Railway,
-69,ß²×ÔóÚÍ·¡è,Mitsubishi Logistics¡è,
-69,«µ«ó«ê«ª,Sanrio,
-69,«¢«·«Ã«¯«¹¡è,ASICS¡è,
-69,ñ¬éÒ«Õ«¡?«Ş¡é,Sumitomo Pharma¡é,
-69,ì¥Ôöõ÷«Æ«¯«Î«½«ê«å?«·«ç«ó«º¡è,ITOCHU Techno-Solutions¡è,
-69,ìíÜâ??¡è,Japan Research Institute¡è,
-69,«Ù«¤«««ì«ó«È(«³«ó«µ«ë)¡è,BayCurrent Consulting¡è,
-69,«¢«Ó?«à«³«ó«µ«ë«Æ«£«ó«°¡è,ABeam Consulting¡è,
-68,ß²ïÌñ¬éÒëŞú¼(OP),SMBC (OP),
-68,ğ¯ìéßæÙ¤,Dai-ichi Life,
-68,Ù¥ö½äÌï£ßæÙ¤,Meiji Yasuda Life,
-68,ñ¬éÒßæÙ¤,Sumitomo Life,
-68,ìíÜâïÙóşÑÑë×ÍëÍ·,JFC,
-68,Ëªß²?Ïç(İ»Ú¦Ü¬),Okasan Securities (Departmental),
-68,ÔÔú­ÔÔÌÈ?Ïç(İ»Ú¦Ü¬),Tokai Tokyo Securities (Departmental),
-68,ß²ïÌñ¬éÒú­ß¾,Mitsui Sumitomo Insurance,
-68,NEC,NEC,
-68,õ½ï£ğ²íÂá¶,Murata Manufacturing,
-68,ß²×Ôï³Ñ¦,Mitsubishi Electric,
-68,ñ¬éÒï³Íï,Sumitomo Electric,
-68,ÔÔ«ì,Toray,
-68,«·«Ş«Î¡é,Shimano¡é,
-68,JXÑÑ?,JX Nippon Mining & Metals,
-68,îİâ©«Ï«¦«¹,Sekisui House,
-68,«³«¹«â«¨«Í«ë«®?,Cosmo Energy,
-68,áæñÓ,Shochiku,
-68,IHI,IHI,
-68,Ë°Ğø«°«ê«³,Ezaki Glico,
-68,ìíÜâ«Ï«à,Nipponham,
-68,«­«Ã«³?«Ş«ó,Kikkoman,
-68,«á«ë«««ê,Mercari,
-68,JAL(?ùêòÅ)¡è,JAL (General)¡è,
-68,ONE,ONE,
-68,NS«æ«Ê«¤«Æ«Ã«Éú­ê¡,NS United Kaiun,
-68,ß²ïÌñ¬éÒ«Õ«¡«¤«Ê«ó«¹£¦«ê?«¹,Sumitomo Mitsui Finance and Leasing,
-68,ß²×ÔHC«­«ã«Ô«¿«ë,Mitsubishi HC Capital,
-68,ÔÔÌÈ«»«ó«Á«å«ê?,Tokyo Century,
-68,İ³éÈ?ùê«ê?«¹,Fuyo General Lease,
-68,Û×ÔÔ,Hakuto,
-68,JRA¡é,JRA¡é,
-68,ÓŞø¡«á«È«í,Osaka Metro,
-68,ÌÈèİï³?,Keio Corporation,
-68,ø¡ãêÍÔáÜÔ³ÖØ,Hanshin Expressway,
-68,Ï°ğãÍª??Ï¼á¶,Kozo Keikaku Engineering,
-68,GE«¸«ã«Ñ«ó,GE Japan,
-68,«Æ«¹«é«¸«ã«Ñ«ó,Tesla Japan,
-68,«á«ë«»«Ç«¹«Ù«ó«ÄìíÜâ,Mercedes-Benz Japan,
-68,«Ü«Ã«·«åìíÜâ,Bosch Japan,
-67,å¯õ½ñûÏç(OP),Nomura Securities (OP),
-67,ß²ïÌñ¬éÒ««?«É,Sumitomo Mitsui Card,
-67,«È?«¢î¢ÜÁ?,Toa Reinsurance,
-67,ÔÔò¹,Toshiba,
-67,íÀßæÓÑ¡é,Shiseido¡é,
-67,ÓöòĞğ²íÂá¶,Shimadzu Corporation,
-67,SMC,SMC,
-67,«Ò«í«»ï³Ñ¦,Hirose Electric,
-67,ìíÜâÎÃï³,Nihon Kohden,
-67,TDK,TDK,
-67,«ª«à«í«ó,OMRON,
-67,«À«¤«­«ó,Daikin,
-67,«ï«³«à,Wacom,
-67,«í?«à¡è,ROHM¡è,
-67,ñ¬éÒñìÑ¦ÌşÍïåö,Sumitomo Heavy Industries,
-67,éïûùà÷,Asahi Kasei,
-67,ßµçµğ²Î¢,Morinaga & Co.,
-67,ßµçµêáåö¡è,Morinaga Milk Industry¡è,
-67,«««´«á¡è,Kagome¡è,
-67,ìíß§ûù?,Nissan Chemical,
-67,DMGßµïñÑ¦,DMG Mori,
-67,«¢«ë«³«Ë«Ã«¯«¹¡é,Alconix¡é,
-67,ËªÍÛË¼Ñ¦,Okaya & Co.,
-67,ïÊ×â,Chori,
-67,×Êï£Íïåö,Kurita Water Industries,
-67,ìûê«ğ²íÂá¶¡è,Ebara Corporation¡è,
-67,«ª«ë«¬«Î,Organo,
-67,ÔÔåÇ«¨«ó«¸ì£«¢«ê«ó«°¡é,Toyo Engineering¡é,
-67,«·«¹«á«Ã«¯«¹,Sysmex,
-67,ñé?ï³Õô,Chugoku Electric Power,
-67,ÔÔ?ËïàâÍïåö,Toa Corporation,
-67,JSR,JSR,
-67,«½«Õ«È«Ğ«ó«¯,SoftBank,
-67,NTT«³«à¡é,NTT Com¡é,
-67,?ô¸ğ²?¡è,Santen Pharmaceutical¡è,
-67,«¨«à«¹«ê?,M3, Inc.
-67,«Ş«¯«Ë««,Macnica,
-67,ãêË¼ßÂŞÀ¡è,Shinsho Corporation¡è,
-67,«Ù«Í«Ã«»¡é,Benesse¡é,
-67,«È?«á«ó«Ç«Ğ«¤«¹,Tomen Devices,
-67,íşÍÛÍï¡è,Haseko¡è,
-67,ìí?«½«ê«å?«·«ç«ó«º,NS Solutions,
-67,«Õ«¸«ß«¤«ó«³?«İ«ì?«Æ«Ã«É,Fujimi Incorporated,
-67,NEXCOÔÔìíÜâ,NEXCO East,
-67,NEXCOñéìíÜâ,NEXCO Central,
-67,NEXCOà¤ìíÜâ,NEXCO West,
-67,à÷ï£?ğ·Íöùû,Narita International Airport,
-67,ãæ?à¤?ğ·Íöùû,New Kansai International Airport,
-67,ìíÜâHP¡è,HP Japan¡è,
-67,ìíÜâ«í«ì«¢«ë¡è,L'Or?al Japan¡è,
-66,ªßªºªÛFG(OP),Mizuho FG (OP),
-66,ª¢ªªª¾ªéëŞú¼¡é,Aozora Bank¡é,
-66,ßÂÍïñéÑÑ(?ùêòÅ),Shoko Chukin Bank (General),
-66,ÓŞûú?Ïç(OP),Daiwa Securities (OP),
-66,ß²×ÔUFJ«â«ë«¬«ó«¹«¿«ó«ì?(OP),Mitsubishi UFJ Morgan Stanley (OP),
-66,ªßªºªÛ?Ïç(OP),Mizuho Securities (OP),
-66,áæïÌ?Ïç,Matsui Securities,
-66,áßÜÁ«¸«ã«Ñ«ó(OP),Sompo Japan (OP),
-66,ªßªºªÛ«ê?«¹,Mizuho Lees,
-66,ª¤ª¹?í»ÔÑó³,Isuzu Motors,
-66,«Ë«³«ó,Nikon,
-66,«««·«ªÍªß©Ñ¦,Casio Computer,
-66,«ä«Ş«Ï?ÔÑÑ¦,Yamaha Motor,
-66,İ£ŞÍï³Ñ¦,Fuji Electric,
-66,ô¹ĞøñìÍï,Kawasaki Heavy Industries,
-66,«»«¤«³?«¨«×«½«ó,Seiko Epson,
-66,ª­ªóªÇªó,Kinden,
-66,İÁú­Ô³ï³Õô,Hokkaido Electric Power,
-66,DNP,DNP,
-66,ôÈ÷úìÔáì,Toppan Printing,
-66,KOKUSAI,KOKUSAI ELECTRIC,
-66,«¹«¿?ïñÚË,Star Micronics,
-66,«½«·«ª«Í«¯«¹«È,Socionext,
-66,«­«ª«¯«·«¢,Kioxia,
-66,ñ¬éÒ«Ù?«¯«é«¤«È,Sumitomo Bakelite,
-66,JRà¤ìíÜâ,JR West,
-66,ĞÎÑ²ìíÜâ?Ô³,Kintetsu Railway,
-66,Ù£Í¯è©?Ô³,Meitetsu,
-66,ÌÈĞáï³?,Keikyu Corporation,
-66,Íì?«¿«ó««?¡é,Kyoei Tanker¡é,
-66,«Ç«¯«»«ê«¢«ë«º,Dexerials,
-66,«Æ«ë«â,Terumo,
-66,HOYA¡é,HOYA¡é,
-66,ìíÔÔï³Íï,Nitto Denko,
-66,ÔÔİÁãæŞä,Tohokushinsha,
-66,«¨«¤«Ù«Ã«¯«¹,Avex,
-66,«ê«³?,Ricoh,
-66,äÌô¹ï³Ñ¦,Yaskawa Electric,
-66,«µ«Ã«İ«í«Ó?«ë,Sapporo Breweries,
-66,«ª«ê«¨«ó«¿«ë«é«ó«É,Oriental Land,
-66,ìíÜâÍï?,Nippon Koei,
-66,«Ä«à«é,Tsumura,
-66,ìíØ¡«³«ó«µ«ë«Æ«£«ó«°,Hitachi Consulting,
-66,«È«ì«ó«É«Ş«¤«¯«í,Trend Micro,
-66,ß£ï£«³«ó«µ«ë«Æ«£«ó«°¡è,Yamada Consulting¡è,
-65,ªêª½ªÊëŞú¼(OP),Resona Bank (OP),
-65,ãæßæëŞú¼,Shinsei Bank,
-65,SMBCìíıé?Ïç(OP),SMBC Nikko Securities (OP),
-65,İÁ×Áï³Õô,Hokuriku Electric Power,
-65,ŞÌ?ï³Õô,Shikoku Electric Power,
-65,SUBARU,SUBARU,
-65,«Ş«Ä«À,Mazda,
-65,ß²×Ôí»ÔÑó³¡è,Mitsubishi Motors¡è,
-65,«È«è«¿ó³?,Toyota Auto Body,
-65,ìíÜâ«¬«¤«·,NGK Insulators,
-65,ÌÈ«»«é,Kyocera,
-65,«ì«¾«Ê«Ã«¯,Resonac,
-65,ãê?ğ²Ë¼á¶,Kobe Steel,
-65,ğ¨ìÑ,Teijin,
-65,?ï³Íï,Kandenko,
-65,«¿«««é«È«ß?,Takara Tomy,
-65,«³?«»?,KOS?,
-65,ìíØ¡ËïÑ¦,Hitachi Construction Machinery,
-65,«À«¤«Õ«¯,Daifuku,
-65,ß²ïÌÑÑ??åö,Mitsui Mining & Smelting,
-65,ìíÜâ?ØÚ,Nippon Shokubai,
-65,«í?«Èğ²?,Rohto Pharmaceutical,
-65,TOTO,TOTO,
-65,ß²×Ô«Ş«Æ«ê«¢«ë,Mitsubishi Materials,
-65,?à¤«Ú«¤«ó«È,Kansai Paint,
-65,«¯«é«ì,Kuraray,
-65,«««Í««¡è,Kaneka¡è,
-65,«¢«º«Ó«ë,Azbil,
-65,ìíÜâ«Ú«¤«ó«È,Nippon Paint,
-65,DIC,DIC,
-65,«¯«ì«Ï,Kureha,
-65,UBE,UBE,
-65,«¢«ë«Ğ«Ã«¯,ULVAC,
-65,ò¹øİ«á«««È«í«Ë«¯«¹,Shibaura Mechatronics,
-65,ÔÔ«½?,Tosoh,
-65,«á«¿«¦«©?«¿?,METAWATER,
-65,«««ë«Ó?,Calbee,
-65,BR«µ?«Æ«£«ï«ó¡è,B-R 31 ICE CREAM¡è,
-65,«À«¤«»«ë,Daicel,
-65,ANA(?ùêòÅ),ANA (General) ,
-65,LINE«ä«Õ?,LINE Yahoo,
-65,DeNA,DeNA,
-65,«°«ê?,GREE,
-65,«³«¯«è¡è,KOKUYO¡è,
-65,ß²×Ôæçù¶¡è,Mitsubishi Pencil¡è,
-65,JCB,JCB,
-65,úº×ùğ²?,Kyorin Pharmaceutical,
-65,ò¥ï£ğ²?,Mochida Pharmaceutical,
-65,ÓŞõÀßÂ?¡è,Otsuka Corporation¡è,
-65,JRÎúñ¶,JR Kyushu,
-65,ß²×ÔUFJ«Ë«³«¹,Mitsubishi UFJ Nicos,
-65,ê¨ÍÛğÚ,Kumagai Gumi,
-65,?ËïËïàâ,Tekken Corporation,
-64,ªæª¦ªÁªçëŞú¼(?ùêòÅ),Japan Post Bank (General),
-64,ª¢ª¤ªªª¤«Ë«Ã«»«¤ÔÒûú,Aioi Nissay Dowa Insurance,
-64,«¹«º«­,Suzuki,
-64,ìíß§ó³?,Nissan Shatai,
-64,«¢«¤«·«ó,AISIN,
-64,ìíÜâ÷åâ¨Ô¶åö¡è,NGK Spark Plug¡è,
-64,ñ¬éÒ«´«àÍïåö,Sumitomo Rubber Industries,
-64,?Ş³«´«à,Yokohama Rubber,
-64,GS«æ«¢«µ,GS Yuasa,
-64,ÔÔÛÀ«¬«¹,Toho Gas,
-64,àäìÔ«á«°«ß«ë«¯,Megmilk Snow Brand,
-64,«Ï«¦«¹ãİù¡,House Foods,
-64,ì¥Ôö«Ï«à,Itoham,
-64,«Ë«Ã«×«ó,NIPPN,
-64,«Ë«Ã«¹«¤,Nissui,
-64,«Ş«ë«Ï«Ë«Á«í,Maruha Nichiro,
-64,«³«Ë«««ß«Î«ë«¿,Konica Minolta,
-64,ìí?«ª«¤«ê«ª,Nisshin OilliO,
-64,Üôì£ğ²êú,Fuji Oil,
-64,ìíêú,NOF Corporation,
-64,ÔÔò¹«Æ«Ã«¯,Toshiba TEC,
-64,õøï³?Íïåö,OKI,
-64,ìíÜâï³í­,JEOL,
-64,«Õ«¸«¯«é,Fujikura,
-64,«¤«Ó«Ç«ó,Ibiden,
-64,«ë«Í«µ«¹«¨«ì«¯«È«í«Ë«¯«¹¡é,Renesas Electronics¡é,
-64,MARUWA,MARUWA,
-64,å¯õ½«Ş«¤«¯«í«µ«¤«¨«ó«¹,Nomura Micro Science,
-64,ìíÜâ«³«à«·«¹,Nippon Comsys,
-64,«ä«ó«Ş?,Yanmar,
-64,ìíÜâğÇÓ¹,Nippon Soda,
-64,«é«¤«ª«ó,Lion,
-64,İ£ŞÍà´êú,Fuji Oil Company,
-64,Í¯ùÁÑ¦ÌşÑÑ?¡é,Furukawa Co.¡é,
-64,ìíÜâ«¼«ª«ó,Zeon Corporation,
-64,ADEKA,ADEKA,
-64,Ù¥ö½ú­ê¡,Meiji Shipping,
-64,ß²ïÌóÚÍ·¡è,Mitsui-Soko¡è,
-64,«¦«·«ªï³Ñ¦,Ushio Inc.,
-64,Ù¥ï³?,Meidensha,
-64,DOWA,DOWA,
-64,ìíÜâê«ï³,JAPC,
-64,ÔÔĞáËïàâ,Tokyu Construction,
-64,ìíÜâß«áÈ,Nippon Sanso,
-64,ÍÔŞãúÅÖùÍïåö,Takasago International,
-64,?ô¸,Rakuten,
-64,ìíØ¡«·«¹«Æ«à«º,Hitachi Systems,
-64,äÌÔö«Ï«¶«Ş,Ando Hazama,
-64,ß²×Ôãİù¡,Mitsubishi Shokuhin,
-64,Ê¥ùÅï³í­¡é,Kaga Electronics¡é,
-64,ô¹ĞøĞÎú­Ñ©àÏ,Kawasaki Kinkai Kisen,
-64,«í«¸«¹«Æ«£?«É¡è,LOGISTEED¡è,
-63,ª«ªóªİßæÙ¤ÜÁ?,Japan Post Insurance,
-63,??ÑÑÍ·Ö§ùê?,The Rokinren Bank,
-63,LIXIL,LIXIL,
-63,õø?ï³Õô¡è,Okinawa Electric Power¡è,
-63,ìíÜâïñÍï¡è,NSK¡è,
-63,ìíÜâ??¡è,NHK Spring¡è,
-63,«««Ê«Ç«Ó«¢,Kanadevia,
-63,«·«Á«º«óãÁÍª,Citizen Watch,
-63,«Ö«é«¶?Íïåö¡é,Brother Industries¡é,
-63,ÙÌå¯«Õ«é«¤«¹,Makino,
-63,«¸«§«¤«Æ«¯«È,JTEKT,
-63,ìíÜâğ²Ë¼á¶,The Japan Steel Works,
-63,«Ê«Ö«Æ«¹«³¡é,Nabtesco¡é,
-63,«¢«ó«ê«Ä¡é,Anritsu¡é,
-63,Ê¥Ôöß§åö¡è,Kato Sangyo¡è,
-63,ìíÜâï³?õ¦í­,Nippon Electric Glass,
-63,DMß²ïÌğ²ÓØ,DM Mitsui Sugar,
-63,Ş³áæ«Û«È«Ë«¯«¹,Hamamatsu Photonics,
-63,«Û«·«¶«­,Hoshizaki,
-63,«Ë«Ã«İ«óÍÔÓøòµÍïåö,Nippon Kodoshi,
-63,ÔÔÌÈÑ©àÏ,Tokyo Kisen,
-63,ß»÷ÊóÚÍ·,Shibusawa Warehouse,
-63,äÌï£óÚÍ·,Yasuda Logistics,
-63,èİí­ğ²òµ,Oji Paper,
-63,«ì«ó«´?,Rengo,
-63,ìíÜâ÷ùõ¦í­,Nippon Sheet Glass,
-63,«Ç«ó««¡é,Denka¡é,
-63,ÔÔÌÈğ²ôÑ,Tokyo Steel,
-63,×âßÌÎ¡?Íïåö,Riso Kagaku,
-63,ìíØ¡Astemo,Hitachi Astemo,
-63,«È«è«¿Û·òÄ¡è,Toyota Boshoku¡è,
-63,á³?ğ²íÂá¶,Koito Manufacturing,
-63,«Ñ«¤«ª«Ë«¢,Pioneer,
-63,«Ñ«¤«í«Ã«È«³?«İ«ì?«·«ç«ó,Pilot Corporation,
-63,ìíÜâTCS,Nippon TCS,
-63,«×«ê«Ş«Ï«à,Prima Meat Packers,
-63,«Ë«Á«ì«¤,Nichirei,
-63,îñï£ËïàâÍïåö,Maeda Corporation,
-63,ìíÜâÔ³ÖØ,Nippon Road,
-63,«¢«¹«¯«ë,ASKUL,
-63,ZOZO,ZOZO,
-63,ãæÎÃï³?Íïåö,Shinko Electric Industries,
-63,«¯«ß«¢«¤ûù?Íïåö¡é,Kumiai Chemical Industry¡é,
-63,«¨«¢«¦«©?«¿?¡é,Air Water¡é,
-63,«ß«é«¤«È?«ï«ó,MIRAIT ONE,
-63,«Ş«¯«í«ß«ë,Macromill,
-63,«¯«Ã«¯«Ñ«Ã«É,Cookpad,
-63,MSOL,MSOL,
-63,«»«¬«µ«ß?,Sega Sammy,
-63,«³«Ê«ß,Konami,
-63,«ß«¯«·«£,mixi,
-62,«·«ã?«×,Sharp,
-62,«Ë«Ç«Ã«¯,Nidec,
-62,ß²×ÔªÕª½ª¦,Mitsubishi Fuso,
-62,UD«È«é«Ã«¯«¹,UD Trucks,
-62,Í¯ùÁï³Íï,Furukawa Electric,
-62,UACJ,UACJ,
-62,«¢«Ş«À,Amada,
-62,ÓŞÔÒ÷åâ¨Ë¼,Daido Steel,
-62,«¢«Ş«Î¡é,Amano¡é,
-62,ãáêÆ«İ«ê«Ş?,Shin-Etsu Polymer,
-62,ÍìçÈğ²Ë¼,Kyoei Steel,
-62,ìíÜâå§ÑÑÍïåö,Nippon Yakin Kogyo,
-62,«ß«Í«Ù«¢«ß«Ä«ß,MinebeaMitsumi,
-62,«»«¤«³?«°«ë?«×,Seiko Group,
-62,İ£ŞÍ÷×«¼«Í«é«ë,Fujitsu General,
-62,«Ş«­«¿,Makita,
-62,«À«¤«Ø«ó,Daihen,
-62,«·«ó«Õ«©«Ë«¢«Æ«¯«Î«í«¸?,Sinfonia Technology,
-62,ß²øİÍïåö¡é,Miura Co.¡é,
-62,÷¼øÁåÇ«»«á«ó«È,Taiheiyo Cement,
-62,ß£åÕ÷åâ¨ğ²Ë¼,Sanyo Special Steel,
-62,NXìíÜâ÷×ê¡,Nippon Express,
-62,NOK,NOK,
-62,«¢«ë«×«¹«¢«ë«Ñ«¤«ó,Alps Alpine,
-62,ñ¬éÒÓŞø¡«»«á«ó«È,Sumitomo Osaka Cement,
-62,SUMCO,SUMCO,
-62,ß²äñ«ª«Ö«ê,San-ai Obbli,
-62,«»«Ö«ó&«¢«¤,Seven & i,
-62,NTT«Õ«¡«·«ê«Æ«£?«º,NTT Facilities,
-62,«»«á«À«¤«ó,Cemedine,
-62,Ğ¿åÇ,Kyokuyo,
-62,J«ª«¤«ë«ß«ë«º,J-Oil Mills,
-62,«Ş«Ö«Á«â?«¿?,Mabuchi Motor,
-62,«¨«¹«Æ?,S.T. Corporation,
-62,«Ş«ó«À«à,Mandom,
-62,«À«¹«­«ó,Duskin,
-62,ì¥Ôöõ÷ãİù¡,ITOCHU-SHOKUHIN,
-62,«µ«««¿ªÎ«¿«Í¡é,Sakata Seed¡é,
-62,ìíÜâÒÜ?¡è,Nihon Nohyaku¡è,
-62,«Ë«Á«¢«¹,NICHIAS,
-62,?ï£åÇú¼,Uchida Yoko,
-62,«««««¯«³«à,Kakaku.com,
-62,ß²ïÌñ¬éÒËïàâ¡è,Sumitomo Mitsui Construction¡è,
-62,«½?«¹«Í«¯«¹«È,Sourcenext,
-62,«µ«¤«Ü«¦«º,Cybozu,
-62,Sansan,Sansan,
-62,ALBERT,ALBERT,
-62,«Õ«§«í?«Æ«Ã«¯,Ferrotec,
-62,HENNGE,HENNGE,
-62,«½«Ë?ßæÙ¤,Sony Life,
-62,«¢«¸«¢ùşö´,Asia Air Survey,
-62,ìíÜâÍöùû«Ó«ë«Ç«ó«°,Japan Airport Terminal,
-62,NTN,NTN,
-61,ìíå¯í»ÔÑó³,Hino Motors,
-61,ìíÜâğ²òµ,Nippon Paper Industries,
-61,ÓŞèİğ²òµ,Daio Paper,
-61,ß²ïÌE&S,Mitsui E&S,
-61,ìíÜâó³?ğ²ğã,Nippon Sharyo,
-61,ñ¬éÒ×âÍï,Sumitomo Riko,
-61,«Î«ê«¿«±,Noritake,
-61,ù¥ï£ùêà÷,Toyoda Gosei,
-61,ÔÔåÇùêà÷Íïåö,Toyo Gosei,
-61,JVC«±«ó«¦«Ã«É,JVCKenwood,
-61,«Ş«¯«»«ë,Maxell,
-61,ß²×Ô«í«¸«¹«Í«¯«¹«È,Mitsubishi Logisnext,
-61,TOYOTIRE,Toyo Tire,
-61,ÔÔú­×âûùï³Ñ¦¡è,Tokai Rika¡è,
-61,«Õ«¸«Æ«Ã«¯,Fujitec,
-61,«««ä«Ğ,KYB,
-61,ß²«Äàø«Ù«ë«È,Mitsuboshi Belting,
-61,«í?«é«ó«É,Roland,
-61,«¢?«¹ğ²?,Earth Corporation,
-61,«­«æ?«Ô?,Kewpie,
-61,«¨«Ğ«éãİù¡Íïåö,Ebara Foods,
-61,ÎÃ÷×ãá,Hikari Tsushin,
-61,«ª«ê«³«ó,Oricon,
-61,«ª?«¯«Ş,Okuma,
-61,THK,THK,
-61,«ê«ó«Ê«¤,Rinnai,
-61,«¤?«°«ëÍïåö,Eagle Industry,
-61,ÔÔú­««?«Ü«ó,Tokai Carbon,
-61,ìíÜâ««?«Ü«ó,Nippon Carbon,
-61,«ß«º«Î,Mizuno,
-61,ª·ªŞªàªé¡è,Shimamura¡è,
-61,÷¼åÕë¯ï³,Taiyo Yuden,
-61,è¬ïÌßÂàÏ¡é,Tamai Steamship¡é,
-61,ÍïÑ¦HD,Koki Holdings,
-61,«¸«ã«à«³,JAMCO,
-61,ìí?Û·,Nisshinbo,
-61,«È?«è?«««Í«Ä,Toyo Kanetsu,
-61,«Ñ?«½«ëHD,PERSOL HOLDINGS,
-61,YKK,YKK,
-61,Üôì£êÆ,Nachi-Fujikoshi,
-61,ïãô¹ğ²Ë¼á¶¡é,Yodogawa Steel Works¡é,
-61,ùêÔÒğ²ôÑ,Godo Steel,
-61,ÏÜíŞğ²íÂá¶,Horiba,
-61,«ä«Ş«Èê¡âÃ(?ùêòÅ)¡è,Yamato Transport (General)¡è,
-61,ÓŞø¡êóÑ¦ûù?Íïåö,Osaka Organic Chemical Industry,
-61,İ¦ßÍûù?Íïåö,Fuso Chemical,
-61,ìíÜâ?ÑÑ?¡é,Nippon Light Metal¡é,
-61,«È«¯«ä«Ş¡é,Tokuyama¡é,
-61,ìíÜâ«Ñ?«««é«¤«¸«ó«°,Nihon Parkerizing,
-61,NISSHA,Nissha,
-61,ãæÜÃ?«Ş«Æ«ê«¢«ë,Shinhokoku Material,
-61,?éÄò¢òõ,Oyo Corporation,
-61,«ª«««à«é,Okamura,
-60,«À«¤«Ï«ÄÍïåö¡é,Daihatsu Motor¡é,
-60,Ëªß²?Ïç(OP),Okasan Securities (OP),
-60,ÔÔú­ÔÔÌÈ?Ïç(OP),Tokai Tokyo Securities (OP),
-60,«¯«ì«Ç«£«»«¾«ó,Credit Saison,
-60,OIOI¡è,Marui¡è,
-60,ß¾ğÚ,Kamigumi,
-60,«Ë«È«ê,Nitori,
-60,ñ¥ô¹Ğáøµ(?ùêòÅ)¡è,Sagawa Express (General)¡è,
-60,«ä«Ê«»,YANASE,
-60,ÓŞÔÔËïöş,Daito Trust Construction,
-60,«¿«Ş«Û?«à,Tama Home,
-60,«Ñ«Ê«Û?«à,PanaHome,
-60,«Í«¯«½«ó,Nexon,
-60,«¬«ó«Û?¡é,GungHo¡é,
-60,«³«í«×«é,Colopl,
-60,Sky,Sky,
-60,Ñõú­òãõ½Ëïàâ,Nankai Tatsumura Construction,
-60,ÌÈèİËïàâ,Keio Construction,
-60,«ª?«×«ó«Ï«¦«¹,Open House,
-60,?ô¸ëŞú¼,Rakuten Bank,
-60,ğÈìíßæÙ¤,Asahi Mutual Life Insurance,
-60,ÓŞâ§ßæÙ¤,Taiju Life Insurance,
-60,«¿«««é«¹«¿«ó«À?«É,Takara Standard,
-60,«Î?«ê«Ä,Noritz,
-60,«¹«¿«ó«ì?ï³?,Stanley Electric,
-60,Ú±?Íïåö,Mirai Industry,
-60,ìíÜâ«¢«Ó«ª«Ë«¯«¹,Nippon Avionics,
-60,äñß²Íïåö¡è,Aisan Industry¡è,
-60,ÔÔİÁ÷åâ¨Ë¼,Tohoku Steel,
-60,«Õ«ë«äÑÑ?,Furuya Metal,
-60,õñÜâ«Á«¨«¤«ó¡é,Tsubakimoto Chain¡é,
-60,«Õ«¯«·«Ş«¬«ê«ì«¤,Fukushima Galilei,
-60,á³ï£ê««¨«ó«¸«Ë«¢«ê«ó«°,Odawara Engineering,
-60,ğ¯ìéıüêªáÈûù?Íïåö,Daiichi Kigenso Kagaku Kogyo,
-60,«µ«ó«±«óï³?,Sanken Electric,
-60,ß²ïÌ«Ï«¤«Æ«Ã«¯¡è,Mitsui High-tec¡è,
-60,«¼«ê«¢ãæ?Íïåö,Zeria Pharmaceutical,
-60,ìíÜâãæ?,Nippon Shinyaku,
-60,ìíÜâãá?,Nippon Signal,
-60,«¹«¿?«¼«ó,Starzen,
-60,«¨«ì«³«à,Elecom,
-60,«µ«ó«²«Ä,Sangetsu,
-60,ğÈìí«¤«ó«Æ«Ã«¯,Asahi Intecc,
-60,àÏïÌ??,Funai Soken,
-60,«¿«Ê«Ù«³«ó«µ«ë«Æ«£«ó«°,Tanabe Consulting,
-60,«ê«ó«¯«¢«ó«É«â«Á«Ù?«·«ç«ó,Link and Motivation,
-60,ÑÎÜâıéåö,Yoshimoto Kogyo,
-60,á¦ÑºÔÔĞáÍïåö¡é,Seikitokyu Kogyo¡é,
-59,ß¾êÈò¢ëŞ,Top Regional Banks,
-59,?Ëª«¬«¹,Shizuoka Gas,
-59,İÁú­Ô³è¿ŞÙ,Hokkaido Gas,
-59,İ£ŞÍ«½«Õ«È,Fuji Soft,
-59,ªÏªÊªµª¯ßæÙ¤,Hanasaku Life Insurance,
-59,ß²åÕßÂ?,Sanyo Shokai,
-59,«¿«­«Ò«è?,Takihyo,
-59,«¸«ã«Ñ«ó«Ç«£«¹«×«ì«¤,Japan Display,
-59,ìé?ÍïÙâïÁ,Ichijo Co.,
-59,«¢«×«é«¹,Aplus,
-59,«ª«ê«³,Orico,
-59,DHC,DHC,
-59,ì¥Ôöê®,Ito En,
-59,à÷àòà´ïÌ,Seijo Ishii,
-59,ª¢ªéª¿,Arata,
-59,«Ä«¬«ß,Tsugami,
-59,ìíÑ¦?,Nikkiso,
-59,ìíÜâ«È«à«½«ó,Nippon Thompson,
-59,äñò±Ñ¦ÌşÍïåö,Aichi Machine Industry,
-59,ãæÙ¥ûúÍïåö,ShinMaywa Industries,
-59,«Õ«©«¹«¿?ï³Ñ¦,Foster Electric,
-59,ğ¨?ï³Ñ¦ğ²íÂá¶,Teikoku Electric Mfg.,
-59,ò¹øİÑ¦Ìş,Shibaura Machine,
-59,ÔÔåÇğ²Î¸¡é,Toyo Seikan¡é,
-59,İ£ŞÍÛ·¡é,Fujibo¡é,
-59,KH«Í«ª«±«à,KH Neochem,
-59,á³×ùğ²?,Kobayashi Pharmaceutical,
-59,ß²×Ôğ²Ë¼,Mitsubishi Steel Mfg.,
-59,«Õ«¿«Ğß§åö¡é,Futaba Industrial¡é,
-59,«ß«Ä«Ğ,Mitsuba,
-59,ß²å¡Íïåö,Sanoh Industrial,
-59,ñ¬éÒïñÚËÍïåö¡é,Sumitomo Precision Products¡é,
-59,«Ë«Ç«Ã«¯OKK,Nidec OKK,
-59,«À«¤«ï«Ü«¦,Daiwabo,
-59,«æ?«°«ì«Ê,euglena,
-59,«Ğ«ë«ß«å?«À¡é,BALMUDA¡é,
-59,«»«ó«È«é«ëõ¦í­,Central Glass,
-59,«¢«¤«Û«ó,Aiphone,
-59,á¹ûú?Íö,Showa Shinku,
-59,«¿«À«Î,Tadano,
-59,«¤«È?«­,ITOKI,
-59,?ùÁ«Ö«ê«Ã«¸,Yokogawa Bridge,
-59,ÜÁ÷ÏÍÛûù?Íïåö,Hodogaya Chemical,
-59,«¿«««é«Ğ«¤«ª,Takara Bio,
-59,ìíòäÍïÎı,NS Tool,
-59,«»?«ì«ó,Seiren,
-59,ÓŞøÁåÇÑÑ?,Pacific Metals,
-59,ìíÜâ«±«ß«Õ«¡,Nippon Chemiphar,
-59,ÔÔÛÀ?æç,Toho Zinc,
-59,PALTAC,PALTAC,
-59,«¢«ë«Õ«ì«Ã«µ,Alfresa,
-59,«¹«º«±«ó,Suzuken,
-59,ÔÔÛÀ?ù¡,Toho Pharmaceutical,
-58,ñéêÈò¢ëŞ,Mid-tier Regional Banks,
-58,ªæª¦ªÁªçëŞú¼(ò¢æ´ĞñÊÏ),Japan Post Bank (Regional),
-58,JRŞÌ?,JR Shikoku,
-58,ß²êÆì¥á§Ó¡,Isetan Mitsukoshi,
-58,ÍÔÓöè©,Takashimaya,
-58,J.«Õ«í«ó«È«ê«Æ«¤«ê«ó«°,J. Front Retailing,
-58,ÓŞü¯áæ÷øè©,Daimaru Matsuzakaya,
-58,ø¡Ğáø¡ãêÛİü§ïÁ,Hankyu Hanshin Department Stores,
-58,ÕŞù¡Íª?,Ryohin Keikaku,
-58,«ï«³?«ë¡é,Wacoal¡é,
-58,«¤«ª«ó,AEON,
-58,«¤«ª«ó«Õ«£«Ê«ó«·«ã«ë«µ?«Ó«¹,AEON Financial Service,
-58,«««ó«í,Kanro,
-58,«»«³«à,SECOM,
-58,ğüùêÌíİáÜÁî¡,ALSOK,
-58,«°«ó«¼,Gunze,
-58,«ß«µ«ï«Û?«à,MISAWA HOMES,
-58,ª¢ªóª·ªóÜÁ?,Anshin Guarantor Service,
-58,Casa,Casa,
-58,«Ù«Í«Õ«£«Ã«È«ï«ó,Benefit One,
-58,«¢«¤«À«¨«ó«¸«Ë«¢«ê«ó«°,Aida Engineering,
-58,Ùë?ïñÚËÍïåö,Musashi Seimitsu Industry,
-58,ñÓ?ğ²íÂá¶,Takeuchi Mfg.,
-58,îİâ©â§ò·,Sekisui Jushi,
-58,«Ë«Á«³«ó,Nichicon,
-58,«æ«Ë«×«ì«¹,Unipres,
-58,äñò±ğ²Ë¼,Aichi Steel,
-58,ìíÜâ«³«ó«¯«ê?«ÈÍïåö,Nippon Concrete Industries,
-58,ïÌ?ÒÜÑ¦,Iseki & Co.,
-58,ìíÜâÑÑ?Ñ¦Ìş,Japan Cash Machine,
-58,Ğ¿ÔÔËÒ?Íïåö,Kyokuto Kaihatsu Kogyo,
-58,«È«Ô?Íïåö,Topy Industries,
-58,õ½ß¾ËÒÙ¥ÓÑ,Murakami Kaimeido,
-58,ìíÜâÍöğà«µ?«Ó«¹,Nippon Air Conditioning Services,
-58,ÍìÔÒìÔáì,Kyodo Printing,
-58,ìíÜâ«³?«¯«¹Íïåö,Nippon Coke & Engineering,
-58,Ù£õ½ğãàÏá¶,Namura Shipbuilding,
-58,«ß«í«¯ï×ÜÃ«µ?«Ó«¹,Miroku Jyoho Service,
-58,ìíÜâ«Õ«¡«ë«³«à,Nihon Falcom,
-58,õóîñÎ½,Demae-can,
-58,«¦«§«¶?«Ë«å?«º¡è,Weathernews¡è,
-57,ù»êÈò¢ëŞ,Lower-tier Regional Banks,
-57,JTB¡è,JTB¡è,
-57,«ê«¾?«È«È«é«¹«È¡è,Resorttrust¡è,
-57,JRİÁú­Ô³,JR Hokkaido,
-57,«í?«½«ó,Lawson,
-57,«Õ«¡«ß«ê?«Ş?«È,FamilyMart,
-57,ìíÜâğà?,Nihon Chouzai,
-57,ÔÔÌÈ«É?«à,Tokyo Dome,
-57,?Óö«¬«¹,Hiroshima Gas,
-57,?Ëª«¬«¹,Shizuoka Gas,
-57,ß£Îú,Sankyu,
-57,«¢«¤«ê«¹«ª?«ä«Ş,Iris Ohyama,
-57,«Ñ«½«Ê¡è,Pasona¡è,
-57,«Ş«¤«Ê«Ó,Mynavi,
-57,«¨«ó«¸«ã«Ñ«ó,en-japan,
-57,«Ó«¸«ç«Ê«ë,Visional,
-57,«¦«©«ó«Æ«Ã«É«ê?,Wantedly,
-57,ìíÜâ«¢«¯«¢,Nippon Aqua,
-57,«æ«Ë«Á««,Unitika,
-57,«¿«Ë«¿¡è,Tanita¡è,
-57,«á«Ë«³«ó¡é,Menicon¡é,
-57,ª¹ªÆª­«Ê«¤«¹,Suteki Nice,
-57,«ê«ç?«Ó,Ryobi,
-57,SWCC,SWCC,
-57,ìíÜâ??Î·,Nippon Chutetsukan,
-57,«Ä«¤«ó«Ğ?«É,Twinbird,
-57,«¸«ã«Î«á«ß«·«ó,Janome Sewing Machine,
-57,AI«á«««Æ«Ã«¯,AI MechaTech,
-57,«Æ«¯«Î«á«Ç«£««,Techno Medica,
-57,«À«¤«³«¯ï³Ñ¦,Daikoku Denki,
-57,ñéèâ?åö,Chugai Mining,
-57,ğ¨??ë«,Teikoku Sen-i,
-57,íşå¯ÍªĞï,Nagano Keiki,
-57,äñò±ãÁÍªï³Ñ¦,Aichi Tokei Denki,
-57,Í¯å¯ï³?,Furuno Electric,
-57,Ù¥ö½ï³Ñ¦Íïåö,Meiji Electric Industries,
-57,ğ¨?÷×ãáÍïåö,Teikoku Tsushin Kogyo,
-57,«Ğ«ó«É?ûù?,Bando Chemical,
-57,Í¯ùÁï³ò®,Furukawa Battery,
-57,«­«ä«Î«óï³í­,Canon Electronics,
-57,ÔÔÌÈ«³«¹«â«¹ï³Ñ¦,Tokyo Cosmos Electric,
-57,«á«Ç«£«­«Ã«È,Medikit,
-57,ÏËïÌ«Ï«ë«Æ«Ã«¯,Komai Haltec,
-57,?Ğø÷ëØ¨,Krosaki Harima,
-57,«Ë«×«í,Nipro,
-57,«è«Í«Ã«¯«¹,Yonex,
-57,«½«Ç«£«Ã«¯,Sodick,
-57,«Ñ?«¯24,Park24,
-57,«¢«³«à,Acom,
-57,«×«í«ß«¹,Promise,
-57,UUUM,UUUM,
-57,«É«ï«ó«´,Dwango,
-57,«¿«¦«ó«Ë«å?«¹Şä,Townnews,
-57,«¼«ó«ê«ó,Zenrin,
-56,ß¾êÈãáÑÑ,Top Shinkin Banks,
-56,ğ¨?«Û«Æ«ë¡è,Imperial Hotel¡è,
-56,?ô¸«â«Ğ«¤«ë,Rakuten Mobile,
-56,«ß«Ë«¹«È«Ã«×,Ministop,
-56,à¤ÒØê¡âÃ,Seino Transportation,
-56,İ£ŞÍĞáú¼,Fuji Kyuko,
-56,?Ş³ÕÒÔĞ,Yokorei,
-56,ß£Ğøğ²«Ñ«ó,Yamazaki Baking,
-56,Üôì£Ê«,Fujiya,
-56,ûÉò®è©,Koike-ya,
-56,×¿Ë£«Ğ«¿?,Rokko Butter,
-56,«ñ«¹«Ó?ãİù¡,S&B Foods,
-56,?ï£ğ²Î¢,Kameda Seika,
-56,«Ö«ë«Ü«ó,Bourbon,
-56,ñéõ½è©,Nakamuraya,
-56,«Ö«ë«É«Ã«¯«½?«¹,Bull-Dog Sauce,
-56,«±«ó«³?«Ş«è«Í?«º,Kenko Mayonnaise,
-56,çµÍÛê®,Nagatanien,
-56,«â«í«¾«Õ,Morozoff,
-56,å×Ù¤ñĞğ²ğã,Yomeishu,
-56,ªïª«ªâªÈğ²?,Wakamoto Pharmaceutical,
-56,ßµù»ìÒÓ¡,Morishita Jintan,
-56,«´?«ë«É«¯«ì«¹«È,Goldcrest,
-56,«Ö«í«Ã«³«ê?,Broccoli,
-56,ß²úğØ¡ß£,Sankyo Tateyama,
-56,«ª?«¯«Õ«¡«ó,Aucfan,
-56,«ê«¹«¯«â«ó«¹«¿?,Riskmonster,
-56,ñ¬Ë°òÄÚª,Suminoe Textile,
-56,ñĞïÌñìÍïåö,Sakai Heavy Industries,
-56,JUKI,JUKI,
-56,«æ«Ë«Ğ«ó«¹,Univance,
-56,?ç¨ï³í­Íïåö,Futaba Corporation,
-56,NKK«¹«¤«Ã«Á«º,NKK Switches,
-56,«Ú«¬«µ«¹«ß«·«ó,Pegasus Sewing Machine,
-56,ÍÔ?«¬«¹Íïåö,Koatsu Gas Kogyo,
-56,«æ?«·«óïñÑ¦,Yushin Precision Equipment,
-56,ò¦êÅï³Ñ¦ğ²íÂá¶,Shizuki Electric,
-56,ùÁùê?Ğïğ²íÂá¶,Kawai Musical Instruments,
-56,á³áæ«Ş«Æ?«ì,Komatsu Matere,
-56,ANYCOLOR,ANYCOLOR,
-56,«·«¹«Æ«Ê,Systena,
-56,ï³ß©«·«¹«Æ«à,Densan System,
-56,«¢«¤«Õ«ë,Aiful,
-56,«Ş?«¯«é«¤«ó«º,MarkLines,
-56,«Ö«¤«­«å?«Ö,V-cube,
-56,ª°ªëªÊªÓ,Gurunavi,
-56,PayPay,PayPay,
-56,«¸«ã«Ñ«ó«¨«ì«Ù?«¿?«µ?«Ó«¹,Japan Elevator Service,
-56,«â«¹«Õ?«É«µ?«Ó«¹,Mos Food Services,
-56,«µ«¤«¼«ê«ä¡è,Saizeriya¡è,
-55,ñéêÈãáÑÑ,Mid-tier Shinkin Banks,
-55,HIS,H.I.S.,
-55,ÜØß£÷×ê¡,Fukuyama Transporting,
-55,ÖÂ?,Suzuyo,
-55,«¢«ë«×«¹Úª×µ,Alps Logistics,
-55,ìíÜâÍáøĞê¡âÃóÚÍ·,Nippon Konpo Unyu Soko,
-55,ÑÎå¯Ê«,Yoshinoya,
-55,áæè©,Matsuya,
-55,FOOD&LIFE,FOOD & LIFE COMPANIES,
-55,ìíÜâKFC,KFC Japan,
-55,«±?«º«Ç«ó«­,K's Denki,
-55,«»«ó«³?,Senko,
-55,ìíÜâà´êúâÃáê,Japan Oil Transportation,
-55,KNT-CT,KNT-CT Holdings,
-55,UT«°«ë?«×,UT Group,
-55,«á«¤«Æ«Ã«¯,Meitec,
-55,«Æ«¯«Î«×«í,TechnoPro,
-55,«¢«ë«×«¹Ğü?,Alps Giken,
-55,«Æ«£?«¬«¤«¢,T-Gaia,
-55,«³«Í«¯«·«ª,Conexio,
-55,«·«À«Ã«¯«¹,Shidax,
-55,ªŞª°ªŞª°,Magumagu,
-55,gumi,gumi,
-55,«·«ó«¯«í?«Õ?«É,Synchro Food,
-55,«ê«í«°«ë?«×,Relo Group,
-55,«­?«³?«Ò?,Key Coffee,
-55,«Û«¯«È,Hokuto,
-55,«Ş«Ä«â«È«­«è«·,Matsumotokiyoshi,
-55,«»«ó«È«é«ë«¹«İ?«Ä,Central Sports,
-55,«é«¦«ó«É«ï«ó,Round One,
-55,«¤«à«éÜæ÷Õ,Imura Envelope,
-55,ß²×Ô«Ş«Ò«ó«É«éÒÜÑ¦,Mitsubishi Mahindra Agricultural Machinery,
-55,Ê¥Ôöğ²íÂá¶,Kato Works,
-55,ø¡ãê?æ×Ñ¦Íïåö,Hanshin Diesel Works,
-55,«À«¤«¸«§«Ã«ÈÍïåö,Dijet Industrial,
-55,Û¯ï³ïñÚËÊ¥Íï?Ï¼á¶,Sodick,
-55,«Ä«Ğ«­?«Ê«««·«Ş,Tsubaki Nakashima,
-55,«È«é«ó«¹«³«¹«â«¹,transcosmos,
-55,«Ù«ë«·«¹«Æ«à24,Bellsystem24,
-55,«½«ê«È«ó«·«¹«Æ«à«º,Soliton Systems,
-55,«Ç?«¿«Û«é«¤«¾«ó,Data Horizon,
-55,«´«ë«Õ«À«¤«¸«§«¹«È,Golf Digest,
-55,«¤«±«¢«¸«ã«Ñ«ó,IKEA Japan,
-55,«³«¹«È«³«Û?«ë«»?«ë«¸«ã«Ñ«ó,Costco Wholesale Japan,
-54,ù»êÈãáÑÑ,Lower-tier Shinkin Banks,
-54,ĞÎ?Ûİü§ïÁ,Kintetsu Department Store,
-54,«Ş«Ã«¯«¹«Ğ«ê«å,Maxvalu,
-54,øÁûúÓÑ,Heiwado,
-54,«ä«ª«³?,Yaoko,
-54,«é«¤«Õ,Life Corporation,
-54,«È«é«¤«¢«ë,TRIAL,
-54,ãêÒ¯ô¹ñéäçÎß÷×,Kanagawa Chuo Kotsu,
-54,ğ¯ìéÎß÷×ß§åö,Daiichi Koutsu Sangyo,
-54,ûøò®ê¡âÃ,Konoike Transport,
-54,«È«Ê«ßê¡âÃ,Tonami Transportation,
-54,ü¯ûúê¡âÃÑ¦?,Maruwa Unyu Kikan,
-54,êÀñ¶«È«é«Ã«¯,Enshu Truck,
-54,ìíÜâ«í«¸«Æ«à,Nippon Logitem,
-54,«Ï«Ş«­«ç«¦«ì«Ã«¯«¹,Hamakyorex,
-54,?Óöï³?,Hiroshima Electric Railway,
-54,SANKYO,SANKYO,
-54,DCM,DCM,
-54,«««¤«ó«º,CAINZ,
-54,«³«á«ê,KOMERI,
-54,«¸«ç«¤«Õ«ëÜâï£,Joyful Honda,
-54,RIZAP,RIZAP,
-54,«Ö«·«í?«É,Bushiroad,
-54,«À«¤«½?,Daiso,
-54,ëŞñ¨«ë«Î«¢?«ë,Ginza Renoir,
-54,«»?«é??Í±,Sailor Advertising,
-54,?ï×,Gakujo,
-54,ÚÏî÷,Hakuten,
-54,«¦«¨«ë«·«¢,Welcia,
-54,«³«¹«â«¹?ù¡,Cosmos Pharmaceutical,
-54,«¼«ó«·«ç?,Zensho,
-54,èİ?«Õ?«É«µ?«Ó«¹,Ohsho Food Service,
-54,«Ï«¤«Ç«¤ìíÍÔ,Hiday Hidaka,
-54,«Ñ«ó«Ñ«·«Õ«£«Ã«¯«¤«ó«¿?«Ê«·«ç«Ê«ë,Pan Pacific International,
-54,?ìÑûùÍª?,Tetsujin-ka Keikaku,
-54,ÓŞûúÕÒÑ¦Íïåö¡é,Daiwa Industries¡é,
-54,Aiming,Aiming,
-54,ğÄ?ï£«¢«««Ç«ß?,Waseda Academy,
-54,Ğ÷İ½ğãê®,Gifu-zoen,
-54,ä¹÷îğ²òµ,Awa Paper,
-54,õÕô¹ÙÌê®,Akikawa Bokuen,
-54,TKP,TKP,
-54,Ù¥ÎÃ«Í«Ã«È«ï?«¯«¸«ã«Ñ«ó,Meiko Network Japan,
-54,«ª«ê«¨«ó«¿«ë«Á«¨«óÍïåö,Oriental Chain,
-54,ÔÔÌÈËÁÜ¬ò¦Óô?êÂ,Tokyo Individualized Educational Institute,
-54,â³çÈåøİáÎè,Shuei Yobiko,
-54,«±«¤«¢«¤«¹«¿?ÜôÔÑß§,KI-Star Real Estate,
-54,ìíãêÜôÔÑß§,Nisshin Fudosan,
-54,ô¶ö¬?¡é,Senshukai¡é,
-53,ãê?Úªß§,Kobe Bussan,
-53,«æ«Ê«¤«Æ«Ã«É?«¹?«Ñ?«Ş?«±«Ã«È,United Super Markets,
-53,«Ğ«í?,Valor,
-53,«¤«ª«óİÁú­Ô³,AEON Hokkaido,
-53,«¢«ª«­«¹?«Ñ?,Aoki Super,
-53,«ä«Ş«Àï³Ñ¦,Yamada Denki,
-53,«è«É«Ğ«·«««á«é,Yodobashi Camera,
-53,«Ó«Ã«¯«««á«é,Bic Camera,
-53,«¨«Ç«£«ª«ó,Edion,
-53,ß¾ãæï³Ñ¦,Joshin,
-53,«Î«¸«Ş,Nojima,
-53,«³?«Ê«óßÂŞÀ,Kohnan Shoji,
-53,?ß£ßÂŞÀ,Aoyama Trading,
-53,ªÏªëªäªŞßÂŞÀ,Haruyama Trading,
-53,«´?«ë«É«¦«¤«ó,Goldwin,
-53,«¢«ë«Ú«ó,Alpen,
-53,«Ò«Ş«é«ä,HIMARAYA,
-53,ìíÜâ«Ş«¯«É«Ê«ë«É,McDonald's Japan,
-53,ª¹ª«ª¤ªé?ª¯,Skylark,
-53,«³«í«ï«¤«É,Colowide,
-53,«È«ê«É?«ë,Toridoll,
-53,«Ö«í«ó«³«Ó«ê?,Bronco Billy,
-53,?Ûãè©,Ichibanya,
-53,«Ç«¤«ê?«ä«Ş«¶«­,Daily Yamazaki,
-53,«İ«×«é,Poplar,
-53,«¯«¹«êªÎ«¢«ª«­,Kusuri no Aoki,
-53,«»«¤«³?«Ş?«È,Seicomart,
-53,«²«ª,GEO,
-53,«Ï?«É«ª«Õ«³?«İ«ì?«·«ç«ó,Hard Off Corporation,
-53,«»«ê«¢,Seria,
-53,«¢«¦«È«½?«·«ó«°,Outsourcing,
-53,òĞï£ÏËÍïåö¡é,Tsudakoma Corp.¡é,
-53,?äñ«á«Ç«£«««ë,Ci Medical,
-53,«Ë«Á«¤?Î½,Nichii Gakkan,
-53,«Ä«¯«¤,Tsukui,
-53,«±«¢21,Care21,
-53,«Û«¯«ê«è«¦,Hokuryo,
-53,ìíÜâ«»«é«ß«Ã«¯,Nippon Ceramic,
-53,ğ¯ìéè©ğ²«Ñ«ó,Daiichiya Baking,
-53,ªÏª´ªíªâ«Õ?«º,Hagoromo Foods,
-53,«ª«««à«éãİù¡Íïåö,Okamura Foods,
-53,?äÌÜâïÁ,Kakiyasu Honten,
-53,IBJ,IBJ,
-53,ÔÔûú«Ï«¤«·«¹«Æ«à,Towa Hi-System,
-53,ÚªåŞ«³?«İ«ì?«·«ç«ó,Monogatari Corporation,
-52,«µ«ó«Ş«ë«¯,Saint Marc,
-52,«É«È?«ë,Doutor,
-52,ª¯ªé?ŞÉ,Kura Sushi,
-52,«ê«ó«¬?«Ï«Ã«È,Ringer Hut,
-52,Íú«««Äï£ñé,Kushikatsu Tanaka,
-52,ÙÊ?ÖØ,Kisoji,
-52,«Û«Ã«È«é«ó«É,HotLand,
-52,«Õ«é«¤«ó«°«¬?«Ç«ó,Flying Garden,
-52,«ª«ó«ï?«É?ß£,Onward Kashiyama,
-52,«è«ó«É«·?,Yondoshi,
-52,«Ï«Ë?«º,Honeys,
-52,«¢«À«¹«È«ê«¢,Adastria,
-52,«æ«Ê«¤«Æ«Ã«É«¢«í?«º,United Arrows,
-52,ABC«Ş?«È,ABC-Mart,
-52,ª­ªçª¯ªÈª¦,Kyokuto,
-52,«Ğ«ê«å?«´«ë«Õ,Value Golf,
-52,«µ«««¤ìÚêÆ«»«ó«¿?,Sakai Moving Service,
-52,«¤«ª«ó«Õ«¡«ó«¿«¸?,AEON Fantasy,
-52,ÍìØ¡«á«ó«Æ«Ê«ó«¹,Kyoritsu Maintenance,
-52,«»«ó«È«é«ëÌíİáÜÁî¡,Central Security Patrols,
-52,KeePerĞü?,KeePer Giken,
-52,äñäÑ,Aigan,
-52,ÓŞ?ô¸Úªß§,Daikokuten Bussan,
-52,?«¹«Ô«ê«Ã«Ä,Kotobuki Spirits,
-52,«­«ã«ó«É«¥,Can Do,
-52,«É«ê?«à«Ù«Ã«É,Dream Bed,
-52,«²«ó«­?,Genky,
-52,«Ë«Û«ó«Õ«é«Ã«·«å,Nihon Flush,
-52,ìíÜâ«Ñ«ì«Ã«È«×?«ë,Nippon Pallet Pool,
-52,«¢«¦«È«½?«·«ó«°,Outsourcing,
-52,ìíÜâ«±«¢«µ«×«é«¤,Japan Care Supply,
-52,«È«ì«¸«ã??«Õ«¡«¯«È«ê?,Treasure Factory,
-51,«À«¤«Ê«à,DYNAM,
-51,ÙÓªßªÄª±Óé,Yumemitsuketai,
-51,ú¹?ê½,Kourakuen,
-51,ØŞªÎü£,Umenohana,
-51,«ï«¿«ß,Watami,
-51,«¢«È«à,Atom,
-51,«¨«¹«¯«ê,Escrit,
-51,«Ğ«ê«å?HR,Value HR,
-51,PC«Ç«İ,PC Depot,
-51,àä?ªŞª¤ª¿ª±,Yukiguni Maitake,
-51,«¢«¤«Õ«ê?«¯«â«Ğ«¤«ë,I-FREEK MOBILE,
-51,«¿«á«Ë?,Tameny,
-51,ÔÔÌÈüå?,Tokyo Kaikan,
-51,«Æ«£«¢,Tear,
-51,«é«¤«È«ª«ó,Right-on,
-51,á³ã¬?ª·,Kozosushi,
-51,?ë¿÷øïÌ,Yakiniku Sakai,
-51,äÌ?ïÍ,Anrakutei,
-51,ª¢ªßªäª­ïÍ,Amiyaki Tei,
-51,«««Ã«Ñ«¯«ê«¨«¤«È,Kappa Create,
-51,ÔÔÌÈìéÛã«Õ?«º,Tokyo Ichiban Foods,
-51,ªŞªóªÀªéª±,Mandarake,
-51,«×«ì«ß«¢«à«¦«©?«¿?,Premium Water,
-51,«¨«¢«È«ê,Airtrip,
-51,Øâö¢èİ?,Kaitori Oukoku,
-51,IDOM,IDOM,
-51,«¢?«È«Í«¤«Á«ã?,Artnature,
-51,«´«ë«Õ«É«¥,Golf Do,
-51,«·?«Ü«ó,C'BON,
-51,ô¸?è©«¹«È«¢,Tenmaya Store,
-51,«ª?«·«ã«ó«·«¹«Æ«à,Ocean System,
-51,«¢«Ã«×«ë«¤«ó«¿?«Ê«·«ç«Ê«ë,Apple International,
-51,««?«Á«¹,Carchs,
-51,«ô«£«ì«Ã«¸«ô«¡«ó«¬?«É,Village Vanguard,
-51,«ï«·«ó«È«ó«Û«Æ«ë,Washington Hotel,
-51,«Æ«¤«¯«¢«ó«É«®«ô?«Ë?«º,TAKE AND GIVE. NEEDS,
-51,ò¢æ´ãæÚ¤Şä,Chiiki Shinbunsha,
-50,«Í«¯«¹«Æ?«¸,Nextage,
-50,«°«Ã«É«¹«Ô?«É,Good Speed,
-50,«Ğ«¤«¯èİ£¦«««ó«Ñ«Ë?,Bike O & Company,
-50,«ì«ª«Ñ«ì«¹21,Leopalace21,
-50,DLE,DLE,
-50,ÕéÍïÛ®,Tabikobo,
-50,ìíÜâPC«µ?«Ó«¹,Japan PC Service,
-50,«µ«Ş«ó«µ«¿«Ğ«µ,Samantha Thavasa,
-50,«ï«¿«Ù«¦«§«Ç«£«ó«°,Watabe Wedding,
-50,«»?«é?Ø²Ò´ù¶,Sailor Pen,
-50,«Ï?«Ğ??Ï¼á¶,HABA Laboratories,
-50,óÚêªğ²íÂá¶,Kuramoto Seisakusho,
-50,«Ù«ë«°«¢?«¹,Berg Earth,
-50,ÌÈÔ´«Û«Æ«ë,Kyoto Hotel,
-50,«·«ç«¯«Ö«ó,Shokubun,
-50,ìíÜâğ²Ø«,Nihonseima,
-50,óÚÍ·ïñÖ£,Soko Seiren,
-50,«¢«á«¤«º,Amaze,
-50,«Û«Æ«ë«Ë«å?«°«é«ó«É,Hotel New Grand,
-50,ª¢ªêª¬ªÈª¦«µ?«Ó«¹,Arigatou Service,
-50,WASH«Ï«¦«¹,WASH House,
-50,«Õ«ë«Ã«¿«Õ«ë«Ã«¿,Fruta Fruta,
-50,«¹«¿«¸«ª«¢«ê«¹,Studio Alice,
-50,ªäªŞªä,Yamaya,
-50,«é«ª«Ã«¯«¹,Laox,
-50,ìíÜâìé«½«Õ«È«¦«§«¢,Nippon Ichi Software,
-50,«Ô«¯«»«é,Pixela,
-50,«Ú«Ã«Ñ?«Õ?«É«µ?«Ó«¹,Pepper Food Service,
-50,÷¼øÁåÇıé?,Taiheiyo Kouhatsu,
-50,ìíÜâñÒó³íŞËÒ?,Nippon Parking Development,
-50,AppBank,AppBank,
-50,«°«ì«¤«¹«Æ«¯«Î«í«¸?,Grace Technology,
+score,company_jp,company_en
+80,æ—¥æœ¬éŠ€è¡Œ,Bank of Japan
+80,æ—¥æœ¬æ”¿ç­–æŠ•è³‡éŠ€è¡Œ,Development Bank of Japan
+80,ã‚´ãƒ¼ãƒ«ãƒ‰ãƒãƒ³ã‚µãƒƒã‚¯ã‚¹,Goldman Sachs
+80,JPãƒ¢ãƒ«ã‚¬ãƒ³ãƒ»ãƒã‚§ãƒ¼ã‚¹,J.P. Morgan Chase
+80,ãƒãƒƒã‚­ãƒ³ã‚¼ãƒ¼&ã‚«ãƒ³ãƒ‘ãƒ‹ãƒ¼,McKinsey & Company
+80,ãƒœã‚¹ãƒˆãƒ³ãƒ»ã‚³ãƒ³ã‚µãƒ«ãƒ†ã‚£ãƒ³ã‚°,Boston Consulting Group
+80,A.T.ã‚«ãƒ¼ãƒ‹ãƒ¼,A.T. Kearney
+80,ãƒ•ãƒ¼ãƒªãƒãƒ³ãƒ»ãƒ­ãƒ¼ã‚­ãƒ¼,Houlihan Lokey
+80,KKRã‚¸ãƒ£ãƒ‘ãƒ³,KKR Japan
+80,BofAè¨¼åˆ¸,BofA Securities
+79,ä¸‰è±å•†äº‹,Mitsubishi Corporation
+79,ä¸‰äº•ç‰©ç”£,Mitsui & Co.
+79,ä¼Šè—¤å¿ å•†äº‹,ITOCHU Corporation
+79,ã¿ãšã»FG(GCF),Mizuho FG (GCF)
+79,é‡æ‘è­‰åˆ¸(IBãƒ»GM),Nomura Securities (IB/GM)
+79,ã‚¢ã‚¯ã‚»ãƒ³ãƒãƒ¥ã‚¢(æˆ¦ç•¥),Accenture (Strategy)
+79,ã‚¢ãƒ¼ã‚µãƒ¼Dãƒªãƒˆãƒ«,Arthur D. Little
+79,PwCã‚¹ãƒˆãƒ©ãƒ†ã‚¸ãƒ¼&,PwC Strategy&
+79,M&Aã‚­ãƒ£ãƒ”ã‚¿ãƒ«ãƒ‘ãƒ¼ãƒˆãƒŠãƒ¼ã‚º,M&A Capital Partners
+79,VISAæ—¥æœ¬,VISA Japan
+79,ãƒ–ãƒ©ãƒƒã‚¯ãƒ­ãƒƒã‚¯æ—¥æœ¬,BlackRock Japan
+78,é›»é€š,Dentsu
+78,ä½å‹å•†äº‹,Sumitomo Corporation
+78,ä¸¸ç´…,Marubeni
+78,ä¸‰è±åœ°æ‰€,Mitsubishi Estate
+78,ä¸‰äº•ä¸å‹•ç”£,Mitsui Fudosan
+78,ãƒ•ã‚¸ãƒ†ãƒ¬ãƒ“ã‚¸ãƒ§ãƒ³,Fuji Television
+78,æ—¥æœ¬ãƒ†ãƒ¬ãƒ“æ”¾é€ç¶²,Nippon Television
+78,TBS,TBS
+78,ãƒ†ãƒ¬ãƒ“æœæ—¥,TV Asahi
+78,æ—¥æœ¬ç”Ÿå‘½(AC),Nissay (AC)
+78,ä¸‰è±UFJéŠ€è¡Œ(GCIB),MUFG Bank (GCIB)
+78,ä¸‰äº•ä½å‹éŠ€è¡Œ(Global),SMBC (Global)
+78,SMBCæ—¥èˆˆè¨¼åˆ¸(NIB),SMBC Nikko (NIB)
+78,ä¸‰è±UFJãƒ¢ãƒ«ã‚¬ãƒ³ã‚¹ã‚¿ãƒ³ãƒ¬ãƒ¼(IB),Mitsubishi UFJ Morgan Stanley (IB)
+78,å¤§å’Œè¨¼åˆ¸(ã‚¨ã‚­ã‚¹ãƒ‘ãƒ¼ãƒˆ),Daiwa Securities (Expert)
+78,ã‚­ãƒ¼ã‚¨ãƒ³ã‚¹,Keyence
+78,ç”£æ¥­é©æ–°æŠ•è³‡æ©Ÿæ§‹,JIC
+78,ã‚¤ãƒ³ãƒ†ã‚°ãƒ©ãƒ«,Integral
+78,æ—¥æœ¬ãƒã‚¤ã‚¯ãƒ­ã‚½ãƒ•ãƒˆ,Microsoft Japan
+78,ãƒ–ãƒ«ãƒ¼ãƒ ãƒãƒ¼ã‚°,Bloomberg
+77,åšå ±å ‚DY,Hakuhodo DY
+77,ãƒ†ãƒ¬ãƒ“æ±äº¬,TV Tokyo
+77,é–¢è¥¿ãƒ†ãƒ¬ãƒ“æ”¾é€,Kansai TV
+77,è¬›è«‡ç¤¾,Kodansha
+77,å°å­¦é¤¨,Shogakukan
+77,é›†è‹±ç¤¾,Shueisha
+77,æ—¥æœ¬éƒµèˆ¹,NYK Line
+77,å•†èˆ¹ä¸‰äº•,Mitsui O.S.K. Lines
+77,JAå…±æ¸ˆ(AC),JA Kyosai (AC)
+77,æ±äº¬æµ·ä¸Šæ—¥å‹•(SPEC),Tokio Marine & Nichido (SPEC)
+77,ã¿ãšã»è¨¼åˆ¸(GMãƒ»CIB),Mizuho Securities (GM/CIB)
+77,ä¸‰è±ç·ç ”,Mitsubishi Research Institute
+77,é‡æ‘ç·ç ”(çµŒå–¶ã‚³ãƒ³ã‚µãƒ«),Nomura Research Institute (Consulting)
+77,ãƒ’ãƒ¥ãƒ¼ãƒªãƒƒã‚¯,Hulic
+77,åœ°ä¸»,JINUSHI
+77,ã‚¹ãƒˆãƒ©ã‚¤ã‚¯,Strike
+77,ãƒ‰ãƒªãƒ¼ãƒ ã‚¤ãƒ³ã‚­ãƒ¥ãƒ™ãƒ¼ã‚¿,Dream Incubator
+77,æ—¥æœ¬çµŒæ¸ˆæ–°èç¤¾(è¨˜è€…),Nikkei (Journalist)
+77,ãƒˆãƒ ã‚½ãƒ³ãƒ»ãƒ­ã‚¤ã‚¿ãƒ¼,Thomson Reuters
+76,æ—¥æœ¬å–å¼•æ‰€,Japan Exchange Group
+76,å›½éš›å”åŠ›éŠ€è¡Œ,JBIC
+76,ä½å‹ä¸å‹•ç”£,Sumitomo Realty
+76,è®€è³£ãƒ†ãƒ¬ãƒ“,Yomiuri Telecasting
+76,ç”£çµŒæ–°è(è¨˜è€…),Sankei Shimbun (Journalist)
+76,æ¯æ—¥æ–°è(è¨˜è€…),Mainichi Shimbun (Journalist)
+76,ä»»å¤©å ‚,Nintendo
+76,æ–‡è—æ˜¥ç§‹,Bungeishunju
+76,å›½éš›å”åŠ›æ©Ÿæ§‹,JICA
+76,çµŒå–¶å…±å‰µåŸºç›¤,IGPI
+76,æ—¥æœ¬M&Aã‚»ãƒ³ã‚¿ãƒ¼,Nihon M&A Center
+76,ã‚¸ãƒ£ãƒ•ã‚³,JAFCO
+76,æ—¥æœ¬çµŒå–¶ã‚·ã‚¹ãƒ†ãƒ ,Japan Management Systems
+76,ã‚³ãƒ¼ãƒãƒ¬ãƒ¼ãƒˆãƒ‡ã‚£ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³,Corporate Directions
+76,é‡æ‘ã‚¢ã‚»ãƒƒãƒˆãƒãƒã‚¸ãƒ¡ãƒ³ãƒˆ,Nomura Asset Management
+76,Appleã‚¸ãƒ£ãƒ‘ãƒ³,Apple Japan
+76,æ—¥æœ¬ã‚³ã‚«ãƒ»ã‚³ãƒ¼ãƒ©,Coca-Cola Japan
+76,Ciscoæ—¥æœ¬,Cisco Japan
+76,Salesforceã‚¸ãƒ£ãƒ‘ãƒ³,Salesforce Japan
+76,Netflixæ—¥æœ¬,Netflix Japan
+75,ãƒˆãƒ¨ã‚¿è‡ªå‹•è»Š,Toyota Motor
+75,ã‚½ãƒ‹ãƒ¼,Sony
+75,æ±äº¬ã‚¨ãƒ¬ã‚¯ãƒˆãƒ­ãƒ³,Tokyo Electron
+75,ãƒ¬ãƒ¼ã‚¶ãƒ¼ãƒ†ãƒƒã‚¯,Lasertec
+75,INPEX,INPEX
+75,ãƒ†ãƒ¬ãƒ“å¤§é˜ª,TV Osaka
+75,KDDIâ†‘,KDDIâ†‘
+75,ä¸­éƒ¨æ—¥æœ¬æ”¾é€,CBC
+75,æ­¦ç”°è–¬å“å·¥æ¥­,Takeda Pharmaceutical
+75,ä¸­å¤–è£½è–¬,Chugai Pharmaceutical
+75,ç¬¬ä¸€ä¸‰å…±,Daiichi Sankyo
+75,é‡æ‘ç·åˆç ”ç©¶æ‰€(ç·åˆè·),Nomura Research Institute (General)
+75,ä¸‰è±UFJãƒªã‚µãƒ¼ãƒï¼†ã‚³ãƒ³ã‚µãƒ«ãƒ†ã‚£ãƒ³ã‚°,Mitsubishi UFJ Research & Consulting
+75,ä¸‰äº•ä½å‹æµ·ä¸Š(Spec),Mitsui Sumitomo Insurance (Spec)
+75,æ—¥èˆˆã‚¢ã‚»ãƒƒãƒˆãƒãƒã‚¸ãƒ¡ãƒ³ãƒˆ,Nikko Asset Management
+75,ã‚¢ã‚»ãƒƒãƒˆãƒãƒã‚¸ãƒ¡ãƒ³ãƒˆOne,Asset Management One
+75,ä¸‰äº•ä½å‹DSã‚¢ã‚»ãƒƒãƒˆãƒãƒã‚¸ãƒ¡ãƒ³ãƒˆ,Sumitomo Mitsui DS Asset Management
+75,è¾²æ—ä¸­é‡‘â†“,Norinchukin Bankâ†“
+75,Amazonã‚¸ãƒ£ãƒ‘ãƒ³(ç·åˆè·),Amazon Japan (General)
+75,AWSã‚¸ãƒ£ãƒ‘ãƒ³,AWS Japan
+75,æ—¥æœ¬ã‚ªãƒ©ã‚¯ãƒ«,Oracle Japan
+75,SAPã‚¸ãƒ£ãƒ‘ãƒ³,SAP Japan
+75,Intelã‚¸ãƒ£ãƒ‘ãƒ³â†“,Intel Japanâ†“
+74,JRæ±æµ·,JR Central
+74,ãƒ•ã‚¡ãƒŠãƒƒã‚¯,FANUC
+74,ãƒ‡ã‚£ã‚¹ã‚³,DISCO
+74,è±Šç”°é€šå•†,Toyota Tsusho
+74,åŒæ—¥,Sojitz
+74,ä¼Šè—¤å¿ ä¸¸ç´…é‰„é‹¼â†‘,ITOCHU-MARUBENI Steel Inc.â†‘
+74,ENEOS,ENEOS
+74,ãƒªã‚¯ãƒ«ãƒ¼ãƒˆ,Recruit
+74,ã‚µãƒ³ãƒˆãƒªãƒ¼,Suntory
+74,æ±äº¬ã‚¬ã‚¹,Tokyo Gas
+74,æ±äº¬æµ·ä¸Šæ—¥å‹•,Tokio Marine & Nichido
+74,ã‚¢ã‚¹ãƒ†ãƒ©ã‚¹è£½è–¬,Astellas Pharma
+74,ã‚¨ãƒ¼ã‚¶ã‚¤,Eisai
+74,å‘³ã®ç´ ,Ajinomoto
+74,å…±åŒé€šä¿¡ç¤¾,Kyodo News
+74,æ±æ€¥ä¸å‹•ç”£,Tokyu Land Corporation
+74,é‡æ‘ä¸å‹•ç”£,Nomura Real Estate
+74,æ£®ãƒ“ãƒ«,Mori Building
+74,ã‚¸ãƒ£ã‚¹ãƒˆã‚·ã‚¹ãƒ†ãƒ ,JustSystems
+74,ãƒ—ãƒªãƒ•ã‚¡ãƒ¼ãƒ‰ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯ã‚¹â†‘,Preferred Networksâ†‘
+74,P&Gã‚¸ãƒ£ãƒ‘ãƒ³,P&G Japan
+74,ãƒ¦ãƒ‹ãƒªãƒ¼ãƒã‚¸ãƒ£ãƒ‘ãƒ³,Unilever Japan
+74,ãƒœãƒ¼ã‚¤ãƒ³ã‚°æ—¥æœ¬,Boeing Japan
+73,æ—¥æœ¬é›»ä¿¡é›»è©±,NTT
+73,NTTãƒ‰ã‚³ãƒ¢,NTT Docomo
+73,æ—¥æœ¬è£½é‰„â†“,Nippon Steelâ†“
+73,æ—¥ç”£è‡ªå‹•è»Š,Nissan Motor
+73,æœ¬ç”°æŠ€ç ”å·¥æ¥­,Honda Motor
+73,ä¸‰è±é‡å·¥æ¥­,Mitsubishi Heavy Industries
+73,æ—¥ç«‹è£½ä½œæ‰€,Hitachi
+73,æ—¥æ®,JGC
+73,ã‚¢ã‚µãƒ’,Asahi
+73,å‡ºå…‰èˆˆç”£,Idemitsu Kosan
+73,ä¿¡è¶ŠåŒ–å­¦å·¥æ¥­,Shin-Etsu Chemical
+73,å¯Œå£«ãƒ•ã‚¤ãƒ«ãƒ ,FUJIFILM
+73,æ±äº¬å»ºç‰©,Tokyo Tatemono
+73,å·å´æ±½èˆ¹,K-Line
+73,æ—¥æœ¬ãŸã°ã“ç”£æ¥­,Japan Tobacco
+73,æä¿ã‚¸ãƒ£ãƒ‘ãƒ³(ã‚¸ãƒ§ãƒ–å‹),Sompo Japan (Job-based)
+73,ã‚ŠããªéŠ€è¡Œ(ACãƒ»ã‚¢ã‚»ãƒãƒ),Resona Bank (AC/AM)
+73,å¡©é‡ç¾©è£½è–¬,Shionogi
+73,å°é‡è–¬å“å·¥æ¥­,Ono Pharmaceutical
+73,å”å’Œã‚­ãƒªãƒ³,Kyowa Kirin
+73,ãƒ•ãƒ­ãƒ³ãƒ†ã‚£ã‚¢ãƒ»ãƒãƒã‚¸ãƒ¡ãƒ³ãƒˆ,Frontier Management
+73,ãƒã‚¹ãƒ¬æ—¥æœ¬,Nestle Japan
+72,é–¢è¥¿é›»åŠ›,Kansai Electric Power
+72,ä¸­éƒ¨é›»åŠ›,Chubu Electric Power
+72,ä¸‰è±ã‚±ãƒŸã‚«ãƒ«,Mitsubishi Chemical
+72,ãƒ‡ãƒ³ã‚½ãƒ¼,DENSO
+72,å¤§é˜ªã‚¬ã‚¹,Osaka Gas
+72,çŸ³æ²¹è³‡æºé–‹ç™º,JAPEX
+72,ã‚­ãƒªãƒ³,Kirin
+72,ã‚µãƒ³ãƒˆãƒªãƒ¼é£Ÿå“ã‚¤ãƒ³ã‚¿ãƒ¼ãƒŠã‚·ãƒ§ãƒŠãƒ«,Suntory Beverage & Food
+72,é¹¿å³¶å»ºè¨­,Kajima Corporation
+72,å¤§æ—çµ„,Obayashi Corporation
+72,JRæ±æ—¥æœ¬,JR East
+72,é˜ªæ€¥é˜ªç¥HD,Hankyu Hanshin HD
+72,æ£®ãƒˆãƒ©ã‚¹ãƒˆ,Mori Trust
+72,ã‚¢ãƒ‰ãƒãƒ³ãƒ†ã‚¹ãƒˆ,Advantest
+72,ADK,ADK
+72,æ±å®,Toho
+72,é›»é€šç·ç ”,Dentsu Soken
+72,ã‚¢ã‚¯ã‚»ãƒ³ãƒãƒ¥ã‚¢,Accenture
+72,ãƒ‡ãƒ­ã‚¤ãƒˆãƒˆãƒ¼ãƒãƒ„,Deloitte Tohmatsu
+72,KPMGã‚³ãƒ³ã‚µãƒ«ãƒ†ã‚£ãƒ³ã‚°,KPMG Consulting
+72,PwCã‚³ãƒ³ã‚µãƒ«ãƒ†ã‚£ãƒ³ã‚°,PwC Consulting
+71,æ—¥æœ¬ç”Ÿå‘½,Nippon Life Insurance
+71,ä¸‰äº•ä½å‹ä¿¡è¨—,Sumitomo Mitsui Trust Bank
+71,ä¸‰è±UFJä¿¡è¨—â†‘,Mitsubishi UFJ Trust and Bankingâ†‘
+71,èŠ±ç‹,Kao
+71,ä½å‹åŒ–å­¦,Sumitomo Chemical
+71,ç©æ°´åŒ–å­¦å·¥æ¥­,Sekisui Chemical
+71,AGC,AGC
+71,é£¯é‡æµ·é‹,Iino Lines
+71,æ¸…æ°´å»ºè¨­,Shimizu Corporation
+71,ç«¹ä¸­å·¥å‹™åº—,Takenaka Corporation
+71,å¤§æˆå»ºè¨­,Taisei Corporation
+71,åƒä»£ç”°åŒ–å·¥å»ºè¨­,Chiyoda Corporation
+71,å²©è°·ç”£æ¥­,Iwatani Corporation
+71,é•·ç€¬ç”£æ¥­,Nagase & Co.
+71,ãƒ¡ã‚¿ãƒ«ãƒ¯ãƒ³,Metal One
+71,ä¼Šè—¤å¿ ã‚¨ãƒã‚¯ã‚¹,ITOCHU ENEX
+71,JFEã‚¹ãƒãƒ¼ãƒ«,JFE Steel
+71,æ±æ˜ ,Toei
+71,ãƒ¤ãƒãƒâ†“,Yamahaâ†“
+71,WOWOW,WOWOW
+71,ã‚·ã‚°ãƒã‚¯ã‚·ã‚¹,SIGMAXYZ
+71,ã‚ªãƒ¼ãƒ“ãƒƒã‚¯,OBIC
+71,åŒ»å­¦æ›¸é™¢,Igaku-Shoin
+71,ç¦éŸ³é¤¨æ›¸åº—,Fukuinkan Shoten
+71,æ—¥æœ¬IBM,IBM Japan
+71,ãƒ€ã‚¦ãƒ»ã‚±ãƒŸã‚«ãƒ«æ—¥æœ¬,Dow Chemical Japan
+70,ä¸‰è±UFJéŠ€è¡Œ(OP),MUFG Bank (OP)
+70,æ—¥æœ¬è¨¼åˆ¸é‡‘è,Japan Securities Finance
+70,ã‚ªãƒªãƒƒã‚¯ã‚¹,ORIX
+70,æ±äº¬é›»åŠ›,TEPCO
+70,æ±åŒ—é›»åŠ›,Tohoku Electric Power
+70,JERAâ†‘,JERAâ†‘
+70,ä¸‰äº•åŒ–å­¦,Mitsui Chemicals
+70,æ—¥æ¸…è£½ç²‰,Nisshin Seifun
+70,æ±æ€¥,Tokyu Corporation
+70,å¹³å’Œä¸å‹•ç”£,Heiwa Real Estate
+70,ãƒ€ã‚¤ãƒ“ãƒ«,Daibiru
+70,NTTéƒ½å¸‚é–‹ç™º,NTT Urban Development
+70,ã‚³ãƒãƒ„,Komatsu
+70,ã„ã¡ã”,Ichigo
+70,ä¸‰è±ã‚¬ã‚¹åŒ–å­¦,Mitsubishi Gas Chemical
+70,ä½å‹æ—æ¥­,Sumitomo Forestry
+70,å¤§å’Œãƒã‚¦ã‚¹å·¥æ¥­,Daiwa House Industry
+70,ãƒ¦ãƒ‹ãƒ»ãƒãƒ£ãƒ¼ãƒ ,Unicharm
+70,ã‚ªãƒªãƒ³ãƒ‘ã‚¹,Olympus
+70,æ¨ªæ²³é›»æ©Ÿ,Yokogawa Electric
+70,å¤§å¡šè£½è–¬,Otsuka Pharmaceutical
+70,é˜ªå’Œèˆˆæ¥­,Hanwa
+70,å…¼æ¾,Kanematsu
+70,æ—¥é‰„ç‰©ç”£,Nittetsu Bussan
+70,ç¨²ç•‘ç”£æ¥­,Inabata & Co.
+70,æ±äº¬å¿œåŒ–å·¥æ¥­,Tokyo Ohka Kogyo
+70,NTTãƒ‡ãƒ¼ã‚¿,NTT DATA
+70,å¯Œå£«é€šâ†‘,Fujitsuâ†‘
+70,SCREEN,SCREEN
+70,ãƒãƒ³ãƒ€ã‚¤ãƒŠãƒ ã‚³,Bandai Namco
+70,KADOKAWA,KADOKAWA
+70,ä¸‰äº•æµ·æ´‹é–‹ç™º,MODEC
+70,å¤§æ°—ç¤¾,Taikisha
+70,3Mã‚¸ãƒ£ãƒ‘ãƒ³,3M Japan
+70,LVMHã‚¸ãƒ£ãƒ‘ãƒ³,LVMH Japan
+70,ã‚¢ãƒ¡ãƒƒã‚¯ã‚¹æ—¥æœ¬,American Express Japan
+69,æ—¥æœ¬éƒµæ”¿(ç·åˆè·),Japan Post (General)
+69,ä¿¡é‡‘ä¸­å¤®é‡‘åº«,Shinkin Central Bank
+69,ä¹å·é›»åŠ›,Kyushu Electric Power
+69,é›»æºé–‹ç™º,J-POWER
+69,ãƒ‘ãƒŠã‚½ãƒ‹ãƒƒã‚¯,Panasonic
+69,NTTæ±æ—¥æœ¬,NTT East
+69,NTTè¥¿æ—¥æœ¬,NTT West
+69,é¦–éƒ½é«˜é€Ÿé“è·¯,Metropolitan Expressway
+69,ã‚µã‚¤ãƒãƒ¼ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ãƒˆ,CyberAgent
+69,ã‚­ãƒ¤ãƒãƒ³,Canon
+69,ç”°è¾ºä¸‰è±è£½è–¬,Mitsubishi Tanabe Pharma
+69,æ˜æ²»,Meiji
+69,ãƒ¤ã‚¯ãƒ«ãƒˆæœ¬ç¤¾,Yakult Honsha
+69,æ—¥æ¸…é£Ÿå“,Nissin Food Products
+69,ã‚¯ãƒœã‚¿,Kubota
+69,è±Šç”°è‡ªå‹•ç¹”æ©Ÿâ†“,Toyota Industriesâ†“
+69,ãƒ–ãƒªãƒ‚ã‚¹ãƒˆãƒ³,Bridgestone
+69,æ±æ€¥é›»é‰„,Tokyu Railways
+69,ãƒ•ã‚¡ãƒ¼ã‚¹ãƒˆãƒªãƒ†ã‚¤ãƒªãƒ³ã‚°(Global),Fast Retailing (Global)
+69,äº¬é˜ªç¥ãƒ“ãƒ«ãƒ‡ã‚£ãƒ³ã‚°,Keihanshin Building
+69,ä½å‹é‡‘å±é‰±å±±,Sumitomo Metal Mining
+69,ãƒ€ã‚¤ãƒ€ãƒ³,Daidan
+69,æ±äº¬ãƒ¡ãƒˆãƒ­,Tokyo Metro
+69,å°ç”°æ€¥é›»é‰„,Odakyu Electric Railway
+69,æ±æ­¦é‰„é“,Tobu Railway
+69,äº¬æˆé›»é‰„,Keisei Electric Railway
+69,ä¸‰è±å€‰åº«â†‘,Mitsubishi Logisticsâ†‘
+69,ã‚µãƒ³ãƒªã‚ª,Sanrio
+69,ã‚¢ã‚·ãƒƒã‚¯ã‚¹â†‘,ASICSâ†‘
+69,ä½å‹ãƒ•ã‚¡ãƒ¼ãƒâ†“,Sumitomo Pharmaâ†“
+69,ä¼Šè—¤å¿ ãƒ†ã‚¯ãƒã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã‚ºâ†‘,ITOCHU Techno-Solutionsâ†‘
+69,æ—¥æœ¬ç·ç ”â†‘,Japan Research Instituteâ†‘
+69,ãƒ™ã‚¤ã‚«ãƒ¬ãƒ³ãƒˆ(ã‚³ãƒ³ã‚µãƒ«)â†‘,BayCurrent Consultingâ†‘
+69,ã‚¢ãƒ“ãƒ¼ãƒ ã‚³ãƒ³ã‚µãƒ«ãƒ†ã‚£ãƒ³ã‚°â†‘,ABeam Consultingâ†‘
+68,ä¸‰äº•ä½å‹éŠ€è¡Œ(OP),SMBC (OP)
+68,ç¬¬ä¸€ç”Ÿå‘½,Dai-ichi Life
+68,æ˜æ²»å®‰ç”°ç”Ÿå‘½,Meiji Yasuda Life
+68,ä½å‹ç”Ÿå‘½,Sumitomo Life
+68,æ—¥æœ¬æ”¿ç­–é‡‘èå…¬åº«,JFC
+68,å²¡ä¸‰è¨¼åˆ¸(éƒ¨é–€åˆ¥),Okasan Securities (Departmental)
+68,æ±æµ·æ±äº¬è¨¼åˆ¸(éƒ¨é–€åˆ¥),Tokai Tokyo Securities (Departmental)
+68,ä¸‰äº•ä½å‹æµ·ä¸Š,Mitsui Sumitomo Insurance
+68,NEC,NEC
+68,æ‘ç”°è£½ä½œæ‰€,Murata Manufacturing
+68,ä¸‰è±é›»æ©Ÿ,Mitsubishi Electric
+68,ä½å‹é›»å·¥,Sumitomo Electric
+68,æ±ãƒ¬,Toray
+68,ã‚·ãƒãƒâ†“,Shimanoâ†“
+68,JXé‡‘å±,JX Nippon Mining & Metals
+68,ç©æ°´ãƒã‚¦ã‚¹,Sekisui House
+68,ã‚³ã‚¹ãƒ¢ã‚¨ãƒãƒ«ã‚®ãƒ¼,Cosmo Energy
+68,æ¾ç«¹,Shochiku
+68,IHI,IHI
+68,æ±Ÿå´ã‚°ãƒªã‚³,Ezaki Glico
+68,æ—¥æœ¬ãƒãƒ ,Nipponham
+68,ã‚­ãƒƒã‚³ãƒ¼ãƒãƒ³,Kikkoman
+68,ãƒ¡ãƒ«ã‚«ãƒª,Mercari
+68,JAL(ç·åˆè·)â†‘,JAL (General)â†‘
+68,ONE,ONE
+68,NSãƒ¦ãƒŠã‚¤ãƒ†ãƒƒãƒ‰æµ·é‹,NS United Kaiun
+68,ä¸‰äº•ä½å‹ãƒ•ã‚¡ã‚¤ãƒŠãƒ³ã‚¹ï¼†ãƒªãƒ¼ã‚¹,Sumitomo Mitsui Finance and Leasing
+68,ä¸‰è±HCã‚­ãƒ£ãƒ”ã‚¿ãƒ«,Mitsubishi HC Capital
+68,æ±äº¬ã‚»ãƒ³ãƒãƒ¥ãƒªãƒ¼,Tokyo Century
+68,èŠ™è“‰ç·åˆãƒªãƒ¼ã‚¹,Fuyo General Lease
+68,ä¼¯æ±,Hakuto
+68,JRAâ†“,JRAâ†“
+68,å¤§é˜ªãƒ¡ãƒˆãƒ­,Osaka Metro
+68,äº¬ç‹é›»é‰„,Keio Corporation
+68,é˜ªç¥é«˜é€Ÿé“è·¯,Hanshin Expressway
+68,æ§‹é€ è¨ˆç”»ç ”ç©¶æ‰€,Kozo Keikaku Engineering
+68,GEã‚¸ãƒ£ãƒ‘ãƒ³,GE Japan
+68,ãƒ†ã‚¹ãƒ©ã‚¸ãƒ£ãƒ‘ãƒ³,Tesla Japan
+68,ãƒ¡ãƒ«ã‚»ãƒ‡ã‚¹ãƒ™ãƒ³ãƒ„æ—¥æœ¬,Mercedes-Benz Japan
+68,ãƒœãƒƒã‚·ãƒ¥æ—¥æœ¬,Bosch Japan
+67,é‡æ‘è­‰åˆ¸(OP),Nomura Securities (OP)
+67,ä¸‰äº•ä½å‹ã‚«ãƒ¼ãƒ‰,Sumitomo Mitsui Card
+67,ãƒˆãƒ¼ã‚¢å†ä¿é™º,Toa Reinsurance
+67,æ±èŠ,Toshiba
+67,è³‡ç”Ÿå ‚â†“,Shiseidoâ†“
+67,å³¶æ´¥è£½ä½œæ‰€,Shimadzu Corporation
+67,SMC,SMC
+67,ãƒ’ãƒ­ã‚»é›»æ©Ÿ,Hirose Electric
+67,æ—¥æœ¬å…‰é›»,Nihon Kohden
+67,TDK,TDK
+67,ã‚ªãƒ ãƒ­ãƒ³,OMRON
+67,ãƒ€ã‚¤ã‚­ãƒ³,Daikin
+67,ãƒ¯ã‚³ãƒ ,Wacom
+67,ãƒ­ãƒ¼ãƒ â†‘,ROHMâ†‘
+67,ä½å‹é‡æ©Ÿæ¢°å·¥æ¥­,Sumitomo Heavy Industries
+67,æ—­åŒ–æˆ,Asahi Kasei
+67,æ£®æ°¸è£½è“,Morinaga & Co.
+67,æ£®æ°¸ä¹³æ¥­â†‘,Morinaga Milk Industryâ†‘
+67,ã‚«ã‚´ãƒ¡â†‘,Kagomeâ†‘
+67,æ—¥ç”£åŒ–å­¦,Nissan Chemical
+67,DMGæ£®ç²¾æ©Ÿ,DMG Mori
+67,ã‚¢ãƒ«ã‚³ãƒ‹ãƒƒã‚¯ã‚¹â†“,Alconixâ†“
+67,å²¡è°·é‹¼æ©Ÿ,Okaya & Co.
+67,è¶ç†,Chori
+67,æ —ç”°å·¥æ¥­,Kurita Water Industries
+67,èåŸè£½ä½œæ‰€â†‘,Ebara Corporationâ†‘
+67,ã‚ªãƒ«ã‚¬ãƒ,Organo
+67,æ±æ´‹ã‚¨ãƒ³ã‚¸äºŒã‚¢ãƒªãƒ³ã‚°â†“,Toyo Engineeringâ†“
+67,ã‚·ã‚¹ãƒ¡ãƒƒã‚¯ã‚¹,Sysmex
+67,ä¸­å›½é›»åŠ›,Chugoku Electric Power
+67,æ±äºœå»ºè¨­å·¥æ¥­,Toa Corporation
+67,JSR,JSR
+67,ã‚½ãƒ•ãƒˆãƒãƒ³ã‚¯,SoftBank
+67,NTTã‚³ãƒ â†“,NTT Comâ†“
+67,å‚å¤©è£½è–¬â†‘,Santen Pharmaceuticalâ†‘
+67,ã‚¨ãƒ ã‚¹ãƒªãƒ¼,M3, Inc.
+67,ãƒã‚¯ãƒ‹ã‚«,Macnica
+67,ç¥é‹¼å•†äº‹â†‘,Shinsho Corporationâ†‘
+67,ãƒ™ãƒãƒƒã‚»â†“,Benesseâ†“
+67,ãƒˆãƒ¼ãƒ¡ãƒ³ãƒ‡ãƒã‚¤ã‚¹,Tomen Devices
+67,é•·è°·å·¥â†‘,Hasekoâ†‘
+67,æ—¥é‰„ã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã‚º,NS Solutions
+67,ãƒ•ã‚¸ãƒŸã‚¤ãƒ³ã‚³ãƒ¼ãƒãƒ¬ãƒ¼ãƒ†ãƒƒãƒ‰,Fujimi Incorporated
+67,NEXCOæ±æ—¥æœ¬,NEXCO East
+67,NEXCOä¸­æ—¥æœ¬,NEXCO Central
+67,NEXCOè¥¿æ—¥æœ¬,NEXCO West
+67,æˆç”°å›½éš›ç©ºæ¸¯,Narita International Airport
+67,æ–°é–¢è¥¿å›½éš›ç©ºæ¸¯,New Kansai International Airport
+67,æ—¥æœ¬HPâ†‘,HP Japanâ†‘
+67,æ—¥æœ¬ãƒ­ãƒ¬ã‚¢ãƒ«â†‘,L'OrÃ©al Japanâ†‘
+66,ã¿ãšã»FG(OP),Mizuho FG (OP)
+66,ã‚ãŠãã‚‰éŠ€è¡Œâ†“,Aozora Bankâ†“
+66,å•†å·¥ä¸­é‡‘(ç·åˆè·),Shoko Chukin Bank (General)
+66,å¤§å’Œè¨¼åˆ¸(OP),Daiwa Securities (OP)
+66,ä¸‰è±UFJãƒ¢ãƒ«ã‚¬ãƒ³ã‚¹ã‚¿ãƒ³ãƒ¬ãƒ¼(OP),Mitsubishi UFJ Morgan Stanley (OP)
+66,ã¿ãšã»è¨¼åˆ¸(OP),Mizuho Securities (OP)
+66,æ¾äº•è¨¼åˆ¸,Matsui Securities
+66,æä¿ã‚¸ãƒ£ãƒ‘ãƒ³(OP),Sompo Japan (OP)
+66,ã¿ãšã»ãƒªãƒ¼ã‚¹,Mizuho Lees
+66,ã„ã™ã‚è‡ªå‹•è»Š,Isuzu Motors
+66,ãƒ‹ã‚³ãƒ³,Nikon
+66,ã‚«ã‚·ã‚ªè¨ˆç®—æ©Ÿ,Casio Computer
+66,ãƒ¤ãƒãƒç™ºå‹•æ©Ÿ,Yamaha Motor
+66,å¯Œå£«é›»æ©Ÿ,Fuji Electric
+66,å·å´é‡å·¥,Kawasaki Heavy Industries
+66,ã‚»ã‚¤ã‚³ãƒ¼ã‚¨ãƒ—ã‚½ãƒ³,Seiko Epson
+66,ãã‚“ã§ã‚“,Kinden
+66,åŒ—æµ·é“é›»åŠ›,Hokkaido Electric Power
+66,DNP,DNP
+66,å‡¸ç‰ˆå°åˆ·,Toppan Printing
+66,KOKUSAI,KOKUSAI ELECTRIC
+66,ã‚¹ã‚¿ãƒ¼ç²¾å¯†,Star Micronics
+66,ã‚½ã‚·ã‚ªãƒã‚¯ã‚¹ãƒˆ,Socionext
+66,ã‚­ã‚ªã‚¯ã‚·ã‚¢,Kioxia
+66,ä½å‹ãƒ™ãƒ¼ã‚¯ãƒ©ã‚¤ãƒˆ,Sumitomo Bakelite
+66,JRè¥¿æ—¥æœ¬,JR West
+66,è¿‘ç•¿æ—¥æœ¬é‰„é“,Kintetsu Railway
+66,åå¤å±‹é‰„é“,Meitetsu
+66,äº¬æ€¥é›»é‰„,Keikyu Corporation
+66,å…±æ „ã‚¿ãƒ³ã‚«ãƒ¼â†“,Kyoei Tankerâ†“
+66,ãƒ‡ã‚¯ã‚»ãƒªã‚¢ãƒ«ã‚º,Dexerials
+66,ãƒ†ãƒ«ãƒ¢,Terumo
+66,HOYAâ†“,HOYAâ†“
+66,æ—¥æ±é›»å·¥,Nitto Denko
+66,æ±åŒ—æ–°ç¤¾,Tohokushinsha
+66,ã‚¨ã‚¤ãƒ™ãƒƒã‚¯ã‚¹,Avex
+66,ãƒªã‚³ãƒ¼,Ricoh
+66,å®‰å·é›»æ©Ÿ,Yaskawa Electric
+66,ã‚µãƒƒãƒãƒ­ãƒ“ãƒ¼ãƒ«,Sapporo Breweries
+66,ã‚ªãƒªã‚¨ãƒ³ã‚¿ãƒ«ãƒ©ãƒ³ãƒ‰,Oriental Land
+66,æ—¥æœ¬å·¥å–¶,Nippon Koei
+66,ãƒ„ãƒ ãƒ©,Tsumura
+66,æ—¥ç«‹ã‚³ãƒ³ã‚µãƒ«ãƒ†ã‚£ãƒ³ã‚°,Hitachi Consulting
+66,ãƒˆãƒ¬ãƒ³ãƒ‰ãƒã‚¤ã‚¯ãƒ­,Trend Micro
+66,å±±ç”°ã‚³ãƒ³ã‚µãƒ«ãƒ†ã‚£ãƒ³ã‚°â†‘,Yamada Consultingâ†‘
+65,ã‚ŠããªéŠ€è¡Œ(OP),Resona Bank (OP)
+65,æ–°ç”ŸéŠ€è¡Œ,Shinsei Bank
+65,SMBCæ—¥èˆˆè¨¼åˆ¸(OP),SMBC Nikko Securities (OP)
+65,åŒ—é™¸é›»åŠ›,Hokuriku Electric Power
+65,å››å›½é›»åŠ›,Shikoku Electric Power
+65,SUBARU,SUBARU
+65,ãƒãƒ„ãƒ€,Mazda
+65,ä¸‰è±è‡ªå‹•è»Šâ†‘,Mitsubishi Motorsâ†‘
+65,ãƒˆãƒ¨ã‚¿è»Šä½“,Toyota Auto Body
+65,æ—¥æœ¬ã‚¬ã‚¤ã‚·,NGK Insulators
+65,äº¬ã‚»ãƒ©,Kyocera
+65,ãƒ¬ã‚¾ãƒŠãƒƒã‚¯,Resonac
+65,ç¥æˆ¸è£½é‹¼æ‰€,Kobe Steel
+65,å¸äºº,Teijin
+65,é–¢é›»å·¥,Kandenko
+65,ã‚¿ã‚«ãƒ©ãƒˆãƒŸãƒ¼,Takara Tomy
+65,ã‚³ãƒ¼ã‚»ãƒ¼,KOSÃ‰
+65,æ—¥ç«‹å»ºæ©Ÿ,Hitachi Construction Machinery
+65,ãƒ€ã‚¤ãƒ•ã‚¯,Daifuku
+65,ä¸‰äº•é‡‘å±é‰±æ¥­,Mitsui Mining & Smelting
+65,æ—¥æœ¬è§¦åª’,Nippon Shokubai
+65,ãƒ­ãƒ¼ãƒˆè£½è–¬,Rohto Pharmaceutical
+65,TOTO,TOTO
+65,ä¸‰è±ãƒãƒ†ãƒªã‚¢ãƒ«,Mitsubishi Materials
+65,é–¢è¥¿ãƒšã‚¤ãƒ³ãƒˆ,Kansai Paint
+65,ã‚¯ãƒ©ãƒ¬,Kuraray
+65,ã‚«ãƒã‚«â†‘,Kanekaâ†‘
+65,ã‚¢ã‚ºãƒ“ãƒ«,Azbil
+65,æ—¥æœ¬ãƒšã‚¤ãƒ³ãƒˆ,Nippon Paint
+65,DIC,DIC
+65,ã‚¯ãƒ¬ãƒ,Kureha
+65,UBE,UBE
+65,ã‚¢ãƒ«ãƒãƒƒã‚¯,ULVAC
+65,èŠæµ¦ãƒ¡ã‚«ãƒˆãƒ­ãƒ‹ã‚¯ã‚¹,Shibaura Mechatronics
+65,æ±ã‚½ãƒ¼,Tosoh
+65,ãƒ¡ã‚¿ã‚¦ã‚©ãƒ¼ã‚¿ãƒ¼,METAWATER
+65,ã‚«ãƒ«ãƒ“ãƒ¼,Calbee
+65,BRã‚µãƒ¼ãƒ†ã‚£ãƒ¯ãƒ³â†‘,B-R 31 ICE CREAMâ†‘
+65,ãƒ€ã‚¤ã‚»ãƒ«,Daicel
+65,ANA(ç·åˆè·),ANA (General) 
+65,LINEãƒ¤ãƒ•ãƒ¼,LINE Yahoo
+65,DeNA,DeNA
+65,ã‚°ãƒªãƒ¼,GREE
+65,ã‚³ã‚¯ãƒ¨â†‘,KOKUYOâ†‘
+65,ä¸‰è±é‰›ç­†â†‘,Mitsubishi Pencilâ†‘
+65,JCB,JCB
+65,ææ—è£½è–¬,Kyorin Pharmaceutical
+65,æŒç”°è£½è–¬,Mochida Pharmaceutical
+65,å¤§å¡šå•†ä¼šâ†‘,Otsuka Corporationâ†‘
+65,JRä¹å·,JR Kyushu
+65,ä¸‰è±UFJãƒ‹ã‚³ã‚¹,Mitsubishi UFJ Nicos
+65,ç†Šè°·çµ„,Kumagai Gumi
+65,é‰„å»ºå»ºè¨­,Tekken Corporation
+64,ã‚†ã†ã¡ã‚‡éŠ€è¡Œ(ç·åˆè·),Japan Post Bank (General)
+64,ã‚ã„ãŠã„ãƒ‹ãƒƒã‚»ã‚¤åŒå’Œ,Aioi Nissay Dowa Insurance
+64,ã‚¹ã‚ºã‚­,Suzuki
+64,æ—¥ç”£è»Šä½“,Nissan Shatai
+64,ã‚¢ã‚¤ã‚·ãƒ³,AISIN
+64,æ—¥æœ¬ç‰¹æ®Šé™¶æ¥­â†‘,NGK Spark Plugâ†‘
+64,ä½å‹ã‚´ãƒ å·¥æ¥­,Sumitomo Rubber Industries
+64,æ¨ªæµœã‚´ãƒ ,Yokohama Rubber
+64,GSãƒ¦ã‚¢ã‚µ,GS Yuasa
+64,æ±é‚¦ã‚¬ã‚¹,Toho Gas
+64,é›ªå°ãƒ¡ã‚°ãƒŸãƒ«ã‚¯,Megmilk Snow Brand
+64,ãƒã‚¦ã‚¹é£Ÿå“,House Foods
+64,ä¼Šè—¤ãƒãƒ ,Itoham
+64,ãƒ‹ãƒƒãƒ—ãƒ³,NIPPN
+64,ãƒ‹ãƒƒã‚¹ã‚¤,Nissui
+64,ãƒãƒ«ãƒãƒ‹ãƒãƒ­,Maruha Nichiro
+64,ã‚³ãƒ‹ã‚«ãƒŸãƒãƒ«ã‚¿,Konica Minolta
+64,æ—¥æ¸…ã‚ªã‚¤ãƒªã‚ª,Nisshin OilliO
+64,ä¸äºŒè£½æ²¹,Fuji Oil
+64,æ—¥æ²¹,NOF Corporation
+64,æ±èŠãƒ†ãƒƒã‚¯,Toshiba TEC
+64,æ²–é›»æ°—å·¥æ¥­,OKI
+64,æ—¥æœ¬é›»å­,JEOL
+64,ãƒ•ã‚¸ã‚¯ãƒ©,Fujikura
+64,ã‚¤ãƒ“ãƒ‡ãƒ³,Ibiden
+64,ãƒ«ãƒã‚µã‚¹ã‚¨ãƒ¬ã‚¯ãƒˆãƒ­ãƒ‹ã‚¯ã‚¹â†“,Renesas Electronicsâ†“
+64,MARUWA,MARUWA
+64,é‡æ‘ãƒã‚¤ã‚¯ãƒ­ã‚µã‚¤ã‚¨ãƒ³ã‚¹,Nomura Micro Science
+64,æ—¥æœ¬ã‚³ãƒ ã‚·ã‚¹,Nippon Comsys
+64,ãƒ¤ãƒ³ãƒãƒ¼,Yanmar
+64,æ—¥æœ¬æ›¹é”,Nippon Soda
+64,ãƒ©ã‚¤ã‚ªãƒ³,Lion
+64,å¯Œå£«çŸ³æ²¹,Fuji Oil Company
+64,å¤æ²³æ©Ÿæ¢°é‡‘å±â†“,Furukawa Co.â†“
+64,æ—¥æœ¬ã‚¼ã‚ªãƒ³,Zeon Corporation
+64,ADEKA,ADEKA
+64,æ˜æ²»æµ·é‹,Meiji Shipping
+64,ä¸‰äº•å€‰åº«â†‘,Mitsui-Sokoâ†‘
+64,ã‚¦ã‚·ã‚ªé›»æ©Ÿ,Ushio Inc.
+64,æ˜é›»èˆ,Meidensha
+64,DOWA,DOWA
+64,æ—¥æœ¬åŸé›»,JAPC
+64,æ±æ€¥å»ºè¨­,Tokyu Construction
+64,æ—¥æœ¬é…¸ç´ ,Nippon Sanso
+64,é«˜ç ‚é¦™æ–™å·¥æ¥­,Takasago International
+64,æ¥½å¤©,Rakuten
+64,æ—¥ç«‹ã‚·ã‚¹ãƒ†ãƒ ã‚º,Hitachi Systems
+64,å®‰è—¤ãƒã‚¶ãƒ,Ando Hazama
+64,ä¸‰è±é£Ÿå“,Mitsubishi Shokuhin
+64,åŠ è³€é›»å­â†“,Kaga Electronicsâ†“
+64,å·å´è¿‘æµ·æ±½èˆ¹,Kawasaki Kinkai Kisen
+64,ãƒ­ã‚¸ã‚¹ãƒ†ã‚£ãƒ¼ãƒ‰â†‘,LOGISTEEDâ†‘
+63,ã‹ã‚“ã½ç”Ÿå‘½ä¿é™º,Japan Post Insurance
+63,åŠ´åƒé‡‘åº«é€£åˆä¼š,The Rokinren Bank
+63,LIXIL,LIXIL
+63,æ²–ç¸„é›»åŠ›â†‘,Okinawa Electric Powerâ†‘
+63,æ—¥æœ¬ç²¾å·¥â†‘,NSKâ†‘
+63,æ—¥æœ¬ç™ºæ¡â†‘,NHK Springâ†‘
+63,ã‚«ãƒŠãƒ‡ãƒ“ã‚¢,Kanadevia
+63,ã‚·ãƒã‚ºãƒ³æ™‚è¨ˆ,Citizen Watch
+63,ãƒ–ãƒ©ã‚¶ãƒ¼å·¥æ¥­â†“,Brother Industriesâ†“
+63,ç‰§é‡ãƒ•ãƒ©ã‚¤ã‚¹,Makino
+63,ã‚¸ã‚§ã‚¤ãƒ†ã‚¯ãƒˆ,JTEKT
+63,æ—¥æœ¬è£½é‹¼æ‰€,The Japan Steel Works
+63,ãƒŠãƒ–ãƒ†ã‚¹ã‚³â†“,Nabtescoâ†“
+63,ã‚¢ãƒ³ãƒªãƒ„â†“,Anritsuâ†“
+63,åŠ è—¤ç”£æ¥­â†‘,Kato Sangyoâ†‘
+63,æ—¥æœ¬é›»æ°—ç¡å­,Nippon Electric Glass
+63,DMä¸‰äº•è£½ç³–,DM Mitsui Sugar
+63,æµœæ¾ãƒ›ãƒˆãƒ‹ã‚¯ã‚¹,Hamamatsu Photonics
+63,ãƒ›ã‚·ã‚¶ã‚­,Hoshizaki
+63,ãƒ‹ãƒƒãƒãƒ³é«˜åº¦ç´™å·¥æ¥­,Nippon Kodoshi
+63,æ±äº¬æ±½èˆ¹,Tokyo Kisen
+63,æ¾æ¾¤å€‰åº«,Shibusawa Warehouse
+63,å®‰ç”°å€‰åº«,Yasuda Logistics
+6:3,ç‹å­è£½ç´™,Oji Paper
+63,ãƒ¬ãƒ³ã‚´ãƒ¼,Rengo
+63,æ—¥æœ¬æ¿ç¡å­,Nippon Sheet Glass
+63,ãƒ‡ãƒ³ã‚«â†“,Denkaâ†“
+63,æ±äº¬è£½éµ,Tokyo Steel
+63,ç†æƒ³ç§‘å­¦å·¥æ¥­,Riso Kagaku
+63,æ—¥ç«‹Astemo,Hitachi Astemo
+63,ãƒˆãƒ¨ã‚¿ç´¡ç¹”â†‘,Toyota Boshokuâ†‘
+63,å°ç³¸è£½ä½œæ‰€,Koito Manufacturing
+63,ãƒ‘ã‚¤ã‚ªãƒ‹ã‚¢,Pioneer
+63,ãƒ‘ã‚¤ãƒ­ãƒƒãƒˆã‚³ãƒ¼ãƒãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³,Pilot Corporation
+63,æ—¥æœ¬TCS,Nippon TCS
+63,ãƒ—ãƒªãƒãƒãƒ ,Prima Meat Packers
+63,ãƒ‹ãƒãƒ¬ã‚¤,Nichirei
+63,å‰ç”°å»ºè¨­å·¥æ¥­,Maeda Corporation
+63,æ—¥æœ¬é“è·¯,Nippon Road
+63,ã‚¢ã‚¹ã‚¯ãƒ«,ASKUL
+63,ZOZO,ZOZO
+63,æ–°å…‰é›»æ°—å·¥æ¥­,Shinko Electric Industries
+63,ã‚¯ãƒŸã‚¢ã‚¤åŒ–å­¦å·¥æ¥­â†“,Kumiai Chemical Industryâ†“
+63,ã‚¨ã‚¢ã‚¦ã‚©ãƒ¼ã‚¿ãƒ¼â†“,Air Waterâ†“
+63,ãƒŸãƒ©ã‚¤ãƒˆãƒ»ãƒ¯ãƒ³,MIRAIT ONE
+63,ãƒã‚¯ãƒ­ãƒŸãƒ«,Macromill
+63,ã‚¯ãƒƒã‚¯ãƒ‘ãƒƒãƒ‰,Cookpad
+63,MSOL,MSOL
+63,ã‚»ã‚¬ã‚µãƒŸãƒ¼,Sega Sammy
+63,ã‚³ãƒŠãƒŸ,Konami
+63,ãƒŸã‚¯ã‚·ã‚£,mixi
+62,ã‚·ãƒ£ãƒ¼ãƒ—,Sharp
+62,ãƒ‹ãƒ‡ãƒƒã‚¯,Nidec
+62,ä¸‰è±ãµãã†,Mitsubishi Fuso
+62,UDãƒˆãƒ©ãƒƒã‚¯ã‚¹,UD Trucks
+62,å¤æ²³é›»å·¥,Furukawa Electric
+62,UACJ,UACJ
+62,ã‚¢ãƒãƒ€,Amada
+62,å¤§åŒç‰¹æ®Šé‹¼,Daido Steel
+62,ã‚¢ãƒãƒâ†“,Amanoâ†“
+62,ä¿¡è¶Šãƒãƒªãƒãƒ¼,Shin-Etsu Polymer
+62,å…±è‹±è£½é‹¼,Kyoei Steel
+62,æ—¥æœ¬å†¶é‡‘å·¥æ¥­,Nippon Yakin Kogyo
+62,ãƒŸãƒãƒ™ã‚¢ãƒŸãƒ„ãƒŸ,MinebeaMitsumi
+62,ã‚»ã‚¤ã‚³ãƒ¼ã‚°ãƒ«ãƒ¼ãƒ—,Seiko Group
+62,å¯Œå£«é€šã‚¼ãƒãƒ©ãƒ«,Fujitsu General
+62,ãƒã‚­ã‚¿,Makita
+62,ãƒ€ã‚¤ãƒ˜ãƒ³,Daihen
+62,ã‚·ãƒ³ãƒ•ã‚©ãƒ‹ã‚¢ãƒ†ã‚¯ãƒãƒ­ã‚¸ãƒ¼,Sinfonia Technology
+62,ä¸‰æµ¦å·¥æ¥­â†“,Miura Co.â†“
+62,å¤ªå¹³æ´‹ã‚»ãƒ¡ãƒ³ãƒˆ,Taiheiyo Cement
+62,å±±é™½ç‰¹æ®Šè£½é‹¼,Sanyo Special Steel
+62,NXæ—¥æœ¬é€šé‹,Nippon Express
+62,NOK,NOK
+62,ã‚¢ãƒ«ãƒ—ã‚¹ã‚¢ãƒ«ãƒ‘ã‚¤ãƒ³,Alps Alpine
+62,ä½å‹å¤§é˜ªã‚»ãƒ¡ãƒ³ãƒˆ,Sumitomo Osaka Cement
+62,SUMCO,SUMCO
+62,ä¸‰æ„›ã‚ªãƒ–ãƒª,San-ai Obbli
+62,ã‚»ãƒ–ãƒ³&ã‚¢ã‚¤,Seven & i
+62,NTTãƒ•ã‚¡ã‚·ãƒªãƒ†ã‚£ãƒ¼ã‚º,NTT Facilities
+62,ã‚»ãƒ¡ãƒ€ã‚¤ãƒ³,Cemedine
+62,æ¥µæ´‹,Kyokuyo
+62,Jã‚ªã‚¤ãƒ«ãƒŸãƒ«ã‚º,J-Oil Mills
+62,ãƒãƒ–ãƒãƒ¢ãƒ¼ã‚¿ãƒ¼,Mabuchi Motor
+62,ã‚¨ã‚¹ãƒ†ãƒ¼,S.T. Corporation
+62,ãƒãƒ³ãƒ€ãƒ ,Mandom
+62,ãƒ€ã‚¹ã‚­ãƒ³,Duskin
+62,ä¼Šè—¤å¿ é£Ÿå“,ITOCHU-SHOKUHIN
+62,ã‚µã‚«ã‚¿ã®ã‚¿ãƒâ†“,Sakata Seedâ†“
+62,æ—¥æœ¬è¾²è–¬â†‘,Nihon Nohyakuâ†‘
+62,ãƒ‹ãƒã‚¢ã‚¹,NICHIAS
+62,å†…ç”°æ´‹è¡Œ,Uchida Yoko
+62,ã‚«ã‚«ã‚¯ã‚³ãƒ ,Kakaku.com
+62,ä¸‰äº•ä½å‹å»ºè¨­â†‘,Sumitomo Mitsui Constructionâ†‘
+62,ã‚½ãƒ¼ã‚¹ãƒã‚¯ã‚¹ãƒˆ,Sourcenext
+62,ã‚µã‚¤ãƒœã‚¦ã‚º,Cybozu
+62,Sansan,Sansan
+62,ALBERT,ALBERT
+62,ãƒ•ã‚§ãƒ­ãƒ¼ãƒ†ãƒƒã‚¯,Ferrotec
+62,HENNGE,HENNGE
+62,ã‚½ãƒ‹ãƒ¼ç”Ÿå‘½,Sony Life
+62,ã‚¢ã‚¸ã‚¢èˆªæ¸¬,Asia Air Survey
+62,æ—¥æœ¬ç©ºæ¸¯ãƒ“ãƒ«ãƒ‡ãƒ³ã‚°,Japan Airport Terminal
+62,NTN,NTN
+61,æ—¥é‡è‡ªå‹•è»Š,Hino Motors
+61,æ—¥æœ¬è£½ç´™,Nippon Paper Industries
+61,å¤§ç‹è£½ç´™,Daio Paper
+61,ä¸‰äº•E&S,Mitsui E&S
+61,æ—¥æœ¬è»Šè¼Œè£½é€ ,Nippon Sharyo
+61,ä½å‹ç†å·¥,Sumitomo Riko
+61,ãƒãƒªã‚¿ã‚±,Noritake
+61,è±Šç”°åˆæˆ,Toyoda Gosei
+61,æ±æ´‹åˆæˆå·¥æ¥­,Toyo Gosei
+61,JVCã‚±ãƒ³ã‚¦ãƒƒãƒ‰,JVCKenwood
+61,ãƒã‚¯ã‚»ãƒ«,Maxell
+61,ä¸‰è±ãƒ­ã‚¸ã‚¹ãƒã‚¯ã‚¹ãƒˆ,Mitsubishi Logisnext
+61,TOYOTIRE,Toyo Tire
+61,æ±æµ·ç†åŒ–é›»æ©Ÿâ†‘,Tokai Rikaâ†‘
+61,ãƒ•ã‚¸ãƒ†ãƒƒã‚¯,Fujitec
+61,ã‚«ãƒ¤ãƒ,KYB
+61,ä¸‰ãƒ„æ˜Ÿãƒ™ãƒ«ãƒˆ,Mitsuboshi Belting
+61,ãƒ­ãƒ¼ãƒ©ãƒ³ãƒ‰,Roland
+61,ã‚¢ãƒ¼ã‚¹è£½è–¬,Earth Corporation
+61,ã‚­ãƒ¦ãƒ¼ãƒ”ãƒ¼,Kewpie
+61,ã‚¨ãƒãƒ©é£Ÿå“å·¥æ¥­,Ebara Foods
+61,å…‰é€šä¿¡,Hikari Tsushin
+61,ã‚ªãƒªã‚³ãƒ³,Oricon
+61,ã‚ªãƒ¼ã‚¯ãƒ,Okuma
+61,THK,THK
+61,ãƒªãƒ³ãƒŠã‚¤,Rinnai
+61,ã‚¤ãƒ¼ã‚°ãƒ«å·¥æ¥­,Eagle Industry
+61,æ±æµ·ã‚«ãƒ¼ãƒœãƒ³,Tokai Carbon
+61,æ—¥æœ¬ã‚«ãƒ¼ãƒœãƒ³,Nippon Carbon
+61,ãƒŸã‚ºãƒ,Mizuno
+61,ã—ã¾ã‚€ã‚‰â†‘,Shimamuraâ†‘
+61,å¤ªé™½èª˜é›»,Taiyo Yuden
+61,ç‰äº•å•†èˆ¹â†“,Tamai Steamshipâ†“
+61,å·¥æ©ŸHD,Koki Holdings
+61,ã‚¸ãƒ£ãƒ ã‚³,JAMCO
+61,æ—¥æ¸…ç´¡,Nisshinbo
+61,ãƒˆãƒ¼ãƒ¨ãƒ¼ã‚«ãƒãƒ„,Toyo Kanetsu
+61,ãƒ‘ãƒ¼ã‚½ãƒ«HD,PERSOL HOLDINGS
+61,YKK,YKK
+61,ä¸äºŒè¶Š,Nachi-Fujikoshi
+61,æ·€å·è£½é‹¼æ‰€â†“,Yodogawa Steel Worksâ†“
+61,åˆåŒè£½éµ,Godo Steel
+61,å €å ´è£½ä½œæ‰€,Horiba
+61,ãƒ¤ãƒãƒˆé‹è¼¸(ç·åˆè·)â†‘,Yamato Transport (General)â†‘
+61,å¤§é˜ªæœ‰æ©ŸåŒ–å­¦å·¥æ¥­,Osaka Organic Chemical Industry
+61,æ‰¶æ¡‘åŒ–å­¦å·¥æ¥­,Fuso Chemical
+61,æ—¥æœ¬è»½é‡‘å±â†“,Nippon Light Metalâ†“
+61,ãƒˆã‚¯ãƒ¤ãƒâ†“,Tokuyamaâ†“
+61,æ—¥æœ¬ãƒ‘ãƒ¼ã‚«ãƒ©ã‚¤ã‚¸ãƒ³ã‚°,Nihon Parkerizing
+61,NISSHA,Nissha
+61,æ–°å ±å›½ãƒãƒ†ãƒªã‚¢ãƒ«,Shinhokoku Material
+61,å¿œç”¨åœ°è³ª,Oyo Corporation
+61,ã‚ªã‚«ãƒ ãƒ©,Okamura
+60,ãƒ€ã‚¤ãƒãƒ„å·¥æ¥­â†“,Daihatsu Motorâ†“
+60,å²¡ä¸‰è¨¼åˆ¸(OP),Okasan Securities (OP)
+60,æ±æµ·æ±äº¬è¨¼åˆ¸(OP),Tokai Tokyo Securities (OP)
+60,ã‚¯ãƒ¬ãƒ‡ã‚£ã‚»ã‚¾ãƒ³,Credit Saison
+60,OIOIâ†‘,Maruiâ†‘
+60,ä¸Šçµ„,Kamigumi
+60,ãƒ‹ãƒˆãƒª,Nitori
+60,ä½å·æ€¥ä¾¿(ç·åˆè·)â†‘,Sagawa Express (General)â†‘
+60,ãƒ¤ãƒŠã‚»,YANASE
+60,å¤§æ±å»ºè¨—,Daito Trust Construction
+60,ã‚¿ãƒãƒ›ãƒ¼ãƒ ,Tama Home
+60,ãƒ‘ãƒŠãƒ›ãƒ¼ãƒ ,PanaHome
+60,ãƒã‚¯ã‚½ãƒ³,Nexon
+60,ã‚¬ãƒ³ãƒ›ãƒ¼â†“,GungHoâ†“
+60,ã‚³ãƒ­ãƒ—ãƒ©,Colopl
+60,Sky,Sky
+60,å—æµ·è¾°æ‘å»ºè¨­,Nankai Tatsumura Construction
+60,äº¬ç‹å»ºè¨­,Keio Construction
+60,ã‚ªãƒ¼ãƒ—ãƒ³ãƒã‚¦ã‚¹,Open House
+60,æ¥½å¤©éŠ€è¡Œ,Rakuten Bank
+60,æœæ—¥ç”Ÿå‘½,Asahi Mutual Life Insurance
+60,å¤§æ¨¹ç”Ÿå‘½,Taiju Life Insurance
+60,ã‚¿ã‚«ãƒ©ã‚¹ã‚¿ãƒ³ãƒ€ãƒ¼ãƒ‰,Takara Standard
+60,ãƒãƒ¼ãƒªãƒ„,Noritz
+60,ã‚¹ã‚¿ãƒ³ãƒ¬ãƒ¼é›»æ°—,Stanley Electric
+60,æœªæ¥å·¥æ¥­,Mirai Industry
+60,æ—¥æœ¬ã‚¢ãƒ“ã‚ªãƒ‹ã‚¯ã‚¹,Nippon Avionics
+60,æ„›ä¸‰å·¥æ¥­â†‘,Aisan Industryâ†‘
+60,æ±åŒ—ç‰¹æ®Šé‹¼,Tohoku Steel
+60,ãƒ•ãƒ«ãƒ¤é‡‘å±,Furuya Metal
+60,æ¤¿æœ¬ãƒã‚¨ã‚¤ãƒ³â†“,Tsubakimoto Chainâ†“
+60,ãƒ•ã‚¯ã‚·ãƒã‚¬ãƒªãƒ¬ã‚¤,Fukushima Galilei
+60,å°ç”°åŸã‚¨ãƒ³ã‚¸ãƒ‹ã‚¢ãƒªãƒ³ã‚°,Odawara Engineering
+60,ç¬¬ä¸€ç¨€å…ƒç´ åŒ–å­¦å·¥æ¥­,Daiichi Kigenso Kagaku Kogyo
+60,ã‚µãƒ³ã‚±ãƒ³é›»æ°—,Sanken Electric
+60,ä¸‰äº•ãƒã‚¤ãƒ†ãƒƒã‚¯â†‘,Mitsui High-tecâ†‘
+60,ã‚¼ãƒªã‚¢æ–°è–¬å·¥æ¥­,Zeria Pharmaceutical
+60,æ—¥æœ¬æ–°è–¬,Nippon Shinyaku
+60,æ—¥æœ¬ä¿¡å·,Nippon Signal
+60,ã‚¹ã‚¿ãƒ¼ã‚¼ãƒ³,Starzen
+60,ã‚¨ãƒ¬ã‚³ãƒ ,Elecom
+60,ã‚µãƒ³ã‚²ãƒ„,Sangetsu
+60,æœæ—¥ã‚¤ãƒ³ãƒ†ãƒƒã‚¯,Asahi Intecc
+60,èˆ¹äº•ç·ç ”,Funai Soken
+60,ã‚¿ãƒŠãƒ™ã‚³ãƒ³ã‚µãƒ«ãƒ†ã‚£ãƒ³ã‚°,Tanabe Consulting
+60,ãƒªãƒ³ã‚¯ã‚¢ãƒ³ãƒ‰ãƒ¢ãƒãƒ™ãƒ¼ã‚·ãƒ§ãƒ³,Link and Motivation
+60,å‰æœ¬èˆˆæ¥­,Yoshimoto Kogyo
+60,ä¸–ç´€æ±æ€¥å·¥æ¥­â†“,Seikitokyu Kogyoâ†“
+59,ä¸Šä½åœ°éŠ€,Top Regional Banks
+59,é™å²¡ã‚¬ã‚¹,Shizuoka Gas
+59,åŒ—æµ·é“ç“¦æ–¯,Hokkaido Gas
+59,å¯Œå£«ã‚½ãƒ•ãƒˆ,Fuji Soft
+59,ã¯ãªã•ãç”Ÿå‘½,Hanasaku Life Insurance
+59,ä¸‰é™½å•†ä¼š,Sanyo Shokai
+59,ã‚¿ã‚­ãƒ’ãƒ¨ãƒ¼,Takihyo
+59,ã‚¸ãƒ£ãƒ‘ãƒ³ãƒ‡ã‚£ã‚¹ãƒ—ãƒ¬ã‚¤,Japan Display
+59,ä¸€æ¡å·¥å‹™åº—,Ichijo Co.
+59,ã‚¢ãƒ—ãƒ©ã‚¹,Aplus
+59,ã‚ªãƒªã‚³,Orico
+59,DHC,DHC
+59,ä¼Šè—¤åœ’,Ito En
+59,æˆåŸçŸ³äº•,Seijo Ishii
+59,ã‚ã‚‰ãŸ,Arata
+59,ãƒ„ã‚¬ãƒŸ,Tsugami
+59,æ—¥æ©Ÿè£…,Nikkiso
+59,æ—¥æœ¬ãƒˆãƒ ã‚½ãƒ³,Nippon Thompson
+59,æ„›çŸ¥æ©Ÿæ¢°å·¥æ¥­,Aichi Machine Industry
+59,æ–°æ˜å’Œå·¥æ¥­,ShinMaywa Industries
+59,ãƒ•ã‚©ã‚¹ã‚¿ãƒ¼é›»æ©Ÿ,Foster Electric
+59,å¸å›½é›»æ©Ÿè£½ä½œæ‰€,Teikoku Electric Mfg.
+59,èŠæµ¦æ©Ÿæ¢°,Shibaura Machine
+59,æ±æ´‹è£½ç½â†“,Toyo Seikanâ†“
+59,å¯Œå£«ç´¡â†“,Fujiboâ†“
+59,KHãƒã‚ªã‚±ãƒ ,KH Neochem
+59,å°æ—è£½è–¬,Kobayashi Pharmaceutical
+59,ä¸‰è±è£½é‹¼,Mitsubishi Steel Mfg.
+59,ãƒ•ã‚¿ãƒç”£æ¥­â†“,Futaba Industrialâ†“
+59,ãƒŸãƒ„ãƒ,Mitsuba
+59,ä¸‰æ«»å·¥æ¥­,Sanoh Industrial
+59,ä½å‹ç²¾å¯†å·¥æ¥­â†“,Sumitomo Precision Productsâ†“
+59,ãƒ‹ãƒ‡ãƒƒã‚¯OKK,Nidec OKK
+59,ãƒ€ã‚¤ãƒ¯ãƒœã‚¦,Daiwabo
+59,ãƒ¦ãƒ¼ã‚°ãƒ¬ãƒŠ,euglena
+59,ãƒãƒ«ãƒŸãƒ¥ãƒ¼ãƒ€â†“,BALMUDAâ†“
+59,ã‚»ãƒ³ãƒˆãƒ©ãƒ«ç¡å­,Central Glass
+59,ã‚¢ã‚¤ãƒ›ãƒ³,Aiphone
+59,æ˜­å’ŒçœŸç©º,Showa Shinku
+59,ã‚¿ãƒ€ãƒ,Tadano
+59,ã‚¤ãƒˆãƒ¼ã‚­,ITOKI
+59,æ¨ªæ²³ãƒ–ãƒªãƒƒã‚¸,Yokogawa Bridge
+59,ä¿åœŸè°·åŒ–å­¦å·¥æ¥­,Hodogaya Chemical
+59,ã‚¿ã‚«ãƒ©ãƒã‚¤ã‚ª,Takara Bio
+59,æ—¥é€²å·¥å…·,NS Tool
+59,ã‚»ãƒ¼ãƒ¬ãƒ³,Seiren
+59,å¤§å¹³æ´‹é‡‘å±,Pacific Metals
+59,æ—¥æœ¬ã‚±ãƒŸãƒ•ã‚¡,Nippon Chemiphar
+59,æ±é‚¦äºœé‰›,Toho Zinc
+59,PALTAC,PALTAC
+59,ã‚¢ãƒ«ãƒ•ãƒ¬ãƒƒã‚µ,Alfresa
+59,ã‚¹ã‚ºã‚±ãƒ³,Suzuken
+59,æ±é‚¦è–¬å“,Toho Pharmaceutical
+58,ä¸­ä½åœ°éŠ€,Mid-tier Regional Banks
+58,ã‚†ã†ã¡ã‚‡éŠ€è¡Œ(åœ°åŸŸåŸºå¹¹),Japan Post Bank (Regional)
+58,JRå››å›½,JR Shikoku
+58,ä¸‰è¶Šä¼Šå‹¢ä¸¹,Isetan Mitsukoshi
+58,é«˜å³¶å±‹,Takashimaya
+58,J.ãƒ•ãƒ­ãƒ³ãƒˆãƒªãƒ†ã‚¤ãƒªãƒ³ã‚°,J. Front Retailing
+58,å¤§ä¸¸æ¾å‚å±‹,Daimaru Matsuzakaya
+58,é˜ªæ€¥é˜ªç¥ç™¾è²¨åº—,Hankyu Hanshin Department Stores
+58,è‰¯å“è¨ˆç”»,Ryohin Keikaku
+58,ãƒ¯ã‚³ãƒ¼ãƒ«â†“,Wacoalâ†“
+58,ã‚¤ã‚ªãƒ³,AEON
+58,ã‚¤ã‚ªãƒ³ãƒ•ã‚£ãƒŠãƒ³ã‚·ãƒ£ãƒ«ã‚µãƒ¼ãƒ“ã‚¹,AEON Financial Service
+58,ã‚«ãƒ³ãƒ­,Kanro
+58,ã‚»ã‚³ãƒ ,SECOM
+58,ç¶œåˆè­¦å‚™ä¿éšœ,ALSOK
+58,ã‚°ãƒ³ã‚¼,Gunze
+58,ãƒŸã‚µãƒ¯ãƒ›ãƒ¼ãƒ ,MISAWA HOMES
+58,ã‚ã‚“ã—ã‚“ä¿è¨¼,Anshin Guarantor Service
+58,Casa,Casa
+58,ãƒ™ãƒãƒ•ã‚£ãƒƒãƒˆãƒ¯ãƒ³,Benefit One
+58,ã‚¢ã‚¤ãƒ€ã‚¨ãƒ³ã‚¸ãƒ‹ã‚¢ãƒªãƒ³ã‚°,Aida Engineering
+58,æ­¦è”µç²¾å¯†å·¥æ¥­,Musashi Seimitsu Industry
+58,ç«¹å†…è£½ä½œæ‰€,Takeuchi Mfg.
+58,ç©æ°´æ¨¹è„‚,Sekisui Jushi
+58,ãƒ‹ãƒã‚³ãƒ³,Nichicon
+58,ãƒ¦ãƒ‹ãƒ—ãƒ¬ã‚¹,Unipres
+58,æ„›çŸ¥è£½é‹¼,Aichi Steel
+58,æ—¥æœ¬ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆå·¥æ¥­,Nippon Concrete Industries
+58,äº•é–¢è¾²æ©Ÿ,Iseki & Co.
+58,æ—¥æœ¬é‡‘éŠ­æ©Ÿæ¢°,Japan Cash Machine
+58,æ¥µæ±é–‹ç™ºå·¥æ¥­,Kyokuto Kaihatsu Kogyo
+58,ãƒˆãƒ”ãƒ¼å·¥æ¥­,Topy Industries
+58,æ‘ä¸Šé–‹æ˜å ‚,Murakami Kaimeido
+58,æ—¥æœ¬ç©ºèª¿ã‚µãƒ¼ãƒ“ã‚¹,Nippon Air Conditioning Services
+58,å…±åŒå°åˆ·,Kyodo Printing
+58,æ—¥æœ¬ã‚³ãƒ¼ã‚¯ã‚¹å·¥æ¥­,Nippon Coke & Engineering
+58,åæ‘é€ èˆ¹æ‰€,Namura Shipbuilding
+58,ãƒŸãƒ­ã‚¯æƒ…å ±ã‚µãƒ¼ãƒ“ã‚¹,Miroku Jyoho Service
+58,æ—¥æœ¬ãƒ•ã‚¡ãƒ«ã‚³ãƒ ,Nihon Falcom
+58,å‡ºå‰é¤¨,Demae-can
+58,ã‚¦ã‚§ã‚¶ãƒ¼ãƒ‹ãƒ¥ãƒ¼ã‚ºâ†‘,Weathernewsâ†‘
+57,ä¸‹ä½åœ°éŠ€,Lower-tier Regional Banks
+57,JTBâ†‘,JTBâ†‘
+57,ãƒªã‚¾ãƒ¼ãƒˆãƒˆãƒ©ã‚¹ãƒˆâ†‘,Resorttrustâ†‘
+57,JRåŒ—æµ·é“,JR Hokkaido
+57,ãƒ­ãƒ¼ã‚½ãƒ³,Lawson
+57,ãƒ•ã‚¡ãƒŸãƒªãƒ¼ãƒãƒ¼ãƒˆ,FamilyMart
+57,æ—¥æœ¬èª¿å‰¤,Nihon Chouzai
+57,æ±äº¬ãƒ‰ãƒ¼ãƒ ,Tokyo Dome
+57,åºƒå³¶ã‚¬ã‚¹,Hiroshima Gas
+57,é™å²¡ã‚¬ã‚¹,Shizuoka Gas
+57,å±±ä¹,Sankyu
+57,ã‚¢ã‚¤ãƒªã‚¹ã‚ªãƒ¼ãƒ¤ãƒ,Iris Ohyama
+57,ãƒ‘ã‚½ãƒŠâ†‘,Pasonaâ†‘
+57,ãƒã‚¤ãƒŠãƒ“,Mynavi
+57,ã‚¨ãƒ³ã‚¸ãƒ£ãƒ‘ãƒ³,en-japan
+57,ãƒ“ã‚¸ãƒ§ãƒŠãƒ«,Visional
+57,ã‚¦ã‚©ãƒ³ãƒ†ãƒƒãƒ‰ãƒªãƒ¼,Wantedly
+57,æ—¥æœ¬ã‚¢ã‚¯ã‚¢,Nippon Aqua
+57,ãƒ¦ãƒ‹ãƒã‚«,Unitika
+57,ã‚¿ãƒ‹ã‚¿â†‘,Tanitaâ†‘
+57,ãƒ¡ãƒ‹ã‚³ãƒ³â†“,Meniconâ†“
+57,ã™ã¦ããƒŠã‚¤ã‚¹,Suteki Nice
+57,ãƒªãƒ§ãƒ¼ãƒ“,Ryobi
+57,SWCC,SWCC
+57,æ—¥æœ¬é‹³é‰„ç®¡,Nippon Chutetsukan
+57,ãƒ„ã‚¤ãƒ³ãƒãƒ¼ãƒ‰,Twinbird
+57,ã‚¸ãƒ£ãƒãƒ¡ãƒŸã‚·ãƒ³,Janome Sewing Machine
+57,AIãƒ¡ã‚«ãƒ†ãƒƒã‚¯,AI MechaTech
+57,ãƒ†ã‚¯ãƒãƒ¡ãƒ‡ã‚£ã‚«,Techno Medica
+57,ãƒ€ã‚¤ã‚³ã‚¯é›»æ©Ÿ,Daikoku Denki
+57,ä¸­å¤–é‰±æ¥­,Chugai Mining
+57,å¸å›½ç¹Šç¶­,Teikoku Sen-i
+57,é•·é‡è¨ˆå™¨,Nagano Keiki
+57,æ„›çŸ¥æ™‚è¨ˆé›»æ©Ÿ,Aichi Tokei Denki
+57,å¤é‡é›»æ°—,Furuno Electric
+57,æ˜æ²»é›»æ©Ÿå·¥æ¥­,Meiji Electric Industries
+57,å¸å›½é€šä¿¡å·¥æ¥­,Teikoku Tsushin Kogyo
+57,ãƒãƒ³ãƒ‰ãƒ¼åŒ–å­¦,Bando Chemical
+57,å¤æ²³é›»æ± ,Furukawa Battery
+57,ã‚­ãƒ¤ãƒãƒ³é›»å­,Canon Electronics
+57,æ±äº¬ã‚³ã‚¹ãƒ¢ã‚¹é›»æ©Ÿ,Tokyo Cosmos Electric
+57,ãƒ¡ãƒ‡ã‚£ã‚­ãƒƒãƒˆ,Medikit
+57,é§’äº•ãƒãƒ«ãƒ†ãƒƒã‚¯,Komai Haltec
+57,é»’å´æ’­ç£¨,Krosaki Harima
+57,ãƒ‹ãƒ—ãƒ­,Nipro
+57,ãƒ¨ãƒãƒƒã‚¯ã‚¹,Yonex
+57,ã‚½ãƒ‡ã‚£ãƒƒã‚¯,Sodick
+57,ãƒ‘ãƒ¼ã‚¯24,Park24
+57,ã‚¢ã‚³ãƒ ,Acom
+57,ãƒ—ãƒ­ãƒŸã‚¹,Promise
+57,UUUM,UUUM
+57,ãƒ‰ãƒ¯ãƒ³ã‚´,Dwango
+57,ã‚¿ã‚¦ãƒ³ãƒ‹ãƒ¥ãƒ¼ã‚¹ç¤¾,Townnews
+57,ã‚¼ãƒ³ãƒªãƒ³,Zenrin
+56,ä¸Šä½ä¿¡é‡‘,Top Shinkin Banks
+56,å¸å›½ãƒ›ãƒ†ãƒ«â†‘,Imperial Hotelâ†‘
+56,æ¥½å¤©ãƒ¢ãƒã‚¤ãƒ«,Rakuten Mobile
+56,ãƒŸãƒ‹ã‚¹ãƒˆãƒƒãƒ—,Ministop
+56,è¥¿æ¿ƒé‹è¼¸,Seino Transportation
+56,å¯Œå£«æ€¥è¡Œ,Fuji Kyuko
+56,æ¨ªæµœå†·å‡,Yokorei
+56,å±±å´è£½ãƒ‘ãƒ³,Yamazaki Baking
+56,ä¸äºŒå®¶,Fujiya
+56,æ¹–æ± å±‹,Koike-ya
+56,å…­ç”²ãƒã‚¿ãƒ¼,Rokko Butter
+56,ãƒ±ã‚¹ãƒ“ãƒ¼é£Ÿå“,S&B Foods
+56,äº€ç”°è£½è“,Kameda Seika
+56,ãƒ–ãƒ«ãƒœãƒ³,Bourbon
+56,ä¸­æ‘å±‹,Nakamuraya
+56,ãƒ–ãƒ«ãƒ‰ãƒƒã‚¯ã‚½ãƒ¼ã‚¹,Bull-Dog Sauce
+56,ã‚±ãƒ³ã‚³ãƒ¼ãƒãƒ¨ãƒãƒ¼ã‚º,Kenko Mayonnaise
+56,æ°¸è°·åœ’,Nagatanien
+56,ãƒ¢ãƒ­ã‚¾ãƒ•,Morozoff
+56,é¤Šå‘½é…’è£½é€ ,Yomeishu
+56,ã‚ã‹ã‚‚ã¨è£½è–¬,Wakamoto Pharmaceutical
+56,æ£®ä¸‹ä»ä¸¹,Morishita Jintan
+56,ã‚´ãƒ¼ãƒ«ãƒ‰ã‚¯ãƒ¬ã‚¹ãƒˆ,Goldcrest
+56,ãƒ–ãƒ­ãƒƒã‚³ãƒªãƒ¼,Broccoli
+56,ä¸‰å”ç«‹å±±,Sankyo Tateyama
+56,ã‚ªãƒ¼ã‚¯ãƒ•ã‚¡ãƒ³,Aucfan
+56,ãƒªã‚¹ã‚¯ãƒ¢ãƒ³ã‚¹ã‚¿ãƒ¼,Riskmonster
+56,ä½æ±Ÿç¹”ç‰©,Suminoe Textile
+56,é…’äº•é‡å·¥æ¥­,Sakai Heavy Industries
+56,JUKI,JUKI
+56,ãƒ¦ãƒ‹ãƒãƒ³ã‚¹,Univance
+56,åŒè‘‰é›»å­å·¥æ¥­,Futaba Corporation
+56,NKKã‚¹ã‚¤ãƒƒãƒã‚º,NKK Switches
+56,ãƒšã‚¬ã‚µã‚¹ãƒŸã‚·ãƒ³,Pegasus Sewing Machine
+56,é«˜åœ§ã‚¬ã‚¹å·¥æ¥­,Koatsu Gas Kogyo
+56,ãƒ¦ãƒ¼ã‚·ãƒ³ç²¾æ©Ÿ,Yushin Precision Equipment
+56,æŒ‡æœˆé›»æ©Ÿè£½ä½œæ‰€,Shizuki Electric
+56,æ²³åˆæ¥½å™¨è£½ä½œæ‰€,Kawai Musical Instruments
+56,å°æ¾ãƒãƒ†ãƒ¼ãƒ¬,Komatsu Matere
+56,ANYCOLOR,ANYCOLOR
+56,ã‚·ã‚¹ãƒ†ãƒŠ,Systena
+56,é›»ç®—ã‚·ã‚¹ãƒ†ãƒ ,Densan System
+56,ã‚¢ã‚¤ãƒ•ãƒ«,Aiful
+56,ãƒãƒ¼ã‚¯ãƒ©ã‚¤ãƒ³ã‚º,MarkLines
+56,ãƒ–ã‚¤ã‚­ãƒ¥ãƒ¼ãƒ–,V-cube
+56,ãã‚‹ãªã³,Gurunavi
+56,PayPay,PayPay
+56,ã‚¸ãƒ£ãƒ‘ãƒ³ã‚¨ãƒ¬ãƒ™ãƒ¼ã‚¿ãƒ¼ã‚µãƒ¼ãƒ“ã‚¹,Japan Elevator Service
+56,ãƒ¢ã‚¹ãƒ•ãƒ¼ãƒ‰ã‚µãƒ¼ãƒ“ã‚¹,Mos Food Services
+56,ã‚µã‚¤ã‚¼ãƒªãƒ¤â†‘,Saizeriyaâ†‘
+55,ä¸­ä½ä¿¡é‡‘,Mid-tier Shinkin Banks
+55,HIS,H.I.S.
+55,ç¦å±±é€šé‹,Fukuyama Transporting
+55,éˆ´ä¸,Suzuyo
+55,ã‚¢ãƒ«ãƒ—ã‚¹ç‰©æµ,Alps Logistics
+55,æ—¥æœ¬æ¢±åŒ…é‹è¼¸å€‰åº«,Nippon Konpo Unyu Soko
+55,å‰é‡å®¶,Yoshinoya
+55,æ¾å±‹,Matsuya
+55,FOOD&LIFE,FOOD & LIFE COMPANIES
+55,æ—¥æœ¬KFC,KFC Japan
+55,ã‚±ãƒ¼ã‚ºãƒ‡ãƒ³ã‚­,K's Denki
+55,ã‚»ãƒ³ã‚³ãƒ¼,Senko
+55,æ—¥æœ¬çŸ³æ²¹è¼¸é€,Japan Oil Transportation
+55,KNT-CT,KNT-CT Holdings
+55,UTã‚°ãƒ«ãƒ¼ãƒ—,UT Group
+55,ãƒ¡ã‚¤ãƒ†ãƒƒã‚¯,Meitec
+55,ãƒ†ã‚¯ãƒãƒ—ãƒ­,TechnoPro
+55,ã‚¢ãƒ«ãƒ—ã‚¹æŠ€ç ”,Alps Giken
+55,ãƒ†ã‚£ãƒ¼ã‚¬ã‚¤ã‚¢,T-Gaia
+55,ã‚³ãƒã‚¯ã‚·ã‚ª,Conexio
+55,ã‚·ãƒ€ãƒƒã‚¯ã‚¹,Shidax
+55,ã¾ãã¾ã,Magumagu
+55,gumi,gumi
+55,ã‚·ãƒ³ã‚¯ãƒ­ãƒ»ãƒ•ãƒ¼ãƒ‰,Synchro Food
+55,ãƒªãƒ­ã‚°ãƒ«ãƒ¼ãƒ—,Relo Group
+55,ã‚­ãƒ¼ã‚³ãƒ¼ãƒ’ãƒ¼,Key Coffee
+55,ãƒ›ã‚¯ãƒˆ,Hokuto
+55,ãƒãƒ„ãƒ¢ãƒˆã‚­ãƒ¨ã‚·,Matsumotokiyoshi
+55,ã‚»ãƒ³ãƒˆãƒ©ãƒ«ã‚¹ãƒãƒ¼ãƒ„,Central Sports
+55,ãƒ©ã‚¦ãƒ³ãƒ‰ãƒ¯ãƒ³,Round One
+55,ã‚¤ãƒ ãƒ©å°ç­’,Imura Envelope
+55,ä¸‰è±ãƒãƒ’ãƒ³ãƒ‰ãƒ©è¾²æ©Ÿ,Mitsubishi Mahindra Agricultural Machinery
+55,åŠ è—¤è£½ä½œæ‰€,Kato Works
+55,é˜ªç¥å†…ç‡ƒæ©Ÿå·¥æ¥­,Hanshin Diesel Works
+55,ãƒ€ã‚¤ã‚¸ã‚§ãƒƒãƒˆå·¥æ¥­,Dijet Industrial
+55,æ”¾é›»ç²¾å¯†åŠ å·¥ç ”ç©¶æ‰€,Sodick
+55,ãƒ„ãƒã‚­ãƒ»ãƒŠã‚«ã‚·ãƒ,Tsubaki Nakashima
+55,ãƒˆãƒ©ãƒ³ã‚¹ã‚³ã‚¹ãƒ¢ã‚¹,transcosmos
+55,ãƒ™ãƒ«ã‚·ã‚¹ãƒ†ãƒ 24,Bellsystem24
+55,ã‚½ãƒªãƒˆãƒ³ã‚·ã‚¹ãƒ†ãƒ ã‚º,Soliton Systems
+55,ãƒ‡ãƒ¼ã‚¿ãƒ›ãƒ©ã‚¤ã‚¾ãƒ³,Data Horizon
+55,ã‚´ãƒ«ãƒ•ãƒ€ã‚¤ã‚¸ã‚§ã‚¹ãƒˆ,Golf Digest
+55,ã‚¤ã‚±ã‚¢ã‚¸ãƒ£ãƒ‘ãƒ³,IKEA Japan
+55,ã‚³ã‚¹ãƒˆã‚³ãƒ›ãƒ¼ãƒ«ã‚»ãƒ¼ãƒ«ã‚¸ãƒ£ãƒ‘ãƒ³,Costco Wholesale Japan
+54,ä¸‹ä½ä¿¡é‡‘,Lower-tier Shinkin Banks
+54,è¿‘é‰„ç™¾è²¨åº—,Kintetsu Department Store
+54,ãƒãƒƒã‚¯ã‚¹ãƒãƒªãƒ¥,Maxvalu
+54,å¹³å’Œå ‚,Heiwado
+54,ãƒ¤ã‚ªã‚³ãƒ¼,Yaoko
+54,ãƒ©ã‚¤ãƒ•,Life Corporation
+54,ãƒˆãƒ©ã‚¤ã‚¢ãƒ«,TRIAL
+54,ç¥å¥ˆå·ä¸­å¤®äº¤é€š,Kanagawa Chuo Kotsu
+54,ç¬¬ä¸€äº¤é€šç”£æ¥­,Daiichi Koutsu Sangyo
+54,é´»æ± é‹è¼¸,Konoike Transport
+54,ãƒˆãƒŠãƒŸé‹è¼¸,Tonami Transportation
+54,ä¸¸å’Œé‹è¼¸æ©Ÿé–¢,Maruwa Unyu Kikan
+54,é å·ãƒˆãƒ©ãƒƒã‚¯,Enshu Truck
+54,æ—¥æœ¬ãƒ­ã‚¸ãƒ†ãƒ ,Nippon Logitem
+54,ãƒãƒã‚­ãƒ§ã‚¦ãƒ¬ãƒƒã‚¯ã‚¹,Hamakyorex
+54,åºƒå³¶é›»é‰„,Hiroshima Electric Railway
+54,SANKYO,SANKYO
+54,DCM,DCM
+54,ã‚«ã‚¤ãƒ³ã‚º,CAINZ
+54,ã‚³ãƒ¡ãƒª,KOMERI
+54,ã‚¸ãƒ§ã‚¤ãƒ•ãƒ«æœ¬ç”°,Joyful Honda
+54,RIZAP,RIZAP
+54,ãƒ–ã‚·ãƒ­ãƒ¼ãƒ‰,Bushiroad
+54,ãƒ€ã‚¤ã‚½ãƒ¼,Daiso
+54,éŠ€åº§ãƒ«ãƒã‚¢ãƒ¼ãƒ«,Ginza Renoir
+54,ã‚»ãƒ¼ãƒ©ãƒ¼åºƒå‘Š,Sailor Advertising
+54,å­¦æƒ…,Gakujo
+54,åšå±•,Hakuten
+54,ã‚¦ã‚¨ãƒ«ã‚·ã‚¢,Welcia
+54,ã‚³ã‚¹ãƒ¢ã‚¹è–¬å“,Cosmos Pharmaceutical
+54,ã‚¼ãƒ³ã‚·ãƒ§ãƒ¼,Zensho
+54,ç‹å°†ãƒ•ãƒ¼ãƒ‰ã‚µãƒ¼ãƒ“ã‚¹,Ohsho Food Service
+54,ãƒã‚¤ãƒ‡ã‚¤æ—¥é«˜,Hiday Hidaka
+54,ãƒ‘ãƒ³ãƒ‘ã‚·ãƒ•ã‚£ãƒƒã‚¯ã‚¤ãƒ³ã‚¿ãƒ¼ãƒŠã‚·ãƒ§ãƒŠãƒ«,Pan Pacific International
+54,é‰„äººåŒ–è¨ˆç”»,Tetsujin-ka Keikaku
+54,å¤§å’Œå†·æ©Ÿå·¥æ¥­â†“,Daiwa Industriesâ†“
+54,Aiming,Aiming
+54,æ—©ç¨²ç”°ã‚¢ã‚«ãƒ‡ãƒŸãƒ¼,Waseda Academy
+54,å²é˜œé€ åœ’,Gifu-zoen
+54,é˜¿æ³¢è£½ç´™,Awa Paper
+54,ç§‹å·ç‰§åœ’,Akikawa Bokuen
+54,TKP,TKP
+54,æ˜å…‰ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯ã‚¸ãƒ£ãƒ‘ãƒ³,Meiko Network Japan
+54,ã‚ªãƒªã‚¨ãƒ³ã‚¿ãƒ«ãƒã‚¨ãƒ³å·¥æ¥­,Oriental Chain
+54,æ±äº¬å€‹åˆ¥æŒ‡å°å­¦é™¢,Tokyo Individualized Educational Institute
+54,ç§€è‹±äºˆå‚™æ ¡,Shuei Yobiko
+54,ã‚±ã‚¤ã‚¢ã‚¤ã‚¹ã‚¿ãƒ¼ä¸å‹•ç”£,KI-Star Real Estate
+54,æ—¥ç¥ä¸å‹•ç”£,Nisshin Fudosan
+54,åƒè¶£ä¼šâ†“,Senshukaiâ†“
+53,ç¥æˆ¸ç‰©ç”£,Kobe Bussan
+53,ãƒ¦ãƒŠã‚¤ãƒ†ãƒƒãƒ‰ãƒ»ã‚¹ãƒ¼ãƒ‘ãƒ¼ãƒãƒ¼ã‚±ãƒƒãƒˆ,United Super Markets
+53,ãƒãƒ­ãƒ¼,Valor
+53,ã‚¤ã‚ªãƒ³åŒ—æµ·é“,AEON Hokkaido
+53,ã‚¢ã‚ªã‚­ã‚¹ãƒ¼ãƒ‘ãƒ¼,Aoki Super
+53,ãƒ¤ãƒãƒ€é›»æ©Ÿ,Yamada Denki
+53,ãƒ¨ãƒ‰ãƒã‚·ã‚«ãƒ¡ãƒ©,Yodobashi Camera
+53,ãƒ“ãƒƒã‚¯ã‚«ãƒ¡ãƒ©,Bic Camera
+53,ã‚¨ãƒ‡ã‚£ã‚ªãƒ³,Edion
+53,ä¸Šæ–°é›»æ©Ÿ,Joshin
+53,ãƒã‚¸ãƒ,Nojima
+53,ã‚³ãƒ¼ãƒŠãƒ³å•†äº‹,Kohnan Shoji
+53,é’å±±å•†äº‹,Aoyama Trading
+53,ã¯ã‚‹ã‚„ã¾å•†äº‹,Haruyama Trading
+53,ã‚´ãƒ¼ãƒ«ãƒ‰ã‚¦ã‚¤ãƒ³,Goldwin
+53,ã‚¢ãƒ«ãƒšãƒ³,Alpen
+53,ãƒ’ãƒãƒ©ãƒ¤,HIMARAYA
+53,æ—¥æœ¬ãƒã‚¯ãƒ‰ãƒŠãƒ«ãƒ‰,McDonald's Japan
+53,ã™ã‹ã„ã‚‰ãƒ¼ã,Skylark
+53,ã‚³ãƒ­ãƒ¯ã‚¤ãƒ‰,Colowide
+53,ãƒˆãƒªãƒ‰ãƒ¼ãƒ«,Toridoll
+53,ãƒ–ãƒ­ãƒ³ã‚³ãƒ“ãƒªãƒ¼,Bronco Billy
+53,å£±ç•ªå±‹,Ichibanya
+53,ãƒ‡ã‚¤ãƒªãƒ¼ãƒ¤ãƒã‚¶ã‚­,Daily Yamazaki
+53,ãƒãƒ—ãƒ©,Poplar
+53,ã‚¯ã‚¹ãƒªã®ã‚¢ã‚ªã‚­,Kusuri no Aoki
+53,ã‚»ã‚¤ã‚³ãƒ¼ãƒãƒ¼ãƒˆ,Seicomart
+53,ã‚²ã‚ª,GEO
+53,ãƒãƒ¼ãƒ‰ã‚ªãƒ•ã‚³ãƒ¼ãƒãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³,Hard Off Corporation
+53,ã‚»ãƒªã‚¢,Seria
+53,ã‚¢ã‚¦ãƒˆã‚½ãƒ¼ã‚·ãƒ³ã‚°,Outsourcing
+53,æ´¥ç”°é§’å·¥æ¥­â†“,Tsudakoma Corp.â†“
+53,æ­¯æ„›ãƒ¡ãƒ‡ã‚£ã‚«ãƒ«,Ci Medical
+53,ãƒ‹ãƒã‚¤å­¦é¤¨,Nichii Gakkan
+53,ãƒ„ã‚¯ã‚¤,Tsukui
+53,ã‚±ã‚¢21,Care21
+53,ãƒ›ã‚¯ãƒªãƒ¨ã‚¦,Hokuryo
+53,æ—¥æœ¬ã‚»ãƒ©ãƒŸãƒƒã‚¯,Nippon Ceramic
+53,ç¬¬ä¸€å±‹è£½ãƒ‘ãƒ³,Daiichiya Baking
+53,ã¯ã”ã‚ã‚‚ãƒ•ãƒ¼ã‚º,Hagoromo Foods
+53,ã‚ªã‚«ãƒ ãƒ©é£Ÿå“å·¥æ¥­,Okamura Foods
+53,æŸ¿å®‰æœ¬åº—,Kakiyasu Honten
+53,IBJ,IBJ
+53,æ±å’Œãƒã‚¤ã‚·ã‚¹ãƒ†ãƒ ,Towa Hi-System
+53,ç‰©èªã‚³ãƒ¼ãƒãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³,Monogatari Corporation
+52,ã‚µãƒ³ãƒãƒ«ã‚¯,Saint Marc
+52,ãƒ‰ãƒˆãƒ¼ãƒ«,Doutor
+52,ãã‚‰å¯¿å¸,Kura Sushi
+52,ãƒªãƒ³ã‚¬ãƒ¼ãƒãƒƒãƒˆ,Ringer Hut
+52,ä¸²ã‚«ãƒ„ç”°ä¸­,Kushikatsu Tanaka
+52,æœ¨æ›½è·¯,Kisoji
+52,ãƒ›ãƒƒãƒˆãƒ©ãƒ³ãƒ‰,HotLand
+52,ãƒ•ãƒ©ã‚¤ãƒ³ã‚°ã‚¬ãƒ¼ãƒ‡ãƒ³,Flying Garden
+52,ã‚ªãƒ³ãƒ¯ãƒ¼ãƒ‰æ¨«å±±,Onward Kashiyama
+52,ãƒ¨ãƒ³ãƒ‰ã‚·ãƒ¼,Yondoshi
+52,ãƒãƒ‹ãƒ¼ã‚º,Honeys
+52,ã‚¢ãƒ€ã‚¹ãƒˆãƒªã‚¢,Adastria
+52,ãƒ¦ãƒŠã‚¤ãƒ†ãƒƒãƒ‰ã‚¢ãƒ­ãƒ¼ã‚º,United Arrows
+52,ABCãƒãƒ¼ãƒˆ,ABC-Mart
+52,ãã‚‡ãã¨ã†,Kyokuto
+52,ãƒãƒªãƒ¥ãƒ¼ã‚´ãƒ«ãƒ•,Value Golf
+52,ã‚µã‚«ã‚¤å¼•è¶Šã‚»ãƒ³ã‚¿ãƒ¼,Sakai Moving Service
+52,ã‚¤ã‚ªãƒ³ãƒ•ã‚¡ãƒ³ã‚¿ã‚¸ãƒ¼,AEON Fantasy
+52,å…±ç«‹ãƒ¡ãƒ³ãƒ†ãƒŠãƒ³ã‚¹,Kyoritsu Maintenance
+52,ã‚»ãƒ³ãƒˆãƒ©ãƒ«è­¦å‚™ä¿éšœ,Central Security Patrols
+52,KeePeræŠ€ç ”,KeePer Giken
+52,æ„›çœ¼,Aigan
+52,å¤§é»’å¤©ç‰©ç”£,Daikokuten Bussan
+52,å¯¿ã‚¹ãƒ”ãƒªãƒƒãƒ„,Kotobuki Spirits
+52,ã‚­ãƒ£ãƒ³ãƒ‰ã‚¥,Can Do
+52,ãƒ‰ãƒªãƒ¼ãƒ ãƒ™ãƒƒãƒ‰,Dream Bed
+52,ã‚²ãƒ³ã‚­ãƒ¼,Genky
+52,ãƒ‹ãƒ›ãƒ³ãƒ•ãƒ©ãƒƒã‚·ãƒ¥,Nihon Flush
+52,æ—¥æœ¬ãƒ‘ãƒ¬ãƒƒãƒˆãƒ—ãƒ¼ãƒ«,Nippon Pallet Pool
+52,ã‚¢ã‚¦ãƒˆã‚½ãƒ¼ã‚·ãƒ³ã‚°,Outsourcing
+52,æ—¥æœ¬ã‚±ã‚¢ã‚µãƒ—ãƒ©ã‚¤,Japan Care Supply
+52,ãƒˆãƒ¬ã‚¸ãƒ£ãƒ¼ãƒ»ãƒ•ã‚¡ã‚¯ãƒˆãƒªãƒ¼,Treasure Factory
+51,ãƒ€ã‚¤ãƒŠãƒ ,DYNAM
+51,å¤¢ã¿ã¤ã‘éšŠ,Yumemitsuketai
+51,å¹¸æ¥½è‹‘,Kourakuen
+51,æ¢…ã®èŠ±,Umenohana
+51,ãƒ¯ã‚¿ãƒŸ,Watami
+51,ã‚¢ãƒˆãƒ ,Atom
+51,ã‚¨ã‚¹ã‚¯ãƒª,Escrit
+51,ãƒãƒªãƒ¥ãƒ¼HR,Value HR
+51,PCãƒ‡ãƒ,PC Depot
+51,é›ªå›½ã¾ã„ãŸã‘,Yukiguni Maitake
+51,ã‚¢ã‚¤ãƒ•ãƒªãƒ¼ã‚¯ãƒ¢ãƒã‚¤ãƒ«,I-FREEK MOBILE
+51,ã‚¿ãƒ¡ãƒ‹ãƒ¼,Tameny
+51,æ±äº¬æœƒèˆ˜,Tokyo Kaikan
+51,ãƒ†ã‚£ã‚¢,Tear
+51,ãƒ©ã‚¤ãƒˆã‚ªãƒ³,Right-on
+51,å°åƒ§å¯¿ã—,Kozosushi
+51,ç„¼è‚‰å‚äº•,Yakiniku Sakai
+51,å®‰æ¥½äº­,Anrakutei
+51,ã‚ã¿ã‚„ãäº­,Amiyaki Tei
+51,ã‚«ãƒƒãƒ‘ã‚¯ãƒªã‚¨ã‚¤ãƒˆ,Kappa Create
+51,æ±äº¬ä¸€ç•ªãƒ•ãƒ¼ã‚º,Tokyo Ichiban Foods
+51,ã¾ã‚“ã ã‚‰ã‘,Mandarake
+51,ãƒ—ãƒ¬ãƒŸã‚¢ãƒ ã‚¦ã‚©ãƒ¼ã‚¿ãƒ¼,Premium Water
+51,ã‚¨ã‚¢ãƒˆãƒª,Airtrip
+51,è²·å–ç‹å›½,Kaitori Oukoku
+51,IDOM,IDOM
+51,ã‚¢ãƒ¼ãƒˆãƒã‚¤ãƒãƒ£ãƒ¼,Artnature
+51,ã‚´ãƒ«ãƒ•ãƒ‰ã‚¥,Golf Do
+51,ã‚·ãƒ¼ãƒœãƒ³,C'BON
+51,å¤©æº€å±‹ã‚¹ãƒˆã‚¢,Tenmaya Store
+51,ã‚ªãƒ¼ã‚·ãƒ£ãƒ³ã‚·ã‚¹ãƒ†ãƒ ,Ocean System
+51,ã‚¢ãƒƒãƒ—ãƒ«ã‚¤ãƒ³ã‚¿ãƒ¼ãƒŠã‚·ãƒ§ãƒŠãƒ«,Apple International
+51,ã‚«ãƒ¼ãƒã‚¹,Carchs
+51,ãƒ´ã‚£ãƒ¬ãƒƒã‚¸ãƒ´ã‚¡ãƒ³ã‚¬ãƒ¼ãƒ‰,Village Vanguard
+51,ãƒ¯ã‚·ãƒ³ãƒˆãƒ³ãƒ›ãƒ†ãƒ«,Washington Hotel
+51,ãƒ†ã‚¤ã‚¯ã‚¢ãƒ³ãƒ‰ã‚®ãƒ´ãƒ»ãƒ‹ãƒ¼ã‚º,TAKE AND GIVE. NEEDS
+51,åœ°åŸŸæ–°èç¤¾,Chiiki Shinbunsha
+50,ãƒã‚¯ã‚¹ãƒ†ãƒ¼ã‚¸,Nextage
+50,ã‚°ãƒƒãƒ‰ã‚¹ãƒ”ãƒ¼ãƒ‰,Good Speed
+50,ãƒã‚¤ã‚¯ç‹ï¼†ã‚«ãƒ³ãƒ‘ãƒ‹ãƒ¼,Bike O & Company
+50,ãƒ¬ã‚ªãƒ‘ãƒ¬ã‚¹21,Leopalace21
+50,DLE,DLE
+50,æ—…å·¥æˆ¿,Tabikobo
+50,æ—¥æœ¬PCã‚µãƒ¼ãƒ“ã‚¹,Japan PC Service
+50,ã‚µãƒãƒ³ã‚µã‚¿ãƒã‚µ,Samantha Thavasa
+50,ãƒ¯ã‚¿ãƒ™ã‚¦ã‚§ãƒ‡ã‚£ãƒ³ã‚°,Watabe Wedding
+50,ã‚»ãƒ¼ãƒ©ãƒ¼ä¸‡å¹´ç­†,Sailor Pen
+50,ãƒãƒ¼ãƒãƒ¼ç ”ç©¶æ‰€,HABA Laboratories
+50,å€‰å…ƒè£½ä½œæ‰€,Kuramoto Seisakusho
+50,ãƒ™ãƒ«ã‚°ã‚¢ãƒ¼ã‚¹,Berg Earth
+50,äº¬éƒ½ãƒ›ãƒ†ãƒ«,Kyoto Hotel
+50,ã‚·ãƒ§ã‚¯ãƒ–ãƒ³,Shokubun
+50,æ—¥æœ¬è£½éº»,Nihonseima
+50,å€‰åº«ç²¾ç·´,Soko Seiren
+50,ã‚¢ãƒ¡ã‚¤ã‚º,Amaze
+50,ãƒ›ãƒ†ãƒ«ãƒ‹ãƒ¥ãƒ¼ã‚°ãƒ©ãƒ³ãƒ‰,Hotel New Grand
+50,ã‚ã‚ŠãŒã¨ã†ã‚µãƒ¼ãƒ“ã‚¹,Arigatou Service
+50,WASHãƒã‚¦ã‚¹,WASH House
+50,ãƒ•ãƒ«ãƒƒã‚¿ãƒ•ãƒ«ãƒƒã‚¿,Fruta Fruta
+50,ã‚¹ã‚¿ã‚¸ã‚ªã‚¢ãƒªã‚¹,Studio Alice
+50,ã‚„ã¾ã‚„,Yamaya
+50,ãƒ©ã‚ªãƒƒã‚¯ã‚¹,Laox
+50,æ—¥æœ¬ä¸€ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢,Nippon Ichi Software
+50,ãƒ”ã‚¯ã‚»ãƒ©,Pixela
+50,ãƒšãƒƒãƒ‘ãƒ¼ãƒ•ãƒ¼ãƒ‰ã‚µãƒ¼ãƒ“ã‚¹,Pepper Food Service
+50,å¤ªå¹³æ´‹èˆˆç™º,Taiheiyo Kouhatsu
+50,æ—¥æœ¬é§è»Šå ´é–‹ç™º,Nippon Parking Development
+50,AppBank,AppBank
+50,ã‚°ãƒ¬ã‚¤ã‚¹ãƒ†ã‚¯ãƒãƒ­ã‚¸ãƒ¼,Grace Technology

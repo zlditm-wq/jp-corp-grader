@@ -1,4 +1,3 @@
-
 const translations = {
     siteTitle: { jp: '企業ランク研究所', en: 'Company Rank Institute' },
     navOverview: { jp: '組織概要', en: 'Overview' },
@@ -55,12 +54,12 @@ function renderContent(lang) {
     document.getElementById('searchInput').placeholder = translations.searchPlaceholder[lang];
 }
 
-function renderRankings(lang) {
+function renderRankings(lang, rankingData) {
     const container = document.getElementById('rankings-container');
     container.innerHTML = ''; // Clear previous rankings
-    const rankingData = getRankingsByScore(allRankings);
+    const rankedData = getRankingsByScore(rankingData);
 
-    rankingData.forEach(tier => {
+    rankedData.forEach(tier => {
         const tierDiv = document.createElement('div');
         tierDiv.className = 'rank-tier';
         if (tier.score === 80) tierDiv.id = 'rank-list-start';
@@ -96,7 +95,7 @@ function renderRankings(lang) {
 
 function setLanguage(lang) {
     renderContent(lang);
-    renderRankings(lang);
+    renderRankings(lang, allRankings);
 
     document.querySelectorAll('.lang-switch span[data-lang]').forEach(el => {
         el.classList.toggle('active', el.dataset.lang === lang);

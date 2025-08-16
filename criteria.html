@@ -60,9 +60,9 @@
             criteriaTitle: { jp: '評価基準と具体的な指標', en: 'Evaluation Criteria and Specific Indicators' },
             criteriaText: { jp: '私たちの評価モデルは、以下の4つの主要な領域に基づき、総合的に判断されます。各領域の評価は<strong>5段階（5:非常に優れている〜1:改善の余地がある）</strong>のスコアで示されます。', en: 'Our evaluation model is based on the following four main areas for a comprehensive judgment. The evaluation for each area is indicated by a <strong>5-point scale (5: Excellent ~ 1: Needs Improvement)</strong>.' },
             domain1Title: { jp: '1. 財務的健全性（総合評価の30%）', en: '1. Financial Soundness (30% of Overall Evaluation)' },
-            domain1Text: { jp: '企業の安定性と持続可能性を測る最も重要な指標です。', en: 'This is the most important indicator for measuring a company\'s stability and sustainability.' },
+            domain1Text: { jp: '企業の安定性と持続可能性を測る最も重要な指標です。', en: 'This is the most important indicator for measuring a company\\'s stability and sustainability.' },
             domain2Title: { jp: '2. 技術力・将来性（総合評価の20%）', en: '2. Technological Strength & Future Potential (20% of Overall Evaluation)' },
-            domain2Text: { jp: '企業の持続的な成長ポテンシャルを評価します。', en: 'Evaluates a company\'s sustainable growth potential.' },
+            domain2Text: { jp: '企業の持続的な成長ポテンシャルを評価します。', en: 'Evaluates a company\\'s sustainable growth potential.' },
             domain3Title: { jp: '3. 社員の満足度（総合評価の35%）', en: '3. Employee Satisfaction (35% of Overall Evaluation)' },
             domain3Text: { jp: '従業員が実際に感じる働きがいを最もよく反映します。', en: 'This best reflects the actual job satisfaction felt by employees.' },
             domain4Title: { jp: '4. 社会からの評判（総合評価の15%）', en: '4. Social Reputation (15% of Overall Evaluation)' },
@@ -80,7 +80,7 @@
             });
 
             const mainContent = document.getElementById('main-content');
-            mainContent.innerHTML = `
+            mainContent.innerHTML = '
                 <h1 class="page-title" data-i18n-key="pageTitle"></h1>
                 <section class="content-section">
                     <h2 data-i18n-key="defTitle"></h2>
@@ -159,7 +159,7 @@
                         </tbody>
                     </table>
                 </section>
-            `;
+            ";
             // After rendering the main structure, translate the table content which is not handled by i18n keys
             if (lang === 'en') {
                 translateTableContent();
