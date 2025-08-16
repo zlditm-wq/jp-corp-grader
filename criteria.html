@@ -7,29 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
-    <style>
-        body { font-family: 'Noto Sans JP', sans-serif; background-color: #121212; color: #e0e0e0; margin: 0; }
-        .header { display: flex; justify-content: space-between; align-items: center; padding: 15px 30px; background-color: rgba(28, 28, 28, 0.8); backdrop-filter: blur(10px); border-bottom: 1px solid #333; position: sticky; top: 0; z-index: 1000; }
-        .site-title a { font-weight: 700; font-size: 20px; color: #e0e0e0; text-decoration: none; }
-        .main-nav { display: flex; align-items: center; gap: 25px; }
-        .nav-link { color: #e0e0e0; text-decoration: none; font-size: 15px; transition: color 0.2s; }
-        .nav-link:hover { color: #007bff; }
-        .lang-switch { display: flex; gap: 5px; font-size: 15px; }
-        .lang-switch span[data-lang] { cursor: pointer; transition: color 0.2s, font-weight 0.2s; }
-        .lang-switch .active { font-weight: 700; color: #fff; }
-        .lang-switch .inactive { color: #888; }
-        .container { max-width: 800px; margin: 40px auto; padding: 20px; background-color: #1e1e1e; border: 1px solid #333; border-radius: 12px; }
-        .page-title { font-size: 2.5em; font-weight: 700; text-align: center; margin-bottom: 40px; border-bottom: 2px solid #007bff; padding-bottom: 10px; }
-        .content-section { margin-bottom: 40px; }
-        .content-section h2 { font-size: 1.8em; font-weight: 700; color: #0099ff; border-left: 4px solid #007bff; padding-left: 15px; margin-bottom: 20px; }
-        .content-section h3 { font-size: 1.4em; font-weight: 700; margin-top: 30px; }
-        .content-section p, .content-section li { font-size: 1.1em; line-height: 1.8; color: #ccc; }
-        .content-section ul { list-style-type: disc; padding-left: 20px; }
-        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
-        th, td { border: 1px solid #444; padding: 12px; text-align: left; }
-        th { background-color: #2a2a2a; font-weight: 700; }
-        tr:nth-child(even) { background-color: #252525; }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
@@ -40,6 +18,12 @@
             <a href="index.html#rank-list-start" class="nav-link" data-i18n-key="navResults"></a>
             <a href="criteria.html" class="nav-link" data-i18n-key="navCriteria"></a>
             <a href="#" class="nav-link" data-i18n-key="navMenuSearch"></a>
+            <div class="theme-switch-wrapper">
+                <label class="theme-switch" for="theme-switch-checkbox">
+                    <input type="checkbox" id="theme-switch-checkbox" />
+                    <span class="slider round"></span>
+                </label>
+            </div>
             <div class="lang-switch">
                 <span data-lang="en" class="inactive">EN</span>
                 <span>/</span>
@@ -237,5 +221,6 @@
         });
     </script>
 
+    <script src="theme.js"></script>
 </body>
 </html>

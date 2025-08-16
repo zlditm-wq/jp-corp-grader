@@ -7,60 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&display=swap" rel="stylesheet">
-    <style>
-        body { font-family: 'Noto Sans JP', sans-serif; background-color: #121212; color: #e0e0e0; margin: 0; }
-        html { scroll-behavior: smooth; }
-        .header { display: flex; justify-content: space-between; align-items: center; padding: 15px 30px; background-color: rgba(28, 28, 28, 0.8); backdrop-filter: blur(10px); border-bottom: 1px solid #333; position: sticky; top: 0; z-index: 1000; }
-        .site-title a { font-weight: 700; font-size: 20px; color: #e0e0e0; text-decoration: none; }
-        .main-nav { display: flex; align-items: center; gap: 25px; }
-        .nav-link { color: #e0e0e0; text-decoration: none; font-size: 15px; transition: color 0.2s; }
-        .nav-link:hover { color: #007bff; }
-        .lang-switch { display: flex; gap: 5px; font-size: 15px; }
-        .lang-switch span[data-lang] { cursor: pointer; transition: color 0.2s, font-weight 0.2s; }
-        .lang-switch .active { font-weight: 700; color: #fff; }
-        .lang-switch .inactive { color: #888; }
-        .hero-section { text-align: center; padding: 40px 20px; background-color: #1a1a1a; }
-        .hero-title { font-size: 2.5em; font-weight: 700; margin: 0 0 20px 0; line-height: 1.4; }
-        
-        .image-container {
-            position: relative;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        .hero-image {
-            width: 100%;
-            height: 400px;
-            object-fit: cover;
-            border-radius: 12px;
-            display: block;
-            filter: brightness(0.6);
-        }
-        .image-overlay-text {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            color: white;
-            font-size: 4em;
-            font-weight: 900;
-            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
-            white-space: nowrap;
-        }
-
-        .container { width: 100%; padding: 20px; box-sizing: border-box; }
-        .search-box { width: 100%; max-width: 900px; margin: 0 auto 30px auto; padding: 12px 15px; border: 1px solid #444; border-radius: 8px; background-color: #2a2a2a; color: #e0e0e0; font-size: 16px; display: block; }
-        .search-box:focus { outline: none; border-color: #007bff; box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25); }
-        .rank-tier { max-width: 900px; margin: 0 auto 20px auto; display: flex; align-items: flex-start; padding: 15px 0; border-bottom: 1px solid #333; }
-        .tier-header { flex-shrink: 0; margin-right: 20px; }
-        .tier-title { font-size: 20px; font-weight: 700; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; border-radius: 50%; color: #121212; }
-        .tier-80 { background: #ffd700; }
-        .tier-70 { background: #ffc107; }
-        .tier-60 { background: #c0c0c0; }
-        .tier-50 { background: #cd7f32; }
-        .company-container { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
-        .company-name { background-color: #333; padding: 6px 12px; border-radius: 15px; font-size: 15px; display: inline-block; transition: background-color 0.2s; cursor: pointer; }
-        .company-name:hover { background-color: #007bff; color: #fff; }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
@@ -71,6 +18,12 @@
             <a href="#rank-list-start" class="nav-link" data-i18n-key="navResults"></a>
             <a href="criteria.html" class="nav-link" data-i18n-key="navCriteria"></a>
             <a href="#" class="nav-link" data-i18n-key="navMenuSearch"></a>
+            <div class="theme-switch-wrapper">
+                <label class="theme-switch" for="theme-switch-checkbox">
+                    <input type="checkbox" id="theme-switch-checkbox" />
+                    <span class="slider round"></span>
+                </label>
+            </div>
             <div class="lang-switch">
                 <span data-lang="en" class="inactive">EN</span>
                 <span>/</span>
@@ -238,5 +191,6 @@
         });
     </script>
 
+    <script src="theme.js"></script>
 </body>
 </html>
