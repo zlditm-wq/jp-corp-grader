@@ -42,11 +42,15 @@
         </section>
 
         <div class="container">
-            <input type="text" id="searchInput" class="search-box">
-            <div id="rankings-container">
-                <!-- Rankings will be rendered by JavaScript -->
+                <input type="text" id="searchInput" class="search-box">
+                <div class="sort-options">
+                    <button id="sortByScoreBtn" data-i18n-key="sortByScore" class="active"></button>
+                    <button id="sortByNameBtn" data-i18n-key="sortByName"></button>
+                </div>
+                <div id="rankings-container">
+                    <!-- Rankings will be rendered by JavaScript -->
+                </div>
             </div>
-        </div>
     </main>
 
     <script src="ranking.js"></script>

@@ -19,7 +19,7 @@ html { scroll-behavior: smooth; }
 .search-box:focus { outline: none; border-color: #007bff; box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25); }
 .rank-tier { max-width: 900px; margin: 0 auto 20px auto; display: flex; align-items: flex-start; padding: 15px 0; border-bottom: 1px solid #333; transition: border-bottom 0.3s; }
 .tier-header { flex-shrink: 0; margin-right: 20px; }
-.tier-title { font-size: 20px; font-weight: 700; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; border-radius: 50%; color: #121212; }
+.tier-title { font-size: 28px; font-weight: 700; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; border-radius: 50%; color: #121212; }
 .tier-80 { background: #ffd700; }
 .tier-70 { background: #ffc107; }
 .tier-60 { background: #c0c0c0; }
@@ -67,3 +67,37 @@ input:checked + .slider:before { transform: translateX(26px); }
 .slider.round { border-radius: 34px; }
 .slider.round:before { border-radius: 50%; }
 .theme-switch-wrapper span { font-size: 15px; }
+
+.sort-options { margin-bottom: 20px; text-align: center; }
+.sort-options button { background-color: #333; color: #e0e0e0; border: 1px solid #555; padding: 8px 16px; cursor: pointer; transition: background-color 0.2s; border-radius: 5px; margin: 0 5px; }
+.sort-options button.active { background-color: #007bff; color: #fff; }
+body.light-mode .sort-options button { background-color: #e9ecef; color: #333; border: 1px solid #ccc; }
+body.light-mode .sort-options button.active { background-color: #007bff; color: #fff; }
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.rank-tier.fade-in {
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+@media (max-width: 768px) {
+    .header { flex-direction: column; align-items: flex-start; padding: 15px; }
+    .main-nav { width: 100%; flex-direction: column; align-items: flex-start; gap: 15px; margin-top: 15px; }
+    .hero-title { font-size: 2em; }
+    .image-overlay-text { font-size: 2.5em; }
+    .container { padding: 15px; }
+}
+@media (max-width: 480px) {
+    .hero-title { font-size: 1.8em; }
+    .image-overlay-text { font-size: 2em; }
+    .company-name { font-size: 14px; padding: 5px 10px; }
+}
