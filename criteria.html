@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>選考基準 - AI企業評価ランキング</title>
+    <title>選定基準 - AI企業評価ランキング</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
@@ -37,163 +37,221 @@
     </main>
 
     <script>
-        const translations = { 
+        const pageContent = {
+            jp: {
+                pageTitle: '選定基準',
+                introTitle: '企業ランク研究所：私たちの選定基準について',
+                introText: '当研究所の企業評価は、表面的な情報や一時的なトレンドに左右されることなく、企業の本質的な価値と将来性を多角的に分析する独自の評価モデルに基づいています。長年にわたりグローバルな信用評価、戦略コンサルティング、会計税務、人材紹介の現場で培ってきた専門的な知見を融合し、財務的健全性はもちろんのこと、従業員のエンゲージメント、企業の社会的責任（ESG）、そして将来の成長ポテンシャルまでを総合的に評価いたします。',
+                modelTitle: '詳細な評価項目と数値モデル',
+                modelText: '以下の4つの主要な評価領域に重み付けを行い、各領域内でさらに細分化された指標を用いて総合点を算出します。これはあくまでも当サービスの評価モデルの一例であり、市場のトレンドやデータに応じて常に最適化されます。',
+                tableH1: '評価領域', tableH2: '重み', tableH3: '主な評価項目',
+                cat1: '財務的健全性', cat1w: '30%', cat1i: '自己資本比率、収益性・成長性、研究開発投資',
+                cat2: '社員満足度', cat2w: '30%', cat2i: '年収・待遇、働きがい・企業文化、労働環境（残業時間・有給消化率）',
+                cat3: '社会的評判', cat3w: '25%', cat3i: 'ESG/CSR活動評価、法令遵守・コンプライアンス関連ニュース',
+                cat4: '学生からの関心度', cat4w: '15%', cat4i: '大手就職サイト人気ランキング、採用予定人数と知名度',
+                total: '総合計', totalw: '100%',
+                processTitle: '評価プロセスの具体例（A社の場合）',
+                processIntro: '上記のモデルに基づき、仮想の「A社」を評価した際のプロセスを以下に示します。',
+                step1Title: '1. 財務的健全性（重み：30%）',
+                step1Item1: '自己資本比率：同業他社と比較して安定しているため 90点',
+                step1Item2: '収益性・成長性：新規事業への投資が活発で将来性が高いため 85点',
+                step1Item3: '研究開発投資：業界平均を上回るため 95点',
+                step1Calc: '加重点： 90点 × 0.30 = 27.0点',
+                step2Title: '2. 社員満足度（重み：30%）',
+                step2Item1: '年収・待遇：OpenWorkの平均年収は業界平均よりやや高いため 80点',
+                step2Item2: '働きがい・企業文化：レビューで「挑戦的」「やりがいがある」との声が多いため 90点',
+                step2Item3: '労働環境：残業時間が少なく、有給消化率も高いため 95点',
+                step2Calc: '加重点： 88.3点 × 0.30 = 26.5点',
+                step3Title: '3. 社会的評判（重み：25%）',
+                step3Item1: 'ESG/CSR活動評価：社会貢献活動に積極的で、メディア露出も多いため 90点',
+                step3Item2: 'コンプライアンス：過去に不祥事の報道がなく、クリーンなイメージが強いため 100点',
+                step3Calc: '加重点： 95点 × 0.25 = 23.8点',
+                step4Title: '4. 学生からの関心度（重み：15%）',
+                step4Item1: '就職サイトランキング：人気ランキングで常に上位を維持しているため 95点',
+                step4Item2: '採用予定人数と知名度：採用人数が多く、テレビCMなどで知名度が高いため 90点',
+                step4Calc: '加重点： 92.5点 × 0.15 = 13.9点',
+                chartTitle: 'A社 競争力分析',
+                finalTitle: '最終総合点とランク付け',
+                finalText: '上記の加重点を合計し、91.2点という最終総合点を算出します。この点数に基づき、A社は当研究所の<strong>「Sランク」</strong>に分類されます。このように、当研究所の評価モデルは客観的なデータに基づき、利用者様が納得のいく企業選択をできるようサポートします。'
+            },
+            en: {
+                pageTitle: 'Selection Criteria',
+                introTitle: 'Company Rank Institute: About Our Selection Criteria',
+                introText: 'Our corporate evaluation is based on a unique model that analyzes the essential value and future potential of companies from multiple perspectives, without being swayed by superficial information or temporary trends. We integrate specialized knowledge cultivated over many years in global credit assessment, strategic consulting, accounting, taxation, and recruitment to comprehensively evaluate not only financial soundness but also employee engagement, corporate social responsibility (ESG), and future growth potential.',
+                modelTitle: 'Detailed Evaluation Items and Numerical Model',
+                modelText: 'We calculate a comprehensive score by weighting the following four main evaluation areas and using further subdivided indicators within each area. This is just one example of our service\'s evaluation model and is constantly optimized according to market trends and data.',
+                tableH1: 'Evaluation Area', tableH2: 'Weight', tableH3: 'Main Evaluation Items',
+                cat1: 'Financial Soundness', cat1w: '30%', cat1i: 'Equity ratio, profitability/growth, R&D investment',
+                cat2: 'Employee Satisfaction', cat2w: '30%', cat2i: 'Annual income/benefits, job satisfaction/corporate culture, work environment (overtime hours/paid leave utilization)',
+                cat3: 'Social Reputation', cat3w: '25%', cat3i: 'ESG/CSR activity evaluation, legal compliance/compliance-related news',
+                cat4: 'Student Interest', cat4w: '15%', cat4i: 'Major job site popularity rankings, planned number of hires and name recognition',
+                total: 'Total', totalw: '100%',
+                processTitle: 'Example of Evaluation Process (for Company A)',
+                processIntro: 'The following shows the process for evaluating a virtual \'Company A\' based on the model above.',
+                step1Title: '1. Financial Soundness (Weight: 30%)',
+                step1Item1: 'Equity Ratio: Stable compared to industry peers - 90 pts',
+                step1Item2: 'Profitability/Growth: High potential due to active investment in new businesses - 85 pts',
+                step1Item3: 'R&D Investment: Exceeds industry average - 95 pts',
+                step1Calc: 'Weighted Score: 90 pts × 0.30 = 27.0 pts',
+                step2Title: '2. Employee Satisfaction (Weight: 30%)',
+                step2Item1: 'Annual Income/Benefits: Avg. annual income on OpenWork is slightly higher than industry avg. - 80 pts',
+                step2Item2: 'Job Satisfaction/Culture: Many reviews mention "challenging" and "rewarding" - 90 pts',
+                step2Item3: 'Work Environment: Low overtime hours and high paid leave utilization - 95 pts',
+                step2Calc: 'Weighted Score: 88.3 pts × 0.30 = 26.5 pts',
+                step3Title: '3. Social Reputation (Weight: 25%)',
+                step3Item1: 'ESG/CSR Evaluation: Active in social contribution, high media exposure - 90 pts',
+                step3Item2: 'Compliance: No reports of past scandals, strong clean image - 100 pts',
+                step3Calc: 'Weighted Score: 95 pts × 0.25 = 23.8 pts',
+                step4Title: '4. Student Interest (Weight: 15%)',
+                step4Item1: 'Job Site Rankings: Consistently high in popularity rankings - 95 pts',
+                step4Item2: 'Planned Hires/Name Recognition: Large number of hires, high recognition from TV commercials, etc. - 90 pts',
+                step4Calc: 'Weighted Score: 92.5 pts × 0.15 = 13.9 pts',
+                chartTitle: 'Company A Competitiveness Analysis',
+                finalTitle: 'Final Composite Score and Ranking',
+                finalText: 'By summing the weighted scores, a final composite score of 91.2 is calculated. Based on this score, Company A is classified as <strong>"S Rank"</strong> by our institute. In this way, our evaluation model, based on objective data, supports users in making corporate choices they can be satisfied with.'
+            }
+        };
+
+        const navTranslations = {
             siteTitle: { jp: '企業ランク研究所', en: 'Company Rank Institute' },
             navOverview: { jp: 'サイト紹介', en: 'Overview' },
             navResults: { jp: '選定結果', en: 'Results' },
             navCriteria: { jp: '選定基準', en: 'Criteria' },
-            navMenuSearch: { jp: 'メニュー検索', en: 'Menu Search' },
-            pageTitle: { jp: '選考基準', en: 'Selection Criteria' },
-            defTitle: { jp: '就職偏差値の定義', en: 'Definition of Job-Hunting Deviation Score' },
-            defText: { jp: '従来の就職情報が企業の知名度や財務状況のみに偏りがちだったのに対し、私たちはAIベースの企業評価モデルを用いて、より多角的で客観的な情報を提供します。<br><br>私たちのサービスにおける<strong>「就職偏差値」</strong>とは、単なる入社の難易度や人気度を示すものではありません。<strong>入社後の働きがい、キャリアパス、そして社会的な評判までを総合的に加味し、「その企業に就職することで、どれだけ充実したビジネスパーソンとしての人生を送れるか」という潜在能力を数値化したものです。</strong><br><br>この評価は、伝統的な統計学的な「偏差値」とは一線を画しますが、膨大な定量・定性データを横断的に分析することで、就職活動を行うすべての人にとって、より良い選択をするための羅針盤となることを目指しています。', en: 'Whereas conventional job information tends to be biased toward only the name recognition and financial status of companies, we use an AI-based corporate evaluation model to provide more multifaceted and objective information.<br><br>The <strong>"Job-Hunting Deviation Score"</strong> in our service does not simply indicate the difficulty of joining a company or its popularity. <strong>It is a numerical representation of the potential for a fulfilling life as a business person by joining that company, comprehensively taking into account post-employment job satisfaction, career path, and social reputation.</strong><br><br>Although this evaluation differs from the traditional statistical "deviation score," by analyzing vast amounts of quantitative and qualitative data across the board, we aim for it to become a compass for everyone engaged in job hunting to make better choices.' },
-            methodTitle: { jp: '評価方法', en: 'Evaluation Method' },
-            methodText: { jp: '公正かつ透明性の高い「就職偏差値」を算出するため、私たちは以下の多段階プロセスを経て評価を決定しています。', en: 'To calculate a fair and highly transparent "Job-Hunting Deviation Score," we determine our evaluations through the following multi-stage process.' },
-            methodStep1: { jp: '<strong>データ評価：</strong> 国内外の公開情報（上場・非上場企業の財務データ、業績、従業員データなど）をAIで数値化し、一次評価を策定します。', en: '<strong>Data Evaluation:</strong> We digitize public information from both domestic and international sources (financial data of listed and unlisted companies, performance, employee data, etc.) with AI to formulate a primary evaluation.' },
-            methodStep2: { jp: '<strong>専門家評価：</strong> 数値データだけでは捉えきれない、企業の社風や不祥事、キャリアパスの柔軟性といった要素について、当社の専門家が評価を補正します。', en: '<strong>Expert Evaluation:</strong> Our experts correct the evaluation for factors that cannot be captured by numerical data alone, such as corporate culture, scandals, and flexibility of career paths.' },
-            methodStep3: { jp: '<strong>意見収集：</strong> 外部の有識者や業界関係者からの意見を幅広く収集し、評価の客観性と精度をさらに高めます。', en: '<strong>Opinion Gathering:</strong> We collect a wide range of opinions from external experts and industry insiders to further enhance the objectivity and accuracy of our evaluations.' },
-            methodStep4: { jp: '<strong>最終決定：</strong> これらすべてのプロセスを経て、最終的な評価を公開します。公開後も社会情勢や新たな情報を基に評価を継続的に見直し、常に最新かつ正確な情報を提供します。', en: '<strong>Final Decision:</strong> After all these processes, we publish the final evaluation. Even after publication, we continuously review the evaluations based on social conditions and new information to always provide the latest and most accurate information.' },
-            neutralityTitle: { jp: '中立性の担保', en: 'Ensuring Neutrality' },
-            neutralityText: { jp: '私たちの企業評価における中立性は、最も重要な価値観です。私はグローバルな信用評価機関での勤務経験を通じて、厳格な評価プロセスと利益相反の回避がいかに重要かを深く理解しています。その経験から、当社の評価モデルは徹底した中立性を確保しています。', en: 'Neutrality in our corporate evaluations is our most important value. Through my work experience at a global credit rating agency, I have a deep understanding of how crucial a rigorous evaluation process and the avoidance of conflicts of interest are. Based on that experience, our evaluation model ensures thorough neutrality.' },
-            neutralityPoint1: { jp: '<strong>利益相反の排除：</strong> 評価対象企業とは一切の取引関係を持たず、採用支援事業にも関与しません。', en: '<strong>Elimination of Conflicts of Interest:</strong> We have no business relationships with the companies we evaluate and are not involved in any recruitment support businesses.' },
-            neutralityPoint2: { jp: '<strong>独立した収益源：</strong> 企業からの評価依頼料ではなく、第三者広告（SSPパートナー経由）を主な収益源とすることで、特定の企業に依存しない独立性を維持しています。', en: '<strong>Independent Revenue Source:</strong> Our main source of revenue is third-party advertising (via SSP partners), not evaluation fees from companies, thereby maintaining independence without relying on specific companies.' },
-            neutralityPoint3: { jp: '<strong>厳格な内部監査：</strong> 評価プロセス全体を内部監査し、いかなる評価の歪みも許さない体制を構築しています。', en: '<strong>Strict Internal Audits:</strong> We internally audit the entire evaluation process and have established a system that does not permit any distortion in evaluations.' },
-            criteriaTitle: { jp: '評価基準と具体的な指標', en: 'Evaluation Criteria and Specific Indicators' },
-            criteriaText: { jp: '私たちの評価モデルは、以下の4つの主要な領域に基づき、総合的に判断されます。各領域の評価は<strong>5段階（5:非常に優れている〜1:改善の余地がある）</strong>のスコアで示されます。', en: 'Our evaluation model is based on the following four main areas for a comprehensive judgment. The evaluation for each area is indicated by a <strong>5-point scale (5: Excellent ~ 1: Needs Improvement)</strong>.' },
-            domain1Title: { jp: '1. 財務的健全性（総合評価の30%）', en: '1. Financial Soundness (30% of Overall Evaluation)' },
-            domain1Text: { jp: '企業の安定性と持続可能性を測る最も重要な指標です。', en: 'This is the most important indicator for measuring a company\\'s stability and sustainability.' },
-            domain2Title: { jp: '2. 技術力・将来性（総合評価の20%）', en: '2. Technological Strength & Future Potential (20% of Overall Evaluation)' },
-            domain2Text: { jp: '企業の持続的な成長ポテンシャルを評価します。', en: 'Evaluates a company\\'s sustainable growth potential.' },
-            domain3Title: { jp: '3. 社員の満足度（総合評価の35%）', en: '3. Employee Satisfaction (35% of Overall Evaluation)' },
-            domain3Text: { jp: '従業員が実際に感じる働きがいを最もよく反映します。', en: 'This best reflects the actual job satisfaction felt by employees.' },
-            domain4Title: { jp: '4. 社会からの評判（総合評価の15%）', en: '4. Social Reputation (15% of Overall Evaluation)' },
-            domain4Text: { jp: '企業が社会からどの程度信頼されているかを評価します。', en: 'Assesses the degree to which a company is trusted by society.' },
-            tableHeader1: { jp: '評価指標', en: 'Evaluation Metric' },
-            tableHeader2: { jp: '評価基準（例）', en: 'Evaluation Standard (Example)' }
+            navMenuSearch: { jp: 'メニュー検索', en: 'Menu Search' }
         };
 
         function renderContent(lang) {
             document.querySelectorAll('[data-i18n-key]').forEach(el => {
                 const key = el.dataset.i18nKey;
-                if (translations[key] && translations[key][lang]) {
-                    el.innerHTML = translations[key][lang];
+                if (navTranslations[key] && navTranslations[key][lang]) {
+                    el.textContent = navTranslations[key][lang];
                 }
             });
 
+            const content = pageContent[lang];
             const mainContent = document.getElementById('main-content');
-            mainContent.innerHTML = '
-                <h1 class="page-title" data-i18n-key="pageTitle"></h1>
-                <section class="content-section">
-                    <h2 data-i18n-key="defTitle"></h2>
-                    <p data-i18n-key="defText"></p>
+            
+            const radarChartSVG = createRadarChart(lang);
+
+            mainContent.innerHTML = `
+                <h1 class="page-title">${content.pageTitle}</h1>
+                <section class="content-section criteria-intro">
+                    <h2>${content.introTitle}</h2>
+                    <p>${content.introText}</p>
                 </section>
+
                 <section class="content-section">
-                    <h2 data-i18n-key="methodTitle"></h2>
-                    <p data-i18n-key="methodText"></p>
-                    <ul>
-                        <li data-i18n-key="methodStep1"></li>
-                        <li data-i18n-key="methodStep2"></li>
-                        <li data-i18n-key="methodStep3"></li>
-                        <li data-i18n-key="methodStep4"></li>
-                    </ul>
-                </section>
-                <section class="content-section">
-                    <h2 data-i18n-key="neutralityTitle"></h2>
-                    <p data-i18n-key="neutralityText"></p>
-                    <ul>
-                        <li data-i18n-key="neutralityPoint1"></li>
-                        <li data-i18n-key="neutralityPoint2"></li>
-                        <li data-i18n-key="neutralityPoint3"></li>
-                    </ul>
-                </section>
-                <section class="content-section">
-                    <h2 data-i18n-key="criteriaTitle"></h2>
-                    <p data-i18n-key="criteriaText"></p>
-
-                    <h3 data-i18n-key="domain1Title"></h3>
-                    <p data-i18n-key="domain1Text"></p>
+                    <h2>${content.modelTitle}</h2>
+                    <p>${content.modelText}</p>
                     <table>
-                        <thead><tr><th data-i18n-key="tableHeader1"></th><th data-i18n-key="tableHeader2"></th></tr></thead>
+                        <thead>
+                            <tr><th>${content.tableH1}</th><th>${content.tableH2}</th><th>${content.tableH3}</th></tr>
+                        </thead>
                         <tbody>
-                            <tr><td>収益性</td><td>営業利益率（10%以上：5点、5%〜10%未満：4点など）</td></tr>
-                            <tr><td>成長性</td><td>売上高成長率（直近3年平均10%以上：5点など）</td></tr>
-                            <tr><td>安定性</td><td>自己資本比率（50%以上：5点、30%〜50%未満：4点など）</td></tr>
-                            <tr><td>効率性</td><td>ROA/ROE（業界平均と比較）</td></tr>
-                            <tr><td>非財務</td><td>不祥事リスク（過去5年の不祥事、金融庁からの指摘など）</td></tr>
+                            <tr><td>${content.cat1}</td><td>${content.cat1w}</td><td>${content.cat1i}</td></tr>
+                            <tr><td>${content.cat2}</td><td>${content.cat2w}</td><td>${content.cat2i}</td></tr>
+                            <tr><td>${content.cat3}</td><td>${content.cat3w}</td><td>${content.cat3i}</td></tr>
+                            <tr><td>${content.cat4}</td><td>${content.cat4w}</td><td>${content.cat4i}</td></tr>
                         </tbody>
-                    </table>
-
-                    <h3 data-i18n-key="domain2Title"></h3>
-                    <p data-i18n-key="domain2Text"></p>
-                    <table>
-                        <thead><tr><th data-i18n-key="tableHeader1"></th><th data-i18n-key="tableHeader2"></th></tr></thead>
-                        <tbody>
-                            <tr><td>研究開発</td><td>売上高に対するR&D投資比率（5%以上：5点など）</td></tr>
-                            <tr><td>技術革新</td><td>保有特許数、新技術導入件数（業界平均と比較）</td></tr>
-                            <tr><td>ビジネスモデル</td><td>事業ポートフォリオの多様性（特定事業への依存度）</td></tr>
-                            <tr><td>DX/AI推進</td><td>DX推進体制、AI活用事例の有無</td></tr>
-                        </tbody>
-                    </table>
-
-                    <h3 data-i18n-key="domain3Title"></h3>
-                    <p data-i18n-key="domain3Text"></p>
-                    <table>
-                        <thead><tr><th data-i18n-key="tableHeader1"></th><th data-i18n-key="tableHeader2"></th></tr></thead>
-                        <tbody>
-                            <tr><td>労働環境</td><td>平均残業時間（月20時間以下：5点、20〜40時間：4点など）</td></tr>
-                            <tr><td>福利厚生</td><td>育児・介護休業制度、住宅手当、その他福利厚生</td></tr>
-                            <tr><td>給与水準</td><td>平均年収（同業他社、平均勤続年数と比較）</td></tr>
-                            <tr><td>キャリアパス</td><td>昇進・昇格の透明性、部署異動の柔軟性</td></tr>
-                            <tr><td>社風</td><td>社員レビューのキーワード分析（例：「風通しが良い」が多い：5点）</td></tr>
-                        </tbody>
-                    </table>
-
-                    <h3 data-i18n-key="domain4Title"></h3>
-                    <p data-i18n-key="domain4Text"></p>
-                    <table>
-                        <thead><tr><th data-i18n-key="tableHeader1"></th><th data-i18n-key="tableHeader2"></th></tr></thead>
-                        <tbody>
-                            <tr><td>メディア評価</td><td>メディアでの露出頻度、ニュースの感情分析（ポジティブ/ネガティブ）</td></tr>
-                            <tr><td>専門家評価</td><td>証券アナリストの評価、業界内での評判</td></tr>
-                            <tr><td>ESG活動</td><td>CSR活動、環境・社会貢献への取り組み</td></tr>
-                            <tr><td>ブランドイメージ</td><td>企業知名度、ブランドイメージ調査</td></tr>
-                        </tbody>
+                        <tfoot>
+                            <tr><td><strong>${content.total}</strong></td><td><strong>${content.totalw}</strong></td><td></td></tr>
+                        </tfoot>
                     </table>
                 </section>
-            ";
-            // After rendering the main structure, translate the table content which is not handled by i18n keys
-            if (lang === 'en') {
-                translateTableContent();
-            }
+
+                <section class="evaluation-process-section">
+                    <h3>${content.processTitle}</h3>
+                    <p>${content.processIntro}</p>
+                    <div class="evaluation-step">
+                        <h4>${content.step1Title}</h4>
+                        <ul><li>${content.step1Item1}</li><li>${content.step1Item2}</li><li>${content.step1Item3}</li></ul>
+                        <p class="score-calculation">${content.step1Calc}</p>
+                    </div>
+                    <div class="evaluation-step">
+                        <h4>${content.step2Title}</h4>
+                        <ul><li>${content.step2Item1}</li><li>${content.step2Item2}</li><li>${content.step2Item3}</li></ul>
+                        <p class="score-calculation">${content.step2Calc}</p>
+                    </div>
+                    <div class="evaluation-step">
+                        <h4>${content.step3Title}</h4>
+                        <ul><li>${content.step3Item1}</li><li>${content.step3Item2}</li></ul>
+                        <p class="score-calculation">${content.step3Calc}</p>
+                    </div>
+                    <div class="evaluation-step">
+                        <h4>${content.step4Title}</h4>
+                        <ul><li>${content.step4Item1}</li><li>${content.step4Item2}</li></ul>
+                        <p class="score-calculation">${content.step4Calc}</p>
+                    </div>
+                </section>
+                
+                <div class="chart-card">
+                    <h3>${content.chartTitle}</h3>
+                    <div class="radar-chart-container">
+                        ${radarChartSVG}
+                    </div>
+                </div>
+
+                <section class="final-score-section">
+                    <h3>${content.finalTitle}</h3>
+                    <p>${content.finalText}</p>
+                </section>
+            `;
         }
 
-        function translateTableContent() {
-            // This is a simplified translation for the table content as it's not in the main translations object.
-            // A more robust solution would fetch this from the object as well.
-            const translations = {
-                '収益性': 'Profitability', '営業利益率（10%以上：5点、5%〜10%未満：4点など）': 'Operating Profit Margin (e.g., >10%: 5 pts, 5-10%: 4 pts)',
-                '成長性': 'Growth', '売上高成長率（直近3年平均10%以上：5点など）': 'Sales Growth Rate (e.g., >10% avg over 3 yrs: 5 pts)',
-                '安定性': 'Stability', '自己資本比率（50%以上：5点、30%〜50%未満：4点など）': 'Equity Ratio (e.g., >50%: 5 pts, 30-50%: 4 pts)',
-                '効率性': 'Efficiency', 'ROA/ROE（業界平均と比較）': 'ROA/ROE (compared to industry average)',
-                '非財務': 'Non-Financial', '不祥事リスク（過去5年の不祥事、金融庁からの指摘など）': 'Scandal Risk (scandals in past 5 yrs, regulatory warnings, etc.)',
-                '研究開発': 'R&D', '売上高に対するR&D投資比率（5%以上：5点など）': 'R&D to Sales Ratio (e.g., >5%: 5 pts)',
-                '技術革新': 'Innovation', '保有特許数、新技術導入件数（業界平均と比較）': 'Number of Patents, New Tech Adoptions (vs. industry avg)',
-                'ビジネスモデル': 'Business Model', '事業ポートフォリオの多様性（特定事業への依存度）': 'Business Portfolio Diversity (dependency on specific sectors)',
-                'DX/AI推進': 'DX/AI Promotion', 'DX推進体制、AI活用事例の有無': 'DX Promotion Structure, AI Use Cases',
-                '労働環境': 'Work Environment', '平均残業時間（月20時間以下：5点、20〜40時間：4点など）': 'Avg. Overtime (e.g., <20h/mo: 5 pts, 20-40h: 4 pts)',
-                '福利厚生': 'Welfare', '育児・介護休業制度、住宅手当、その他福利厚生': 'Child/Care Leave, Housing Allowance, etc.',
-                '給与水準': 'Salary Level', '平均年収（同業他社、平均勤続年数と比較）': 'Avg. Annual Salary (vs. peers, avg. tenure)',
-                'キャリアパス': 'Career Path', '昇進・昇格の透明性、部署異動の柔軟性': 'Promotion Transparency, Transfer Flexibility',
-                '社風': 'Corporate Culture', '社員レビューのキーワード分析（例：「風通しが良い」が多い：5点）': 'Employee Review Keyword Analysis (e.g., many "open atmosphere": 5 pts)',
-                'メディア評価': 'Media Reputation', 'メディアでの露出頻度、ニュースの感情分析（ポジティブ/ネガティブ）': 'Media Exposure, News Sentiment Analysis (Pos/Neg)',
-                '専門家評価': 'Expert Reputation', '証券アナリストの評価、業界内での評判': 'Securities Analyst Ratings, Industry Reputation',
-                'ESG活動': 'ESG Activities', 'CSR活動、環境・社会貢献への取り組み': 'CSR, Environmental & Social Contributions',
-                'ブランドイメージ': 'Brand Image', '企業知名度、ブランドイメージ調査': 'Corporate Recognition, Brand Image Surveys'
+        function createRadarChart(lang) {
+            const data = {
+                labels: [pageContent[lang].cat1, pageContent[lang].cat2, pageContent[lang].cat3, pageContent[lang].cat4],
+                datasets: [{
+                    label: 'A社',
+                    data: [25, 20, 22, 10],
+                    max: [30, 30, 25, 15]
+                }]
             };
-            document.querySelectorAll('td').forEach(td => {
-                if(translations[td.textContent]) {
-                    td.textContent = translations[td.textContent];
+
+            const size = 400;
+            const center = size / 2;
+            const radius = size * 0.4;
+            const numLevels = 4;
+            const angleSlice = Math.PI * 2 / data.labels.length;
+
+            let svg = `<svg width="${size}" height="${size}" viewBox="0 0 ${size} ${size}" class="radar-chart">`;
+
+            // Grid
+            for (let i = 1; i <= numLevels; i++) {
+                const levelRadius = radius * (i / numLevels);
+                let points = '';
+                for (let j = 0; j < data.labels.length; j++) {
+                    const x = center + levelRadius * Math.cos(angleSlice * j - Math.PI / 2);
+                    const y = center + levelRadius * Math.sin(angleSlice * j - Math.PI / 2);
+                    points += `${x},${y} `;
                 }
+                svg += `<polygon points="${points}" class="grid"/>`;
+            }
+
+            // Axes
+            for (let i = 0; i < data.labels.length; i++) {
+                const x = center + radius * Math.cos(angleSlice * i - Math.PI / 2);
+                const y = center + radius * Math.sin(angleSlice * i - Math.PI / 2);
+                svg += `<line x1="${center}" y1="${center}" x2="${x}" y2="${y}" class="axis"/>`;
+                // Labels
+                const labelX = center + (radius * 1.1) * Math.cos(angleSlice * i - Math.PI / 2);
+                const labelY = center + (radius * 1.1) * Math.sin(angleSlice * i - Math.PI / 2);
+                const textAnchor = (i === 0 || i === data.labels.length / 2) ? 'middle' : (i > data.labels.length / 2 ? 'end' : 'start');
+                svg += `<text x="${labelX}" y="${labelY}" dy=".35em" text-anchor="${textAnchor}" class="axis-label">${data.labels[i]}</text>`;
+            }
+
+            // Data Polygon
+            let dataPoints = '';
+            data.datasets[0].data.forEach((value, i) => {
+                const dataRadius = radius * (value / data.datasets[0].max[i]);
+                const x = center + dataRadius * Math.cos(angleSlice * i - Math.PI / 2);
+                const y = center + dataRadius * Math.sin(angleSlice * i - Math.PI / 2);
+                dataPoints += `${x},${y} `;
             });
+            svg += `<polygon points="${dataPoints}" class="data-polygon"/>`;
+
+            svg += `</svg>`;
+            return svg;
         }
 
         function setLanguage(lang) {
@@ -204,6 +262,7 @@
             });
             localStorage.setItem('preferredLanguage', lang);
             document.documentElement.lang = lang;
+            document.title = pageContent[lang].pageTitle + ' - AI企業評価ランキング';
         }
 
         function initializeLangSwitch() {
