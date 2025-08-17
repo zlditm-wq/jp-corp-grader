@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>組織概要 - AI企業評価ランキング</title>
+    <title>サイト紹介 - AI企業評価ランキング</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -37,38 +37,76 @@
     </main>
 
     <script>
-        const translations = {
+        const pageContent = {
+            jp: {
+                pageTitle: 'サイト紹介',
+                aboutTitle: '企業ランク研究所について',
+                aboutText: 'グローバルな信用評価機関や戦略コンサル、会計税務法人、そして人材紹介会社での豊富な経験を持つ私たちが、「日本で就職・転職を考えているすべての人々が、より良いキャリア選択をできるようにサポートしたい」という強い想いを抱き、この「企業ランク研究所」を開設しました。<br><br>私たちは、単なる企業名や売上高だけでは見えない、企業の本質的な価値を深く掘り下げています。長年にわたるクレジット評価、財務分析、人材紹介の知見を活かし、知名度だけではない、本当に価値ある企業評価を提供します。',
+                strengthsTitle: '当サービスのユニークな強み',
+                strength1Title: '多角的な評価',
+                strength1Text: '財務諸表の精密な分析、社員満足度、将来的なキャリアパスといった「定量的・定性的」な要素を統合し、独自のランキングを算出します。',
+                strength2Title: '信頼性の高い情報源',
+                strength2Text: '信用評価機関のデータから、各企業のIR情報、さらには『マイナビ』『リクナビ』などの大手人材会社や、社員の生の声が集まる『OpenWork』まで、多岐にわたる信頼性の高い情報源を網羅的に集計し、独自の分析ツールを駆使しています。',
+                conclusionText: 'この研究所は、国内外の日本での就職を目指す学生や社会人の皆様が、納得のいく企業選びをできるよう、誠心誠意サポートいたします。'
+            },
+            en: {
+                pageTitle: 'About Us',
+                aboutTitle: 'About the Company Rank Institute',
+                aboutText: 'With extensive experience in global credit rating agencies, strategic consulting, accounting and tax firms, and recruitment agencies, we established the "Company Rank Institute" with a strong desire to "support everyone thinking about finding a job or changing careers in Japan to make better career choices."<br><br>We delve deep into the essential value of companies, which cannot be seen from just the company name or sales figures. Leveraging our many years of knowledge in credit assessment, financial analysis, and recruitment, we provide truly valuable corporate evaluations that go beyond just name recognition.',
+                strengthsTitle: 'Unique Strengths of Our Service',
+                strength1Title: 'Multifaceted Evaluation',
+                strength1Text: 'We calculate our original rankings by integrating both "quantitative and qualitative" factors, such as precise analysis of financial statements, employee satisfaction, and future career paths.',
+                strength2Title: 'Reliable Information Sources',
+                strength2Text: 'We comprehensively aggregate a wide range of reliable information sources, from credit rating agency data and corporate IR information to major recruitment companies like "Mynavi" and "Rikunabi," and even "OpenWork," where employees\u0027 real voices are gathered, and make full use of our original analysis tools.',
+                conclusionText: 'This institute is sincerely dedicated to supporting students and professionals, both from Japan and abroad, who are aiming to find employment in Japan, so that they can make corporate choices they are satisfied with.'
+            }
+        };
+
+        const navTranslations = {
             siteTitle: { jp: '企業ランク研究所', en: 'Company Rank Institute' },
             navOverview: { jp: 'サイト紹介', en: 'Overview' },
             navResults: { jp: '選定結果', en: 'Results' },
             navCriteria: { jp: '選定基準', en: 'Criteria' },
-            navMenuSearch: { jp: 'メニュー検索', en: 'Menu Search' },
-            pageTitle: { jp: '組織概要', en: 'Overview' },
-            greetingTitle: { jp: '企業ランク研究所について', en: 'About the Company Rank Institute' },
-            greetingText: { jp: 'グローバルな信用評価機関や戦略コンサル、会計税務法人、そして人材紹介会社での豊富な経験を持つ私たちが、「日本で就職・転職を考えているすべての人々が、より良いキャリア選択をできるようにサポートしたい」という強い想いを抱き、この「企業ランク研究所」を開設しました。<br><br>私たちは、単なる企業名や売上高だけでは見えない、企業の本質的な価値を深く掘り下げています。長年にわたるクレジット評価、財務分析、人材紹介の知見を活かし、知名度だけではない、本当に価値ある企業評価を提供します。', en: 'With extensive experience in global credit rating agencies, strategic consulting, accounting and tax firms, and recruitment agencies, we established the "Company Rank Institute" with a strong desire to "support everyone thinking about finding a job or changing careers in Japan to make better career choices."<br><br>We delve deep into the essential value of companies, which cannot be seen from just the company name or sales figures. Leveraging our many years of knowledge in credit assessment, financial analysis, and recruitment, we provide truly valuable corporate evaluations that go beyond just name recognition.' },
-            overviewTitle: { jp: '当サービスのユニークな強み', en: 'Unique Strengths of Our Service' },
-            overviewText: { jp: '多角的な評価: 財務諸表の精密な分析、社員満足度、将来的なキャリアパスといった「定量的・定性的」な要素を統合し、独自のランキングを算出します。<br><br>信頼性の高い情報源: 信用評価機関のデータから、各企業のIR情報、さらには『マイナビ』『リクナビ』などの大手人材会社や、社員の生の声が集まる『OpenWork』まで、多岐にわたる信頼性の高い情報源を網羅的に集計し、独自の分析ツールを駆使しています。<br><br>この研究所は、国内外の日本での就職を目指す学生や社会人の皆様が、納得のいく企業選びをできるよう、誠心誠意サポートいたします。', en: 'Multifaceted Evaluation: We calculate our original rankings by integrating both "quantitative and qualitative" factors, such as precise analysis of financial statements, employee satisfaction, and future career paths.<br><br>Reliable Information Sources: We comprehensively aggregate a wide range of reliable information sources, from credit rating agency data and corporate IR information to major recruitment companies like "Mynavi" and "Rikunabi," and even "OpenWork," where employees\' real voices are gathered, and make full use of our original analysis tools.<br><br>This institute is sincerely dedicated to supporting students and professionals, both from Japan and abroad, who are aiming to find employment in Japan, so that they can make corporate choices they are satisfied with.' }
+            navMenuSearch: { jp: 'メニュー検索', en: 'Menu Search' }
         };
 
         function renderContent(lang) {
             document.querySelectorAll('[data-i18n-key]').forEach(el => {
                 const key = el.dataset.i18nKey;
-                if (translations[key] && translations[key][lang]) {
-                    el.textContent = translations[key][lang];
+                if (navTranslations[key] && navTranslations[key][lang]) {
+                    el.textContent = navTranslations[key][lang];
                 }
             });
 
+            const content = pageContent[lang];
             const mainContent = document.getElementById('main-content');
             mainContent.innerHTML = `
-                <h1 class="page-title" data-i18n-key="pageTitle">${translations.pageTitle[lang]}</h1>
-                <section class="content-section">
-                    <h2 data-i18n-key="greetingTitle">${translations.greetingTitle[lang]}</h2>
-                    <p data-i18n-key="greetingText">${translations.greetingText[lang]}</p>
+                <h1 class="page-title">${content.pageTitle}</h1>
+                
+                <section class="content-section about-section">
+                    <h2>${content.aboutTitle}</h2>
+                    <p>${content.aboutText}</p>
                 </section>
-                <section class="content-section">
-                    <h2 data-i18n-key="overviewTitle">${translations.overviewTitle[lang]}</h2>
-                    <p data-i18n-key="overviewText">${translations.overviewText[lang]}</p>
-                    <img src="corp-grader image.png" alt="サービス紹介画像" style="width: 100%; max-width: 600px; margin: 20px auto; display: block; border-radius: 8px;">
+
+                <section class="content-section strengths-section">
+                    <h2>${content.strengthsTitle}</h2>
+                    <div class="card-container">
+                        <div class="card">
+                            <svg class="card-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/><path d="M12 10h-2v2H8v-2H6v-2h2V6h2v2h2v2z"/></svg>
+                            <h3>${content.strength1Title}</h3>
+                            <p>${content.strength1Text}</p>
+                        </div>
+                        <div class="card">
+                            <svg class="card-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 15l-3.5-3.5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+                            <h3>${content.strength2Title}</h3>
+                            <p>${content.strength2Text}</p>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="content-section conclusion-section">
+                    <img src="corp-grader image.png" alt="サービス紹介画像">
+                    <p>${content.conclusionText}</p>
                 </section>
             `;
         }
@@ -95,6 +133,7 @@
             const preferredLanguage = localStorage.getItem('preferredLanguage') || 'jp';
             initializeLangSwitch();
             setLanguage(preferredLanguage);
+            document.title = pageContent[preferredLanguage].pageTitle + ' - AI企業評価ランキング';
         });
     </script>
 
