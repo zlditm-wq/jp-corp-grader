@@ -1,8 +1,8 @@
 const translations = {
     siteTitle: { jp: '企業ランク研究所', en: 'Company Rank Institute' },
-    navOverview: { jp: '組織概要', en: 'Overview' },
-    navResults: { jp: '選考結果', en: 'Results' },
-    navCriteria: { jp: '選考基準', en: 'Criteria' },
+    navOverview: { jp: 'サイト紹介', en: 'Overview' },
+    navResults: { jp: '選定結果', en: 'Results' },
+    navCriteria: { jp: '選定基準', en: 'Criteria' },
     navMenuSearch: { jp: 'メニュー検索', en: 'Menu Search' },
     heroTitle: { jp: '【2025年】日本主要企業・就職ランキング', en: '[2025] Major Japanese Companies Job-Hunting Ranking' },
     imageOverlay: { jp: '企業ランク研究所', en: 'Company Rank Institute' },
